@@ -2,7 +2,7 @@ from dataclasses import dataclass
 from datetime import datetime
 from enum import Enum
 
-from src.SemVer import SemVerComparison
+from src.SemVer import SemVer
 
 
 class Challenges(Enum):
@@ -24,7 +24,7 @@ class Status(Enum):
     UNKNOWN = "???"
 
 
-class LANGUAGES(Enum):
+class Languages(Enum):
     GO = "go"
     RUST = "rust"
     PYTHON = "python"
@@ -49,7 +49,7 @@ class LANGUAGES(Enum):
 
 @dataclass
 class Language:
-    name: LANGUAGES
+    name: Languages
     version: tuple[int, int]
     updated_on: datetime
 
@@ -57,7 +57,7 @@ class Language:
         return f"v{self.version[0]}.{self.version[1]}"
 
     def set_version(self, version: str):
-        self.version = SemVerComparison.parse_version(version)
+        self.version = SemVer.parse_version(version)
 
 
 @dataclass
@@ -72,4 +72,4 @@ class VersionSupport:
         return f"v{self.version[0]}.{self.version[1]}"
 
     def set_version(self, version: str):
-        self.version = SemVerComparison.parse_version(version)
+        self.version = SemVer.parse_version(version)

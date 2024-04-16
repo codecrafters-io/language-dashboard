@@ -1,7 +1,7 @@
 import re
 
 
-class SemVerComparison:
+class SemVer:
     @classmethod
     def _parse_version(cls, version: str) -> tuple[int, int, int, str]:
         # Parses the version passed in as a str,
@@ -28,8 +28,8 @@ class SemVerComparison:
         # If version1 > version2, return 1
         # Else -1, if same version return 0.
         # skip_patch_and_prerelease is a flag to skip patch and prerelease comparison.
-        parsed_v1 = SemVerComparison.parse_version(version1)
-        parsed_v2 = SemVerComparison.parse_version(version2)
+        parsed_v1 = SemVer.parse_version(version1)
+        parsed_v2 = SemVer.parse_version(version2)
         if skip_patch_and_prerelease:
             v1 = parsed_v1[:2] + ("", "")
             v2 = parsed_v2[:2] + ("", "")

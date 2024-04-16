@@ -2,10 +2,11 @@ import pandas as pd
 
 from src.EolAPI import EOLApi
 from src.GithubAPI import GithubAPI
-from src.meta import LANGUAGES, Challenges, Language, Status, VersionSupport
-from src.SemVer import SemVerComparison
-from src.utils import (get_days_from_today, parse_datetime_string,
-                       parse_dockerfile_names, parse_version_data_from_yaml)
+from src.meta import Challenges, Languages, Status, VersionSupport
+from src.SemVer import SemVer
+from src.utils import (get_days_from_today, get_or_fetch_language_cycle,
+                       get_status_from_elapsed_time, parse_dockerfile_names,
+                       parse_version_data_from_yaml)
 
 gh = GithubAPI()
 eol = EOLApi()
@@ -15,38 +16,28 @@ repo_owner = "codecrafters-io"
 docker_file_path = "dockerfiles"
 repositories = list(c.value for c in Challenges)
 
-language_cycle_data = parse_version_data_from_yaml(
+all_language_cycle_data = parse_version_data_from_yaml(
     local_version_data_file_path
 )
-v: list[VersionSupport] = []
+all_version_support_data: list[VersionSupport] = []
 
 
 for challenge in Challenges:
     repo_name = challenge.value
-    response = gh.get_repo_contents(repo_owner, repo_name, "dockerfiles")
+    response = gh.get_repo_contents(repo_owner, repo_name, docker_file_path)
     dockerfiles = parse_dockerfile_names(response.json())
 
     for language in dockerfiles:
-        if language not in language_cycle_data:
-            eol_data = eol.fetch_data(language)
-            latest_version, latest_version_release_date = eol.parse_response(
-                eol_data
-            )
-
-            version = SemVerComparison.parse_version(latest_version)
-            datetime = parse_datetime_string(latest_version_release_date)
-            language_cycle_data[language] = Language(
-                LANGUAGES(language), version, datetime
-            )
-
+        language_cycle = get_or_fetch_language_cycle(
+            language, eol, all_language_cycle_data
+        )
         version = dockerfiles[language]
-        lang = language_cycle_data[language]
-        v.append(
+        all_version_support_data.append(
             VersionSupport(
-                lang,
+                language_cycle,
                 challenge,
                 version,
-                get_days_from_today(lang.updated_on),
+                get_days_from_today(language_cycle.updated_on),
                 Status.UNKNOWN,
             )
         )
@@ -55,43 +46,38 @@ output_file = "dashboard.md"
 with open(output_file, "w") as file:
     file.write("# CodeCrafters Challenge Language Support\n")
 
-for l in LANGUAGES:
-    language = l.value
-    filtered = list(
-        filter(lambda x: x.language == language_cycle_data[language], v)
+for key in Languages:
+    language = key.value
+    filtered_version_support_data = filter(
+        lambda x: x.language == all_language_cycle_data[language],
+        all_version_support_data,
     )
 
-    for entries in filtered:
-        ref = entries.language
-        compare = SemVerComparison.compare_versions(
-            ref.version, entries.version
+    for version_support in filtered_version_support_data:
+        comparison = SemVer.compare_versions(
+            version_support.language.version, version_support.version
         )
-        match compare:
+        match comparison:
             case 0:
-                entries.status = Status.UP_TO_DATE
+                version_support.status = Status.UP_TO_DATE
             case 1:
-                if entries.days_since_update < 365:
-                    entries.status = Status.OUTDATED
-                if entries.days_since_update <= 14:
-                    entries.status = Status.UP_TO_DATE
-                elif entries.days_since_update <= 90:
-                    entries.status = Status.BEHIND
-                else:
-                    entries.status = Status.OUTDATED
+                version_support.status = get_status_from_elapsed_time(
+                    version_support.days_since_update
+                )
 
     df = pd.DataFrame()
 
-    for entry in filtered:
-        challenge_name = entry.challenge.name
-        language = entry.language.name.value
-        language_obj = language_cycle_data[language]
+    for version_support in filtered_version_support_data:
+        challenge_name = version_support.challenge.name
+        language = version_support.language.name.value
+        language_obj = all_language_cycle_data[language]
         df.loc[challenge_name, f"{language}_release_cycle"] = (
             language_obj.generate_version_string()
         )
         df.loc[challenge_name, f"{language}_supported_cycle"] = (
-            entry.generate_version_string()
+            version_support.generate_version_string()
         )
-        df.loc[challenge_name, "support_status"] = entry.status.value
+        df.loc[challenge_name, "support_status"] = version_support.status.value
 
     with open(output_file, "a") as file:
         file.write(f"## {language}\n")
