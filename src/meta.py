@@ -2,7 +2,7 @@ from dataclasses import dataclass
 from datetime import datetime
 from enum import Enum
 
-from SemVer import SemVerComparison
+from src.SemVer import SemVerComparison
 
 
 class Challenges(Enum):
@@ -44,12 +44,12 @@ class LANGUAGES(Enum):
     ZIG = "zig"
     KOTLIN = "kotlin"
     NIM = "nim"
-    # SWIFT = "swift"
+    SWIFT = "swift"
 
 
 @dataclass
 class Language:
-    name: str
+    name: LANGUAGES
     version: tuple[int, int]
     updated_on: datetime
 

@@ -2,7 +2,8 @@ import re
 
 
 class SemVerComparison:
-    def _parse_version(self, version: str) -> tuple[int, int, int, str]:
+    @classmethod
+    def _parse_version(cls, version: str) -> tuple[int, int, int, str]:
         # Parses the version passed in as a str,
         # Returns a tuple of major, minor, patch and prerelease.
         # If prerelease is not present, it is set to an empty string.
@@ -17,12 +18,12 @@ class SemVerComparison:
         return major, minor, patch, prerelease
 
     @classmethod
-    def parse_version(self, version: str) -> tuple[int, int]:
-        return self._parse_version(self, version)[:2]
+    def parse_version(cls, version: str) -> tuple[int, int]:
+        return cls._parse_version(version)[0:2]
 
     @classmethod
     def _compare_versions(
-        self, version1: str, version2: str, skip_patch_and_prerelease=True
+        cls, version1: str, version2: str, skip_patch_and_prerelease=True
     ) -> int:
         # If version1 > version2, return 1
         # Else -1, if same version return 0.
@@ -51,7 +52,7 @@ class SemVerComparison:
 
     @classmethod
     def compare_versions(
-        self, version1: tuple[int, int], version2: tuple[int, int]
+        cls, version1: tuple[int, int], version2: tuple[int, int]
     ) -> int:
         # If version1 > version2, return 1
         # Else -1, if same version return 0.
@@ -61,21 +62,3 @@ class SemVerComparison:
             elif p1 < p2:
                 return -1
         return 0
-
-
-# # Assuming you have a list of versions
-# versions = ["1.8", "1.12", "1.5", "2.0"]
-
-# # To find the maximum version
-# max_version = max(
-#     versions, key=functools.cmp_to_key(SemVerComparison.compare_versions)
-# )
-# print(max_version)  # Output: 2.0
-
-# # To find the minimum version
-# min_version = min(
-#     versions, key=functools.cmp_to_key(SemVerComparison.compare_versions)
-# )
-# print(min_version)  # Output: 1.5
-
-# print(SemVerComparison.parse_version("1.8.0"))

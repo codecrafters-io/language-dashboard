@@ -5,7 +5,8 @@ class EOLApi:
     def __init__(self) -> None:
         pass
 
-    def fetch_data(self, language: str) -> list[dict[str, str]]:
+    @staticmethod
+    def fetch_data(language: str) -> list[dict[str, str]]:
         url = f"https://endoflife.date/api/{language}.json"
         headers = {"Accept": "application/json"}
         response = requests.get(url, headers=headers)
@@ -14,9 +15,8 @@ class EOLApi:
             raise RuntimeError(f"Language '{language}' not found")
         return data
 
-    def parse_response(
-        self, response: list[dict[str, str]]
-    ) -> tuple[str, str]:
+    @staticmethod
+    def parse_response(response: list[dict[str, str]]) -> tuple[str, str]:
         latest_cycle = response[0]
         latest_version, latest_version_release_date = (
             latest_cycle["cycle"],
