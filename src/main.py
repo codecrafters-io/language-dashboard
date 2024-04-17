@@ -12,6 +12,11 @@ from src.utils import (Challenges, Languages, Status, VersionSupport,
                        get_status_from_elapsed_time, parse_dockerfile_names,
                        parse_version_data_from_yaml)
 
+LOCAL_VERSION_DATA_FILE_PATH = r"./data.yaml"
+REPO_OWNER = "codecrafters-io"
+DOCKER_FILE_PATH = "dockerfiles"
+OUTPUT_FILE_PATH, TEMPLATE_FILE_PATH = "README.md", "TEMPLATE.md"
+
 
 @logger.catch
 def main() -> None:
@@ -21,13 +26,8 @@ def main() -> None:
         f"Starting run at {datetime.datetime.now(datetime.timezone.utc).isoformat()}"
     )
 
-    local_version_data_file_path = r"./data.yaml"
-    repo_owner = "codecrafters-io"
-    docker_file_path = "dockerfiles"
-    output_file, template_file = "README.md", "TEMPLATE.md"
-
     all_language_cycle_data = parse_version_data_from_yaml(
-        local_version_data_file_path
+        LOCAL_VERSION_DATA_FILE_PATH
     )
     all_version_support_data: list[VersionSupport] = []
 
@@ -35,7 +35,7 @@ def main() -> None:
         repo_name = challenge.value
         logger.debug(f"Processing: {repo_name}")
         response = gh.get_repo_contents(
-            repo_owner, repo_name, docker_file_path
+            REPO_OWNER, repo_name, DOCKER_FILE_PATH
         )
         dockerfiles = parse_dockerfile_names(response.json())
         logger.debug(
@@ -60,7 +60,8 @@ def main() -> None:
     logger.info(
         "Finished fetching and processing language and version data. Starting to render markdown"
     )
-    copy_template_to_readme(template_file, output_file)
+    copy_template_to_readme(TEMPLATE_FILE_PATH, OUTPUT_FILE_PATH)
+
     for key in Languages:
         language_identifier = key.name
         language_display_name = key.value
@@ -98,7 +99,7 @@ def main() -> None:
                 version_support.generate_version_string()
             )
 
-        with open(output_file, "a") as file:
+        with open(OUTPUT_FILE_PATH, "a") as file:
             link = f"https://app.codecrafters.io/tracks/{language_identifier}"
             file.write(f"### [{language_display_name}]({link})\n")
             file.write(df.to_markdown())

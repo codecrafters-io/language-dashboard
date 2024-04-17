@@ -94,16 +94,6 @@ def get_days_from_today(date: datetime) -> int:
     return difference
 
 
-def convert_timestamp_format(input_string: str) -> str:
-    input_format = "%Y-%m-%dT%H:%M:%SZ"  # Input: 2024-04-09T13:12:23Z
-    output_format = "%Y-%m-%d"
-
-    input_datetime = datetime.strptime(input_string, input_format)
-    output_string = input_datetime.strftime(output_format)
-
-    return output_string  # Output: 2024-03-04
-
-
 def parse_datetime_string(date_str: str) -> datetime:
     # Accepts and parses date string in format "YYYY-MM-DD"
     date_obj = datetime.strptime(date_str, "%Y-%m-%d")

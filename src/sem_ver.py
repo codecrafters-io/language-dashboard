@@ -23,14 +23,6 @@ class SemVer:
         return v[0], v[1]
 
     @classmethod
-    def _compare_versions(cls, version1: str, version2: str) -> int:
-        # If version1 > version2, return 1
-        # Else -1, if same version return 0.
-        parsed_v1 = SemVer.parse_version(version1)
-        parsed_v2 = SemVer.parse_version(version2)
-        return cls.compare_versions(parsed_v1, parsed_v2)
-
-    @classmethod
     def compare_versions(
         cls, version1: tuple[int, int], version2: tuple[int, int]
     ) -> int:
