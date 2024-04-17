@@ -27,7 +27,7 @@ jobs:
 
       - name: Run script to update README
         env:
-          API_PAT_GITHUB: ${{ secrets.API_PAT_GITHUB }}
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         run: python -m src.main
 
       - name: Upload file as artifact

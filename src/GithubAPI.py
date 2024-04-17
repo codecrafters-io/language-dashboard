@@ -5,7 +5,7 @@ import requests
 
 class GithubAPI:
     def __init__(self) -> None:
-        self.token = os.environ.get("API_PAT_GITHUB")
+        self.token = os.environ.get("API_TOKEN_GITHUB")
         self.base_url = "https://api.github.com"
 
     def generate_headers_for_github_api(self) -> dict[str, str]:
