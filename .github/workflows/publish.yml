@@ -1,5 +1,5 @@
 ---
-name: "Publish README job"
+name: "Publish README"
 on:
   push:
     branches:
@@ -12,7 +12,6 @@ permissions:
 
 jobs:
   update-readme:
-    name: "Python job"
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
