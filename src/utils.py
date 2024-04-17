@@ -4,6 +4,7 @@ from collections import defaultdict
 from datetime import datetime
 
 import yaml
+from loguru import logger
 
 from src.EolAPI import EOLApi
 from src.meta import Language, Languages, Status
@@ -33,7 +34,9 @@ def parse_datetime_string(date_str: str) -> datetime:
     return date_obj
 
 
-def parse_dockerfile_names(data: list[dict[str, str]]):
+def parse_dockerfile_names(
+    data: list[dict[str, str]]
+) -> dict[str, tuple[int, int]]:
     version_data: dict[str, tuple[int, int]] = defaultdict(lambda: (0, 0))
 
     for file in data:
@@ -50,11 +53,13 @@ def parse_dockerfile_names(data: list[dict[str, str]]):
 
 
 def parse_version_data_from_yaml(file_path: str) -> dict[str, Language]:
+    logger.debug(f"Reading version data from {file_path}")
     language_cycle_data: dict[str, Language] = {}
 
     assert os.path.exists(file_path), "Version data file not found."
     with open(file_path, "r") as file:
         data = yaml.safe_load(file)
+    logger.info(f"Data read from file for languages: {data.keys()}")
 
     for language, version_data in data.items():
         version_string, date_string = version_data.values()
@@ -64,12 +69,13 @@ def parse_version_data_from_yaml(file_path: str) -> dict[str, Language]:
             name=Languages(language), version=version, updated_on=dt
         )
 
+    logger.debug(f"Read and parsed data from file: {language_cycle_data}")
     return language_cycle_data
 
 
 def get_or_fetch_language_cycle(
     language: str, eol: EOLApi, language_cycle_data: dict[str, Language]
-):
+) -> Language:
     if language not in language_cycle_data:
         eol_data = eol.fetch_data(language)
         latest_version, latest_version_release_date = eol.parse_response(
@@ -77,20 +83,30 @@ def get_or_fetch_language_cycle(
         )
 
         version = SemVer.parse_version(latest_version)
-        datetime = parse_datetime_string(latest_version_release_date)
+        timestamp = parse_datetime_string(latest_version_release_date)
         language_cycle_data[language] = Language(
-            Languages(language), version, datetime
+            Languages(language), version, timestamp
         )
 
     return language_cycle_data[language]
 
 
-def get_status_from_elapsed_time(elapsed_time: int) -> Status:
-    if elapsed_time < 365:
-        return Status.OUTDATED
-    if elapsed_time <= 14:
-        return Status.UP_TO_DATE
-    elif elapsed_time <= 90:
-        return Status.BEHIND
-    else:
-        return Status.OUTDATED
+def get_status_from_elapsed_time(
+    version_comparison_int: int, elapsed_time: int
+) -> Status:
+    # if version_comparison_int == 0: Same version
+    # If version_comparison_int == 1: New version available
+    match version_comparison_int:
+        case 0:
+            return Status.UP_TO_DATE
+        case 1:
+            if elapsed_time < 365:
+                return Status.OUTDATED
+            if elapsed_time <= 14:
+                return Status.UP_TO_DATE
+            elif elapsed_time <= 90:
+                return Status.BEHIND
+            else:
+                return Status.OUTDATED
+
+    return Status.UNKNOWN

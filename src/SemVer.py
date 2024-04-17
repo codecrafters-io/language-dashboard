@@ -22,33 +22,12 @@ class SemVer:
         return cls._parse_version(version)[0:2]
 
     @classmethod
-    def _compare_versions(
-        cls, version1: str, version2: str, skip_patch_and_prerelease=True
-    ) -> int:
+    def _compare_versions(cls, version1: str, version2: str) -> int:
         # If version1 > version2, return 1
         # Else -1, if same version return 0.
-        # skip_patch_and_prerelease is a flag to skip patch and prerelease comparison.
         parsed_v1 = SemVer.parse_version(version1)
         parsed_v2 = SemVer.parse_version(version2)
-        if skip_patch_and_prerelease:
-            v1 = parsed_v1[:2] + ("", "")
-            v2 = parsed_v2[:2] + ("", "")
-
-        for p1, p2 in zip(v1[:3], v2[:3]):
-            if p1 > p2:
-                return 1
-            elif p1 < p2:
-                return -1
-
-        # Prerelease comparison.
-        if v1[3] == v2[3]:
-            return 0
-        elif v1[3] == "":
-            return 1
-        elif v2[3] == "":
-            return -1
-        else:
-            return -1 if v1[3] < v2[3] else 1
+        return cls.compare_versions(parsed_v1, parsed_v2)
 
     @classmethod
     def compare_versions(

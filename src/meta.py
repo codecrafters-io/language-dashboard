@@ -56,8 +56,11 @@ class Language:
     def generate_version_string(self) -> str:
         return f"v{self.version[0]}.{self.version[1]}"
 
-    def set_version(self, version: str):
+    def set_version(self, version: str) -> None:
         self.version = SemVer.parse_version(version)
+
+    def __repr__(self) -> str:
+        return f"{self.name.value} {self.generate_version_string()} updated at {self.updated_on.date()}"
 
 
 @dataclass
@@ -71,5 +74,8 @@ class VersionSupport:
     def generate_version_string(self) -> str:
         return f"v{self.version[0]}.{self.version[1]}"
 
-    def set_version(self, version: str):
+    def set_version(self, version: str) -> None:
         self.version = SemVer.parse_version(version)
+
+    def __repr__(self) -> str:
+        return f"{self.challenge.name}:{self.language.name.name} => {self.generate_version_string()}"
