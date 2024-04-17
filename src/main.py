@@ -79,7 +79,7 @@ def main() -> None:
             f"Found {len((filtered_version_support_data))} entries for {language}"
         )
         df = pd.DataFrame()
-        df.index.name = "Challenge"
+        df.index.name = "challenge"
 
         for version_support in filtered_version_support_data:
             comparison = SemVer.compare_versions(
@@ -89,7 +89,7 @@ def main() -> None:
                 comparison, version_support.days_since_update
             )
 
-            challenge_name = version_support.challenge.name
+            challenge_name = version_support.challenge.name.capitalize()
             language_cycle = all_language_cycle_data[language]
             df.loc[challenge_name, f"{language}_release_cycle"] = (
                 language_cycle.generate_version_string()
@@ -102,7 +102,9 @@ def main() -> None:
             )
 
         with open(output_file, "a") as file:
-            file.write(f"### {language_display_name}\n")
+            file.write(
+                f"### [{language_display_name.capitalize()}](https://app.codecrafters.io/tracks/{language_display_name.lower()})\n"
+            )
             file.write(df.to_markdown())
             file.write("\n\n")
 
