@@ -56,14 +56,18 @@ def main() -> None:
             logger.debug(f"Version support: {all_version_support_data[-1]}")
 
     output_file = "README.md"
+    template_file = "TEMPLATE.md"
+    with open(template_file, "r") as file:
+        template = file.read()
     with open(output_file, "w") as file:
-        file.write("# CodeCrafters Challenge Language Support\n")
+        file.write(template)
 
     logger.info(
         "Finished fetching and processing language and version data. Starting to render markdown"
     )
     for key in Languages:
         language = key.value
+        language_display_name = key.name
         logger.debug(f"Processing language: {language}")
         filtered_version_support_data = list(
             filter(
@@ -98,7 +102,7 @@ def main() -> None:
             )
 
         with open(output_file, "a") as file:
-            file.write(f"## {language}\n")
+            file.write(f"### {language_display_name}\n")
             file.write(df.to_markdown())
             file.write("\n\n")
 
