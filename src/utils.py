@@ -108,5 +108,5 @@ def get_status_from_elapsed_time(
                 return Status.BEHIND
             else:
                 return Status.OUTDATED
-
-    return Status.UNKNOWN
+        case _:
+            return Status.UNKNOWN

@@ -57,7 +57,7 @@ def main() -> None:
             )
             logger.debug(f"Version support: {all_version_support_data[-1]}")
 
-    output_file = "dashboard.md"
+    output_file = "README.md"
     with open(output_file, "w") as file:
         file.write("# CodeCrafters Challenge Language Support\n")
 
@@ -67,12 +67,14 @@ def main() -> None:
     for key in Languages:
         language = key.value
         logger.debug(f"Processing language: {language}")
-        filtered_version_support_data = filter(
-            lambda x: x.language == all_language_cycle_data[language],
-            all_version_support_data,
+        filtered_version_support_data = list(
+            filter(
+                lambda x: x.language == all_language_cycle_data[language],
+                all_version_support_data,
+            )
         )
         logger.debug(
-            f"Found {len(list(filtered_version_support_data))} entries for {language}"
+            f"Found {len((filtered_version_support_data))} entries for {language}"
         )
         df = pd.DataFrame()
 
