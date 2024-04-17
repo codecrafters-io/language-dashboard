@@ -34,6 +34,6 @@ jobs:
         run: |
           git config --global user.email "ryan-gg@outlook.com"
           git config --global user.name "Ryan Gang"
-          git remote set-url origin https://ryan-gang:${{ secrets.GIT_AUTH_PAT }}@github.com/codecrafters-io/language-test.git
+          git remote set-url origin https://ryan-gang:${{ secrets.GITHUB_TOKEN }}@github.com/codecrafters-io/language-test.git
           git commit -am "Automated README update"
           git push
