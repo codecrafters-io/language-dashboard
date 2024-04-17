@@ -19,7 +19,8 @@ class SemVer:
 
     @classmethod
     def parse_version(cls, version: str) -> tuple[int, int]:
-        return cls._parse_version(version)[0:2]
+        v = cls._parse_version(version)
+        return v[0], v[1]
 
     @classmethod
     def _compare_versions(cls, version1: str, version2: str) -> int:

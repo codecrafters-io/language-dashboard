@@ -13,7 +13,7 @@ class EOLApi:
         data = response.json()
         if "message" in data and data["message"] == "Product not found":
             raise RuntimeError(f"Language '{language}' not found")
-        return data
+        return data  # type: ignore
 
     @staticmethod
     def parse_response(response: list[dict[str, str]]) -> tuple[str, str]:

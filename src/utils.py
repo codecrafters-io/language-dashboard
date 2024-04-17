@@ -1,14 +1,90 @@
 import functools
 import os
 from collections import defaultdict
+from dataclasses import dataclass
 from datetime import datetime
+from enum import Enum
 
 import yaml
 from loguru import logger
 
-from src.EolAPI import EOLApi
-from src.meta import Language, Languages, Status
-from src.SemVer import SemVer
+from src.eol_api import EOLApi
+from src.sem_ver import SemVer
+
+
+class Challenges(Enum):
+    REDIS = "build-your-own-redis"
+    GIT = "build-your-own-git"
+    SQLITE = "build-your-own-sqlite"
+    DNS_SERVER = "build-your-own-dns-server"
+    HTTP_SERVER = "build-your-own-http-server"
+    BITTORRENT = "build-your-own-bittorrent"
+    GREP = "build-your-own-grep"
+    DOCKER = "build-your-own-docker"
+
+
+class Status(Enum):
+    UP_TO_DATE = "✅"
+    BEHIND = "⚠️"
+    OUTDATED = "❌"
+    NOT_SUPPORTED = "❓"
+    UNKNOWN = "🥑"
+
+
+class Languages(Enum):
+    GO = "go"
+    RUST = "rust"
+    PYTHON = "python"
+    JAVASCRIPT = "nodejs"
+    CPP = "cpp"
+    CSHARP = "dotnet"
+    JAVA = "java"
+    HASKELL = "haskell"
+    RUBY = "ruby"
+    C = "c"
+    ELIXIR = "elixir"
+    PHP = "php"
+    CLOJURE = "clojure"
+    CRYSTAL = "crystal"
+    TYPESCRIPT = "deno"
+    GLEAM = "gleam"
+    ZIG = "zig"
+    KOTLIN = "kotlin"
+    NIM = "nim"
+    SWIFT = "swift"
+
+
+@dataclass
+class VersionedItem:
+    version: tuple[int, int]
+
+    def generate_version_string(self) -> str:
+        """Generate a version string from the version tuple."""
+        return f"v{self.version[0]}.{self.version[1]}"
+
+    def set_version(self, version: str) -> None:
+        """Set the version from a version string."""
+        self.version = SemVer.parse_version(version)
+
+
+@dataclass
+class Language(VersionedItem):
+    name: Languages
+    updated_on: datetime
+
+    def __repr__(self) -> str:
+        return f"{self.name.value} {self.generate_version_string()} updated at {self.updated_on.date()}"
+
+
+@dataclass
+class VersionSupport(VersionedItem):
+    language: Language
+    challenge: Challenges
+    days_since_update: int
+    status: Status
+
+    def __repr__(self) -> str:
+        return f"{self.challenge.name}:{self.language.name.name} => {self.generate_version_string()}"
 
 
 def get_days_from_today(date: datetime) -> int:
@@ -109,3 +185,10 @@ def get_status_from_elapsed_time(
                 return Status.OUTDATED
         case _:
             return Status.UNKNOWN
+
+
+def copy_template_to_readme(template_file: str, output_file: str) -> None:
+    with open(template_file, "r") as file:
+        template = file.read()
+    with open(output_file, "w") as file:
+        file.write(template)
