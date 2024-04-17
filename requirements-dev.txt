@@ -1,0 +1,13 @@
+isort
+black
+flake8
+mypy
+pipenv
+pytest
+ruff
+
+pandas-stubs
+types-PyYAML
+types-requests
+
+black[jupyter]

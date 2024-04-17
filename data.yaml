@@ -1,0 +1,31 @@
+c:
+  cycle: "17.0"
+  releaseDate: "2018-06-01"
+clojure:
+  cycle: "1.11"
+  releaseDate: "2022-03-22"
+cpp:
+  cycle: "20.0"
+  releaseDate: "2020-12-01"
+crystal:
+  cycle: "1.12"
+  releaseDate: "2024-04-09"
+deno:
+  cycle: "1.42"
+  releaseDate: "2024-03-28"
+gleam:
+  cycle: "1.0"
+  releaseDate: "2024-03-04"
+haskell:
+  # https://www.haskell.org/ghc/download.html (Stable Release)
+  cycle: "9.8"
+  releaseDate: "2023-10-09"
+nim:
+  cycle: "2.0"
+  releaseDate: "2023-07-31"
+swift:
+  cycle: "5.10"
+  releaseDate: "2024-03-06"
+zig:
+  cycle: "0.11"
+  releaseDate: "2023-08-04"
