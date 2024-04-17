@@ -18,10 +18,10 @@ class Challenges(Enum):
 
 class Status(Enum):
     UP_TO_DATE = "✅"
-    OUTDATED = "⚠️"
-    BEHIND = "❌"
+    BEHIND = "⚠️"
+    OUTDATED = "❌"
     NOT_SUPPORTED = "❓"
-    UNKNOWN = "???"
+    UNKNOWN = "🥑"
 
 
 class Languages(Enum):
@@ -48,34 +48,33 @@ class Languages(Enum):
 
 
 @dataclass
-class Language:
-    name: Languages
+class VersionedItem:
     version: tuple[int, int]
-    updated_on: datetime
 
     def generate_version_string(self) -> str:
+        """Generate a version string from the version tuple."""
         return f"v{self.version[0]}.{self.version[1]}"
 
     def set_version(self, version: str) -> None:
+        """Set the version from a version string."""
         self.version = SemVer.parse_version(version)
+
+
+@dataclass
+class Language(VersionedItem):
+    name: Languages
+    updated_on: datetime
 
     def __repr__(self) -> str:
         return f"{self.name.value} {self.generate_version_string()} updated at {self.updated_on.date()}"
 
 
 @dataclass
-class VersionSupport:
+class VersionSupport(VersionedItem):
     language: Language
     challenge: Challenges
-    version: tuple[int, int]
     days_since_update: int
     status: Status
-
-    def generate_version_string(self) -> str:
-        return f"v{self.version[0]}.{self.version[1]}"
-
-    def set_version(self, version: str) -> None:
-        self.version = SemVer.parse_version(version)
 
     def __repr__(self) -> str:
         return f"{self.challenge.name}:{self.language.name.name} => {self.generate_version_string()}"

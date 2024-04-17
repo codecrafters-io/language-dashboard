@@ -43,14 +43,12 @@ def main() -> None:
             language_cycle = get_or_fetch_language_cycle(
                 language, eol, all_language_cycle_data
             )
-            # logger.debug(f"Processing language: {language}")
-            # logger.debug(f"Language cycle: {language_cycle}")
             version = dockerfiles[language]
             all_version_support_data.append(
                 VersionSupport(
+                    version,
                     language_cycle,
                     challenge,
-                    version,
                     get_days_from_today(language_cycle.updated_on),
                     Status.UNKNOWN,
                 )
@@ -77,6 +75,7 @@ def main() -> None:
             f"Found {len((filtered_version_support_data))} entries for {language}"
         )
         df = pd.DataFrame()
+        df.index.name = "Challenge"
 
         for version_support in filtered_version_support_data:
             comparison = SemVer.compare_versions(

@@ -85,8 +85,9 @@ def get_or_fetch_language_cycle(
         version = SemVer.parse_version(latest_version)
         timestamp = parse_datetime_string(latest_version_release_date)
         language_cycle_data[language] = Language(
-            Languages(language), version, timestamp
+            version, Languages(language), timestamp
         )
+        logger.debug(language_cycle_data[language])
 
     return language_cycle_data[language]
 
@@ -100,8 +101,6 @@ def get_status_from_elapsed_time(
         case 0:
             return Status.UP_TO_DATE
         case 1:
-            if elapsed_time < 365:
-                return Status.OUTDATED
             if elapsed_time <= 14:
                 return Status.UP_TO_DATE
             elif elapsed_time <= 90:
