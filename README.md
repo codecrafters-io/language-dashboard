@@ -1,4 +1,5 @@
 # CodeCrafters Challenge Language Support
+
 ## go
 |             | go_release_cycle   | go_supported_cycle   | support_status   |
 |:------------|:-------------------|:---------------------|:-----------------|
