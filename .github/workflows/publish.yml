@@ -7,6 +7,9 @@ on:
   schedule:
     - cron: '15 0 * * *'
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: "Python job"
