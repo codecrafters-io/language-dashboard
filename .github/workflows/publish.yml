@@ -30,8 +30,9 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         run: python -m src.main
 
-      - name: Upload file as artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: job-result
-          path: README.md
+      - name: Update README.md
+        run: |
+          git config user.email "ryan-gg@outlook.com"
+          git config user.name "Ryan Gang"
+          git commit -am "Automated README update"
+          git push
