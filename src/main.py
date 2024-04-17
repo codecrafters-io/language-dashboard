@@ -7,8 +7,8 @@ from src.eol_api import EOLApi
 from src.github_api import GithubAPI
 from src.sem_ver import SemVer
 from src.utils import (Challenges, Languages, Status, VersionSupport,
-                       copy_template_to_readme, get_days_from_today,
-                       get_or_fetch_language_cycle,
+                       copy_template_to_readme, format_course_name,
+                       get_days_from_today, get_or_fetch_language_cycle,
                        get_status_from_elapsed_time, parse_dockerfile_names,
                        parse_version_data_from_yaml)
 
@@ -62,8 +62,8 @@ def main() -> None:
     )
     copy_template_to_readme(template_file, output_file)
     for key in Languages:
-        language_identifier = key.value
-        language_display_name = key.name
+        language_identifier = key.name
+        language_display_name = key.value
         logger.debug(f"Processing language: {language_identifier}")
         filtered_version_support_data = list(
             filter(
@@ -76,7 +76,7 @@ def main() -> None:
             f"Found {len(filtered_version_support_data)} entries for {language_identifier}"
         )
         df = pd.DataFrame()
-        df.index.name = "challenge"
+        df.index.name = "Challenge"
 
         for version_support in filtered_version_support_data:
             comparison = SemVer.compare_versions(
@@ -86,21 +86,21 @@ def main() -> None:
                 comparison, version_support.days_since_update
             )
 
-            challenge_name = version_support.challenge.name.capitalize()
+            row_id = f"{format_course_name(version_support.challenge.name)}: {version_support.status.value}"
             language_cycle = all_language_cycle_data[language_identifier]
-            df.loc[challenge_name, f"{language_identifier}_release_cycle"] = (
+            df.loc[row_id, "Latest Release"] = (
                 language_cycle.generate_version_string()
             )
-            df.loc[
-                challenge_name, f"{language_identifier}_supported_cycle"
-            ] = version_support.generate_version_string()
-            df.loc[challenge_name, "support_status"] = (
-                version_support.status.value
+            df.loc[row_id, "Release Date"] = (
+                version_support.language.updated_on.date().isoformat()
+            )
+            df.loc[row_id, "CodeCrafter's Version"] = (
+                version_support.generate_version_string()
             )
 
         with open(output_file, "a") as file:
-            link = f"https://app.codecrafters.io/tracks/{language_display_name.lower()}"
-            file.write(f"### [{language_display_name.capitalize()}]({link})\n")
+            link = f"https://app.codecrafters.io/tracks/{language_identifier}"
+            file.write(f"### [{language_display_name}]({link})\n")
             file.write(df.to_markdown())
             file.write("\n\n")
 

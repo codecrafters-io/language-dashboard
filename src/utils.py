@@ -32,26 +32,26 @@ class Status(Enum):
 
 
 class Languages(Enum):
-    GO = "go"
-    RUST = "rust"
-    PYTHON = "python"
-    JAVASCRIPT = "nodejs"
-    CPP = "cpp"
-    CSHARP = "dotnet"
-    JAVA = "java"
-    HASKELL = "haskell"
-    RUBY = "ruby"
-    C = "c"
-    ELIXIR = "elixir"
-    PHP = "php"
-    CLOJURE = "clojure"
-    CRYSTAL = "crystal"
-    TYPESCRIPT = "deno"
-    GLEAM = "gleam"
-    ZIG = "zig"
-    KOTLIN = "kotlin"
-    NIM = "nim"
-    SWIFT = "swift"
+    go = "Go"
+    rust = "Rust"
+    python = "Python"
+    nodejs = "Javascript"
+    cpp = "C++"
+    dotnet = "C#"
+    java = "Java"
+    haskell = "Haskell"
+    ruby = "Ruby"
+    c = "C"
+    elixir = "Elixir"
+    php = "PHP"
+    clojure = "Clojure"
+    crystal = "Crystal"
+    deno = "Typescript"
+    gleam = "Gleam"
+    zig = "Zig"
+    kotlin = "Kotlin"
+    nim = "Nim"
+    swift = "Swift"
 
 
 @dataclass
@@ -142,7 +142,7 @@ def parse_version_data_from_yaml(file_path: str) -> dict[str, Language]:
         version = SemVer.parse_version(version_string)
         dt = parse_datetime_string(date_string)
         language_cycle_data[language] = Language(
-            name=Languages(language), version=version, updated_on=dt
+            name=Languages[language], version=version, updated_on=dt
         )
 
     logger.debug(f"Read and parsed data from file: {language_cycle_data}")
@@ -161,7 +161,7 @@ def get_or_fetch_language_cycle(
         version = SemVer.parse_version(latest_version)
         timestamp = parse_datetime_string(latest_version_release_date)
         language_cycle_data[language] = Language(
-            version, Languages(language), timestamp
+            version, Languages[language], timestamp
         )
         logger.debug(language_cycle_data[language])
 
@@ -192,3 +192,10 @@ def copy_template_to_readme(template_file: str, output_file: str) -> None:
         template = file.read()
     with open(output_file, "w") as file:
         file.write(template)
+
+
+def format_course_name(name: str) -> str:
+    if "_" in name:
+        parts = name.split("_")
+        return parts[0].upper() + " " + parts[1].lower()
+    return name.capitalize()
