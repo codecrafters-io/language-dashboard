@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+        with:
+          persist-credentials: true  # Allows Git commands to use the built-in token
 
       - name: Setup python
         uses: actions/setup-python@v2
