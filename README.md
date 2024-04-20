@@ -177,3 +177,8 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Sqlite: ⚠️  | v5.10            | 2024-03-06     | v5.7                    |
 | Docker: ⚠️  | v5.10            | 2024-03-06     | v5.6                    |
 
+### [Scala](https://app.codecrafters.io/tracks/scala)
+| Challenge   | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:------------|:-----------------|:---------------|:------------------------|
+| Redis: ⚠️   | v3.4             | 2024-02-14     | v2.12                   |
+
