@@ -6,13 +6,13 @@ from loguru import logger
 from src.eol_api import EOLApi
 from src.github_api import GithubAPI
 from src.sem_ver import SemVer
-from src.utils import (Challenges, Languages, Status, VersionSupport,
-                       copy_template_to_readme, format_course_name,
-                       get_days_from_today, get_or_fetch_language_cycle,
-                       get_status_from_elapsed_time, parse_dockerfile_names,
-                       parse_version_data_from_yaml)
+from src.utils import (Challenge, CourseLanguageConfiguration, Language,
+                       Status, copy_template_to_readme, format_course_name,
+                       get_days_from_today, get_or_fetch_language_release,
+                       get_status_from_elapsed_time, parse_dockerfile_contents,
+                       parse_release_data_from_yaml)
 
-LOCAL_VERSION_DATA_FILE_PATH = r"./data.yaml"
+LANGUAGES_RELEASE_DATA_FILE = r"./data.yaml"
 REPO_OWNER = "codecrafters-io"
 DOCKER_FILE_PATH = "dockerfiles"
 OUTPUT_FILE_PATH, TEMPLATE_FILE_PATH = "README.md", "TEMPLATE.md"
@@ -26,74 +26,74 @@ def main() -> None:
         f"Starting run at {datetime.datetime.now(datetime.timezone.utc).isoformat()}"
     )
 
-    all_language_cycle_data = parse_version_data_from_yaml(
-        LOCAL_VERSION_DATA_FILE_PATH
+    language_releases = parse_release_data_from_yaml(
+        LANGUAGES_RELEASE_DATA_FILE
     )
-    all_version_support_data: list[VersionSupport] = []
+    language_configurations: list[CourseLanguageConfiguration] = []
 
-    for challenge in Challenges:
+    for challenge in Challenge:
         repo_name = challenge.value
         logger.debug(f"Processing: {repo_name}")
+
         response = gh.get_repo_contents(
             REPO_OWNER, repo_name, DOCKER_FILE_PATH
         )
-        dockerfiles = parse_dockerfile_names(response.json())
+        dockerfiles = parse_dockerfile_contents(response.json())
         logger.debug(
             f"Data fetched for: {repo_name}, found: {len(dockerfiles)} languages"
         )
 
         for language in dockerfiles:
-            language_cycle = get_or_fetch_language_cycle(
-                language, eol, all_language_cycle_data
+            language_release = get_or_fetch_language_release(
+                language, eol, language_releases
             )
-            all_version_support_data.append(
-                VersionSupport(
+            language_configurations.append(
+                CourseLanguageConfiguration(
                     dockerfiles[language],
-                    language_cycle,
+                    language_release,
                     challenge,
-                    get_days_from_today(language_cycle.updated_on),
                     Status.UNKNOWN,
                 )
             )
-            logger.debug(f"Version support: {all_version_support_data[-1]}")
+            logger.debug(f"Version support: {language_configurations[-1]}")
 
     logger.info(
         "Finished fetching and processing language and version data. Starting to render markdown"
     )
     copy_template_to_readme(TEMPLATE_FILE_PATH, OUTPUT_FILE_PATH)
 
-    for key in Languages:
+    for key in Language:
         language_identifier = key.name
-        language_display_name = key.value
+        language_name = key.value
         logger.debug(f"Processing language: {language_identifier}")
-        filtered_version_support_data = list(
+        course_language_configuration = list(
             filter(
-                lambda x: x.language
-                == all_language_cycle_data[language_identifier],
-                all_version_support_data,
+                lambda x: x.language == language_releases[language_identifier],
+                language_configurations,
             )
         )
         logger.debug(
-            f"Found {len(filtered_version_support_data)} entries for {language_identifier}"
+            f"Found {len(course_language_configuration)} entries for {language_identifier}"
         )
         df = pd.DataFrame()
         df.index.name = "Challenge"
 
-        for version_support in filtered_version_support_data:
+        for version_support in course_language_configuration:
             comparison = SemVer.compare_versions(
                 version_support.language.version, version_support.version
             )
             version_support.status = get_status_from_elapsed_time(
-                comparison, version_support.days_since_update
+                comparison,
+                get_days_from_today(version_support.language.release_at),
             )
 
             row_id = f"{format_course_name(version_support.challenge.name)}: {version_support.status.value}"
-            language_cycle = all_language_cycle_data[language_identifier]
+            language_release = language_releases[language_identifier]
             df.loc[row_id, "Latest Release"] = (
-                language_cycle.generate_version_string()
+                language_release.generate_version_string()
             )
             df.loc[row_id, "Release Date"] = (
-                version_support.language.updated_on.date().isoformat()
+                version_support.language.release_at.date().isoformat()
             )
             df.loc[row_id, "CodeCrafter's Version"] = (
                 version_support.generate_version_string()
@@ -101,7 +101,7 @@ def main() -> None:
 
         with open(OUTPUT_FILE_PATH, "a") as file:
             link = f"https://app.codecrafters.io/tracks/{language_identifier}"
-            file.write(f"### [{language_display_name}]({link})\n")
+            file.write(f"### [{language_name}]({link})\n")
             file.write(df.to_markdown())
             file.write("\n\n")
 

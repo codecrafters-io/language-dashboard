@@ -12,7 +12,7 @@ from src.eol_api import EOLApi
 from src.sem_ver import SemVer
 
 
-class Challenges(Enum):
+class Challenge(Enum):
     REDIS = "build-your-own-redis"
     GIT = "build-your-own-git"
     SQLITE = "build-your-own-sqlite"
@@ -31,7 +31,7 @@ class Status(Enum):
     UNKNOWN = "🥑"
 
 
-class Languages(Enum):
+class Language(Enum):
     go = "Go"
     rust = "Rust"
     python = "Python"
@@ -52,6 +52,7 @@ class Languages(Enum):
     kotlin = "Kotlin"
     nim = "Nim"
     swift = "Swift"
+    scala = "Scala"
 
 
 @dataclass
@@ -68,23 +69,22 @@ class VersionedItem:
 
 
 @dataclass
-class Language(VersionedItem):
-    name: Languages
-    updated_on: datetime
+class LanguageRelease(VersionedItem):
+    name: Language
+    release_at: datetime
 
     def __repr__(self) -> str:
-        return f"{self.name.value} {self.generate_version_string()} updated at {self.updated_on.date()}"
+        return f"{self.name.value} {self.generate_version_string()} updated at {self.release_at.date()}"
 
 
 @dataclass
-class VersionSupport(VersionedItem):
-    language: Language
-    challenge: Challenges
-    days_since_update: int
+class CourseLanguageConfiguration(VersionedItem):
+    language: LanguageRelease
+    challenge: Challenge
     status: Status
 
     def __repr__(self) -> str:
-        return f"{self.challenge.name}:{self.language.name.name} => {self.generate_version_string()}"
+        return f"{self.challenge.name}:{self.language.name} => {self.generate_version_string()}"
 
 
 def get_days_from_today(date: datetime) -> int:
@@ -100,12 +100,12 @@ def parse_datetime_string(date_str: str) -> datetime:
     return date_obj
 
 
-def parse_dockerfile_names(
-    data: list[dict[str, str]]
+def parse_dockerfile_contents(
+    dockerfiles: list[dict[str, str]]
 ) -> dict[str, tuple[int, int]]:
     version_data: dict[str, tuple[int, int]] = defaultdict(lambda: (0, 0))
 
-    for file in data:
+    for file in dockerfiles:
         file_name = file["path"].split("/")[1].removesuffix(".Dockerfile")
         language, v = file_name.split("-")
         version = SemVer.parse_version(v)
@@ -118,9 +118,9 @@ def parse_dockerfile_names(
     return version_data
 
 
-def parse_version_data_from_yaml(file_path: str) -> dict[str, Language]:
+def parse_release_data_from_yaml(file_path: str) -> dict[str, LanguageRelease]:
     logger.debug(f"Reading version data from {file_path}")
-    language_cycle_data: dict[str, Language] = {}
+    language_releases: dict[str, LanguageRelease] = {}
 
     assert os.path.exists(file_path), "Version data file not found."
     with open(file_path, "r") as file:
@@ -129,33 +129,35 @@ def parse_version_data_from_yaml(file_path: str) -> dict[str, Language]:
 
     for language, version_data in data.items():
         version_string, date_string = version_data.values()
-        version = SemVer.parse_version(version_string)
-        dt = parse_datetime_string(date_string)
-        language_cycle_data[language] = Language(
-            name=Languages[language], version=version, updated_on=dt
+        language_releases[language] = LanguageRelease(
+            name=Language[language],
+            version=SemVer.parse_version(version_string),
+            release_at=parse_datetime_string(date_string),
         )
 
-    logger.debug(f"Read and parsed data from file: {language_cycle_data}")
-    return language_cycle_data
+    logger.debug(f"Read and parsed data from file: {language_releases}")
+    return language_releases
 
 
-def get_or_fetch_language_cycle(
-    language: str, eol: EOLApi, language_cycle_data: dict[str, Language]
-) -> Language:
-    if language not in language_cycle_data:
+def get_or_fetch_language_release(
+    language: str,
+    eol: EOLApi,
+    language_releases: dict[str, LanguageRelease],
+) -> LanguageRelease:
+    if language not in language_releases:
         eol_data = eol.fetch_data(language)
         latest_version, latest_version_release_date = eol.parse_response(
             eol_data
         )
 
-        version = SemVer.parse_version(latest_version)
-        timestamp = parse_datetime_string(latest_version_release_date)
-        language_cycle_data[language] = Language(
-            version, Languages[language], timestamp
+        language_releases[language] = LanguageRelease(
+            SemVer.parse_version(latest_version),
+            Language[language],
+            parse_datetime_string(latest_version_release_date),
         )
-        logger.debug(language_cycle_data[language])
+        logger.debug(language_releases[language])
 
-    return language_cycle_data[language]
+    return language_releases[language]
 
 
 def get_status_from_elapsed_time(
