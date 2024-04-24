@@ -142,7 +142,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Crystal](https://app.codecrafters.io/tracks/crystal)
 | Challenge   | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅    | v1.12            | 2024-04-09     | v1.1                    |
+| Redis: ⚠️   | v1.12            | 2024-04-09     | v1.1                    |
 
 ### [Typescript](https://app.codecrafters.io/tracks/deno)
 | Challenge   | Latest Release   | Release Date   | CodeCrafter's Version   |
