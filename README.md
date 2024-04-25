@@ -52,13 +52,13 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Javascript](https://app.codecrafters.io/tracks/nodejs)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ❌       | v21.0            | 2023-10-17     | v18.0                   |
-| Git: ❌         | v21.0            | 2023-10-17     | v18.0                   |
-| Sqlite: ❌      | v21.0            | 2023-10-17     | v18.0                   |
-| DNS server: ❌  | v21.0            | 2023-10-17     | v18.0                   |
-| HTTP server: ❌ | v21.0            | 2023-10-17     | v18.0                   |
-| Bittorrent: ❌  | v21.0            | 2023-10-17     | v18.0                   |
-| Grep: ❌        | v21.0            | 2023-10-17     | v18.0                   |
+| Redis: ✅       | v22.0            | 2024-04-24     | v21.0                   |
+| Git: ✅         | v22.0            | 2024-04-24     | v18.0                   |
+| Sqlite: ✅      | v22.0            | 2024-04-24     | v18.0                   |
+| DNS server: ✅  | v22.0            | 2024-04-24     | v18.0                   |
+| HTTP server: ✅ | v22.0            | 2024-04-24     | v18.0                   |
+| Bittorrent: ✅  | v22.0            | 2024-04-24     | v18.0                   |
+| Grep: ✅        | v22.0            | 2024-04-24     | v18.0                   |
 
 ### [C++](https://app.codecrafters.io/tracks/cpp)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
