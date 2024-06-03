@@ -20,7 +20,6 @@ class Challenge(Enum):
     HTTP_SERVER = "build-your-own-http-server"
     BITTORRENT = "build-your-own-bittorrent"
     GREP = "build-your-own-grep"
-    DOCKER = "build-your-own-docker"
 
 
 class Status(Enum):
