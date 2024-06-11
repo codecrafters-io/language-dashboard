@@ -146,7 +146,9 @@ def get_or_fetch_language_release(
 ) -> LanguageRelease:
     if language not in language_releases:
         eol_data = eol.fetch_data(language)
-        latest_version, latest_version_release_date = eol.parse_response(eol_data)
+        latest_version, latest_version_release_date = eol.parse_response(
+            eol_data
+        )
 
         language_releases[language] = LanguageRelease(
             SemVer.parse_version(latest_version),
