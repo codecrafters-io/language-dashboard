@@ -98,7 +98,6 @@ def main() -> None:
         df = pd.DataFrame()
         df.index.name = "Challenge"
 
-        ## Determine status for each challenge by comparing CC supported and latest versions
         # version_support.language.version --> latest version
         # version_support.version --> CC supported version
         for version_support in course_language_configuration:
