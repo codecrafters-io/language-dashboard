@@ -65,26 +65,26 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Clojure](https://app.codecrafters.io/tracks/clojure)
 | Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:----------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.11            | 2022-03-22     | v1.11                   |
-| Git: ❌         | v1.11            | 2022-03-22     | -                       |
-| Sqlite: ❌      | v1.11            | 2022-03-22     | -                       |
-| DNS server: ❌  | v1.11            | 2022-03-22     | -                       |
-| HTTP server: ❌ | v1.11            | 2022-03-22     | -                       |
-| Bittorrent: ❌  | v1.11            | 2022-03-22     | -                       |
-| Grep: ❌        | v1.11            | 2022-03-22     | -                       |
-| Shell: ❌       | v1.11            | 2022-03-22     | -                       |
+| Redis: ✅       | v1.11            | 2022-03-28     | v1.11                   |
+| Git: ❌         | v1.11            | 2022-03-28     | -                       |
+| Sqlite: ❌      | v1.11            | 2022-03-28     | -                       |
+| DNS server: ❌  | v1.11            | 2022-03-28     | -                       |
+| HTTP server: ❌ | v1.11            | 2022-03-28     | -                       |
+| Bittorrent: ❌  | v1.11            | 2022-03-28     | -                       |
+| Grep: ❌        | v1.11            | 2022-03-28     | -                       |
+| Shell: ❌       | v1.11            | 2022-03-28     | -                       |
 
 ### [C++](https://app.codecrafters.io/tracks/cpp)
 | Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:----------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v23.0            | 2020-12-01     | v23.0                   |
-| Git: ✅         | v23.0            | 2020-12-01     | v23.0                   |
-| Sqlite: ✅      | v23.0            | 2020-12-01     | v23.0                   |
-| DNS server: ✅  | v23.0            | 2020-12-01     | v23.0                   |
-| HTTP server: ✅ | v23.0            | 2020-12-01     | v23.0                   |
-| Bittorrent: ✅  | v23.0            | 2020-12-01     | v23.0                   |
-| Grep: ✅        | v23.0            | 2020-12-01     | v23.0                   |
-| Shell: ✅       | v23.0            | 2020-12-01     | v23.0                   |
+| Redis: ✅       | v23.0            | 2023-12-01     | v23.0                   |
+| Git: ✅         | v23.0            | 2023-12-01     | v23.0                   |
+| Sqlite: ✅      | v23.0            | 2023-12-01     | v23.0                   |
+| DNS server: ✅  | v23.0            | 2023-12-01     | v23.0                   |
+| HTTP server: ✅ | v23.0            | 2023-12-01     | v23.0                   |
+| Bittorrent: ✅  | v23.0            | 2023-12-01     | v23.0                   |
+| Grep: ✅        | v23.0            | 2023-12-01     | v23.0                   |
+| Shell: ✅       | v23.0            | 2023-12-01     | v23.0                   |
 
 ### [Crystal](https://app.codecrafters.io/tracks/crystal)
 | Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
