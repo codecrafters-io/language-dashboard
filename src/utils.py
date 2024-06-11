@@ -20,38 +20,39 @@ class Challenge(Enum):
     HTTP_SERVER = "build-your-own-http-server"
     BITTORRENT = "build-your-own-bittorrent"
     GREP = "build-your-own-grep"
+    SHELL = "build-your-own-shell"
 
 
 class Status(Enum):
     UP_TO_DATE = "✅"
     BEHIND = "⚠️"
-    OUTDATED = "❌"
-    NOT_SUPPORTED = "❓"
+    OUTDATED = "❗"
+    NOT_SUPPORTED = "❌"
     UNKNOWN = "🥑"
 
 
 class Language(Enum):
-    go = "Go"
     rust = "Rust"
+    go = "Go"
     python = "Python"
-    nodejs = "Javascript"
-    cpp = "C++"
-    dotnet = "C#"
-    java = "Java"
-    haskell = "Haskell"
-    ruby = "Ruby"
     c = "C"
-    elixir = "Elixir"
-    php = "PHP"
     clojure = "Clojure"
+    cpp = "C++"
     crystal = "Crystal"
-    deno = "Typescript"
+    dotnet = "C#"
+    elixir = "Elixir"
     gleam = "Gleam"
-    zig = "Zig"
+    haskell = "Haskell"
+    java = "Java"
     kotlin = "Kotlin"
     nim = "Nim"
-    swift = "Swift"
+    nodejs = "Javascript"
+    php = "PHP"
+    ruby = "Ruby"
     scala = "Scala"
+    swift = "Swift"
+    bun = "Typescript"
+    zig = "Zig"
 
 
 @dataclass
@@ -100,7 +101,7 @@ def parse_datetime_string(date_str: str) -> datetime:
 
 
 def parse_dockerfile_contents(
-    dockerfiles: list[dict[str, str]]
+    dockerfiles: list[dict[str, str]],
 ) -> dict[str, tuple[int, int]]:
     version_data: dict[str, tuple[int, int]] = defaultdict(lambda: (0, 0))
 
@@ -145,9 +146,7 @@ def get_or_fetch_language_release(
 ) -> LanguageRelease:
     if language not in language_releases:
         eol_data = eol.fetch_data(language)
-        latest_version, latest_version_release_date = eol.parse_response(
-            eol_data
-        )
+        latest_version, latest_version_release_date = eol.parse_response(eol_data)
 
         language_releases[language] = LanguageRelease(
             SemVer.parse_version(latest_version),
