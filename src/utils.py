@@ -57,10 +57,12 @@ class Language(Enum):
 
 @dataclass
 class VersionedItem:
-    version: tuple[int, int]
+    version: tuple[int, int] | None
 
     def generate_version_string(self) -> str:
         """Generate a version string from the version tuple."""
+        if self.version is None:
+            return "Version not set"
         return f"v{self.version[0]}.{self.version[1]}"
 
     def set_version(self, version: str) -> None:

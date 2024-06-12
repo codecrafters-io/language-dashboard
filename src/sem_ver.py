@@ -24,8 +24,11 @@ class SemVer:
 
     @classmethod
     def compare_versions(
-        cls, version1: tuple[int, int], version2: tuple[int, int]
+        cls, version1: tuple[int, int] | None, version2: tuple[int, int] | None
     ) -> int:
+        if version1 is None or version2 is None:
+            raise ValueError("Versions cannot be None")
+
         # If version1 > version2, return 1
         # Else -1, if same version return 0.
         for p1, p2 in zip(version1, version2):
