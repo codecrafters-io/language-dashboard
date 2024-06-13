@@ -20,47 +20,49 @@ class Challenge(Enum):
     HTTP_SERVER = "build-your-own-http-server"
     BITTORRENT = "build-your-own-bittorrent"
     GREP = "build-your-own-grep"
-    DOCKER = "build-your-own-docker"
+    SHELL = "build-your-own-shell"
 
 
 class Status(Enum):
     UP_TO_DATE = "✅"
     BEHIND = "⚠️"
-    OUTDATED = "❌"
-    NOT_SUPPORTED = "❓"
+    OUTDATED = "❗"
+    NOT_SUPPORTED = "❌"
     UNKNOWN = "🥑"
 
 
 class Language(Enum):
-    go = "Go"
     rust = "Rust"
+    go = "Go"
     python = "Python"
-    nodejs = "Javascript"
-    cpp = "C++"
-    dotnet = "C#"
-    java = "Java"
-    haskell = "Haskell"
-    ruby = "Ruby"
     c = "C"
-    elixir = "Elixir"
-    php = "PHP"
     clojure = "Clojure"
+    cpp = "C++"
     crystal = "Crystal"
-    deno = "Typescript"
+    dotnet = "C#"
+    elixir = "Elixir"
     gleam = "Gleam"
-    zig = "Zig"
+    haskell = "Haskell"
+    java = "Java"
     kotlin = "Kotlin"
     nim = "Nim"
-    swift = "Swift"
+    nodejs = "Javascript"
+    php = "PHP"
+    ruby = "Ruby"
     scala = "Scala"
+    swift = "Swift"
+    bun = "Typescript"
+    zig = "Zig"
 
 
 @dataclass
 class VersionedItem:
-    version: tuple[int, int]
+    version: tuple[int, int] | None
 
     def generate_version_string(self) -> str:
         """Generate a version string from the version tuple."""
+        if self.version is None:
+            return "Version not set"
         return f"v{self.version[0]}.{self.version[1]}"
 
     def set_version(self, version: str) -> None:
@@ -101,7 +103,7 @@ def parse_datetime_string(date_str: str) -> datetime:
 
 
 def parse_dockerfile_contents(
-    dockerfiles: list[dict[str, str]]
+    dockerfiles: list[dict[str, str]],
 ) -> dict[str, tuple[int, int]]:
     version_data: dict[str, tuple[int, int]] = defaultdict(lambda: (0, 0))
 

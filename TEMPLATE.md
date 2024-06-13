@@ -5,7 +5,8 @@ For every language we have a table listing the challenges which are supported fo
 The support status is also mentioned for each challenge, which can be one of the following:
 - ✅: We support the latest release_cycle of the language.
 - ⚠️: We are behind the latest release_cycle of the language, by > 2 weeks.
-- ❌: We are behind the latest release_cycle of the language, by > 3 months.
+- ❗: We are behind the latest release_cycle of the language, by > 3 months.
+- ❌: The challenge doesn't support this language.
 
 ## Getting Started
 

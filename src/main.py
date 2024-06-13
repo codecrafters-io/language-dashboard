@@ -75,17 +75,37 @@ def main() -> None:
         logger.debug(
             f"Found {len(course_language_configuration)} entries for {language_identifier}"
         )
+
+        for challenge in Challenge:
+            if not any(
+                map(
+                    lambda x: x.challenge == challenge,
+                    course_language_configuration,
+                )
+            ):
+                course_language_configuration.append(
+                    CourseLanguageConfiguration(
+                        None,
+                        language_releases[language_identifier],
+                        challenge,
+                        Status.NOT_SUPPORTED,
+                    )
+                )
         df = pd.DataFrame()
         df.index.name = "Challenge"
 
+        # version_support.language.version --> latest version
+        # version_support.version --> CC supported version
         for version_support in course_language_configuration:
-            comparison = SemVer.compare_versions(
-                version_support.language.version, version_support.version
-            )
-            version_support.status = get_status_from_elapsed_time(
-                comparison,
-                get_days_from_today(version_support.language.release_at),
-            )
+            if version_support.version is not None:
+                comparison = SemVer.compare_versions(
+                    version_support.language.version, version_support.version
+                )
+
+                version_support.status = get_status_from_elapsed_time(
+                    comparison,
+                    get_days_from_today(version_support.language.release_at),
+                )
 
             row_id = f"{format_course_name(version_support.challenge.name)}: {version_support.status.value}"
             language_release = language_releases[language_identifier]
@@ -95,9 +115,12 @@ def main() -> None:
             df.loc[row_id, "Release Date"] = (
                 version_support.language.release_at.date().isoformat()
             )
-            df.loc[row_id, "CodeCrafter's Version"] = (
-                version_support.generate_version_string()
-            )
+            if version_support.version is not None:
+                df.loc[row_id, "CodeCrafter's Version"] = (
+                    version_support.generate_version_string()
+                )
+            else:
+                df.loc[row_id, "CodeCrafter's Version"] = "-"
 
         with open(OUTPUT_FILE_PATH, "a") as file:
             link = f"https://app.codecrafters.io/tracks/{language_identifier}"
