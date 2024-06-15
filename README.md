@@ -15,16 +15,16 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ## Supported Languages
 
 ### [Rust](https://app.codecrafters.io/tracks/rust)
-| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:----------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️       | v1.78            | 2024-05-02     | v1.77                   |
-| Git: ⚠️         | v1.78            | 2024-05-02     | v1.77                   |
-| Sqlite: ⚠️      | v1.78            | 2024-05-02     | v1.77                   |
-| DNS server: ⚠️  | v1.78            | 2024-05-02     | v1.77                   |
-| HTTP server: ⚠️ | v1.78            | 2024-05-02     | v1.77                   |
-| Bittorrent: ⚠️  | v1.78            | 2024-05-02     | v1.77                   |
-| Grep: ⚠️        | v1.78            | 2024-05-02     | v1.77                   |
-| Shell: ⚠️       | v1.78            | 2024-05-02     | v1.77                   |
+| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:---------------|:-----------------|:---------------|:------------------------|
+| Redis: ✅       | v1.79            | 2024-06-13     | v1.77                   |
+| Git: ✅         | v1.79            | 2024-06-13     | v1.77                   |
+| Sqlite: ✅      | v1.79            | 2024-06-13     | v1.77                   |
+| DNS server: ✅  | v1.79            | 2024-06-13     | v1.77                   |
+| HTTP server: ✅ | v1.79            | 2024-06-13     | v1.77                   |
+| Bittorrent: ✅  | v1.79            | 2024-06-13     | v1.77                   |
+| Grep: ✅        | v1.79            | 2024-06-13     | v1.77                   |
+| Shell: ✅       | v1.79            | 2024-06-13     | v1.77                   |
 
 ### [Go](https://app.codecrafters.io/tracks/go)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -113,14 +113,14 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Elixir](https://app.codecrafters.io/tracks/elixir)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.16            | 2023-12-22     | v1.16                   |
-| Bittorrent: ✅  | v1.16            | 2023-12-22     | v1.16                   |
-| Git: ❌         | v1.16            | 2023-12-22     | -                       |
-| Sqlite: ❌      | v1.16            | 2023-12-22     | -                       |
-| DNS server: ❌  | v1.16            | 2023-12-22     | -                       |
-| HTTP server: ❌ | v1.16            | 2023-12-22     | -                       |
-| Grep: ❌        | v1.16            | 2023-12-22     | -                       |
-| Shell: ❌       | v1.16            | 2023-12-22     | -                       |
+| Redis: ✅       | v1.17            | 2024-06-12     | v1.16                   |
+| Bittorrent: ✅  | v1.17            | 2024-06-12     | v1.16                   |
+| Git: ❌         | v1.17            | 2024-06-12     | -                       |
+| Sqlite: ❌      | v1.17            | 2024-06-12     | -                       |
+| DNS server: ❌  | v1.17            | 2024-06-12     | -                       |
+| HTTP server: ❌ | v1.17            | 2024-06-12     | -                       |
+| Grep: ❌        | v1.17            | 2024-06-12     | -                       |
+| Shell: ❌       | v1.17            | 2024-06-12     | -                       |
 
 ### [Gleam](https://app.codecrafters.io/tracks/gleam)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
