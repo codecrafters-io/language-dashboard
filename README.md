@@ -147,16 +147,16 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Shell: ❌        | v9.10            | 2024-05-10     | -                       |
 
 ### [Java](https://app.codecrafters.io/tracks/java)
-| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:----------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️       | v22.0            | 2024-03-19     | v21.0                   |
-| Git: ⚠️         | v22.0            | 2024-03-19     | v21.0                   |
-| Sqlite: ⚠️      | v22.0            | 2024-03-19     | v21.0                   |
-| DNS server: ⚠️  | v22.0            | 2024-03-19     | v21.0                   |
-| HTTP server: ⚠️ | v22.0            | 2024-03-19     | v21.0                   |
-| Bittorrent: ⚠️  | v22.0            | 2024-03-19     | v21.0                   |
-| Shell: ⚠️       | v22.0            | 2024-03-19     | v21.0                   |
-| Grep: ❌         | v22.0            | 2024-03-19     | -                       |
+| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:---------------|:-----------------|:---------------|:------------------------|
+| Redis: ❗       | v22.0            | 2024-03-19     | v21.0                   |
+| Git: ❗         | v22.0            | 2024-03-19     | v21.0                   |
+| Sqlite: ❗      | v22.0            | 2024-03-19     | v21.0                   |
+| DNS server: ❗  | v22.0            | 2024-03-19     | v21.0                   |
+| HTTP server: ❗ | v22.0            | 2024-03-19     | v21.0                   |
+| Bittorrent: ❗  | v22.0            | 2024-03-19     | v21.0                   |
+| Shell: ❗       | v22.0            | 2024-03-19     | v21.0                   |
+| Grep: ❌        | v22.0            | 2024-03-19     | -                       |
 
 ### [Kotlin](https://app.codecrafters.io/tracks/kotlin)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
