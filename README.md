@@ -113,8 +113,8 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Elixir](https://app.codecrafters.io/tracks/elixir)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.17            | 2024-06-12     | v1.16                   |
-| Bittorrent: ✅  | v1.17            | 2024-06-12     | v1.16                   |
+| Redis: ⚠️      | v1.17            | 2024-06-12     | v1.16                   |
+| Bittorrent: ⚠️ | v1.17            | 2024-06-12     | v1.16                   |
 | Git: ❌         | v1.17            | 2024-06-12     | -                       |
 | Sqlite: ❌      | v1.17            | 2024-06-12     | -                       |
 | DNS server: ❌  | v1.17            | 2024-06-12     | -                       |
