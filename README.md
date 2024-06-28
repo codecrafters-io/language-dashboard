@@ -15,16 +15,16 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ## Supported Languages
 
 ### [Rust](https://app.codecrafters.io/tracks/rust)
-| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.79            | 2024-06-13     | v1.77                   |
-| Git: ✅         | v1.79            | 2024-06-13     | v1.77                   |
-| Sqlite: ✅      | v1.79            | 2024-06-13     | v1.77                   |
-| DNS server: ✅  | v1.79            | 2024-06-13     | v1.77                   |
-| HTTP server: ✅ | v1.79            | 2024-06-13     | v1.77                   |
-| Bittorrent: ✅  | v1.79            | 2024-06-13     | v1.77                   |
-| Grep: ✅        | v1.79            | 2024-06-13     | v1.77                   |
-| Shell: ✅       | v1.79            | 2024-06-13     | v1.77                   |
+| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:----------------|:-----------------|:---------------|:------------------------|
+| Redis: ⚠️       | v1.79            | 2024-06-13     | v1.77                   |
+| Git: ⚠️         | v1.79            | 2024-06-13     | v1.77                   |
+| Sqlite: ⚠️      | v1.79            | 2024-06-13     | v1.77                   |
+| DNS server: ⚠️  | v1.79            | 2024-06-13     | v1.77                   |
+| HTTP server: ⚠️ | v1.79            | 2024-06-13     | v1.77                   |
+| Bittorrent: ⚠️  | v1.79            | 2024-06-13     | v1.77                   |
+| Grep: ⚠️        | v1.79            | 2024-06-13     | v1.77                   |
+| Shell: ⚠️       | v1.79            | 2024-06-13     | v1.77                   |
 
 ### [Go](https://app.codecrafters.io/tracks/go)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
