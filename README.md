@@ -258,10 +258,10 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
 | Redis: ✅       | v0.12            | 2024-04-21     | v0.12                   |
+| Git: ✅         | v0.12            | 2024-04-21     | v0.12                   |
 | Sqlite: ✅      | v0.12            | 2024-04-21     | v0.12                   |
 | HTTP server: ✅ | v0.12            | 2024-04-21     | v0.12                   |
 | Bittorrent: ✅  | v0.12            | 2024-04-21     | v0.12                   |
-| Git: ❌         | v0.12            | 2024-04-21     | -                       |
 | DNS server: ❌  | v0.12            | 2024-04-21     | -                       |
 | Grep: ❌        | v0.12            | 2024-04-21     | -                       |
 | Shell: ❌       | v0.12            | 2024-04-21     | -                       |
