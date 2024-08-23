@@ -16,6 +16,11 @@ crystal:
   # https://github.com/crystal-lang/crystal/releases
   cycle: "1.13.2"
   releaseDate: "2024-08-20"
+dart:
+  # https://github.com/dart-lang/sdk/tags
+  # stable release version data from: https://dart.dev/get-dart
+  cycle: "3.5.1"
+  releaseDate: "2024-08-16"
 gleam:
   # https://github.com/gleam-lang/gleam/releases
   cycle: "1.4.1"
