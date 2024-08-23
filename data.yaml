@@ -1,31 +1,43 @@
+bun:
+  # https://github.com/oven-sh/bun/releases
+  cycle: "1.1.25"
+  releaseDate: "2024-08-21"
 c:
   cycle: "9.5"
   releaseDate: "2022-05-27"
 clojure:
-  cycle: "1.11"
-  releaseDate: "2022-03-28"
+  # https://github.com/clojure/clojure/tags
+  cycle: "1.11.4"
+  releaseDate: "2022-08-03"
 cpp:
   cycle: "23.0"
   releaseDate: "2023-12-01"
 crystal:
-  cycle: "1.12"
-  releaseDate: "2024-04-09"
-bun:
-  cycle: "1.1"
-  releaseDate: "2024-04-01"
+  # https://github.com/crystal-lang/crystal/releases
+  cycle: "1.13.2"
+  releaseDate: "2024-08-20"
 gleam:
-  cycle: "1.0"
-  releaseDate: "2024-03-04"
+  # https://github.com/gleam-lang/gleam/releases
+  cycle: "1.4.1"
+  releaseDate: "2024-08-04"
 haskell:
   # https://www.haskell.org/ghc/download.html (Stable Release)
   cycle: "9.10.1"
   releaseDate: "2024-05-10"
 nim:
-  cycle: "2.0"
-  releaseDate: "2023-07-31"
+  # https://github.com/nim-lang/Nim/tags
+  cycle: "2.0.8"
+  releaseDate: "2024-07-03"
+ocaml:
+  # https://github.com/ocaml/ocaml/releases
+  # Stable Release, not considering experimental 5.x.x yet
+  cycle: "4.14.2"
+  releaseDate: "2024-03-14"
 swift:
-  cycle: "5.10"
-  releaseDate: "2024-03-06"
+  # https://github.com/swiftlang/swift/releases
+  cycle: "5.10.1"
+  releaseDate: "2024-06-06"
 zig:
-  cycle: "0.12"
-  releaseDate: "2024-04-21"
+  # https://github.com/ziglang/zig/releases
+  cycle: "0.13.0"
+  releaseDate: "2024-06-07"
