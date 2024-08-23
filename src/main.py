@@ -18,7 +18,6 @@ DOCKER_FILE_PATH = "dockerfiles"
 OUTPUT_FILE_PATH, TEMPLATE_FILE_PATH = "README.md", "TEMPLATE.md"
 
 
-@logger.catch
 def main() -> None:
     gh = GithubAPI()
     eol = EOLApi()
