@@ -14,6 +14,7 @@ from src.sem_ver import SemVer
 
 class Challenge(Enum):
     REDIS = "build-your-own-redis"
+    INTERPRETER = "build-your-own-interpreter"
     GIT = "build-your-own-git"
     SQLITE = "build-your-own-sqlite"
     DNS_SERVER = "build-your-own-dns-server"
