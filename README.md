@@ -264,15 +264,15 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Scala](https://app.codecrafters.io/tracks/scala)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ❗       | v3.4             | 2024-02-14     | v2.12                   |
-| Interpreter: ❌ | v3.4             | 2024-02-14     | -                       |
-| Git: ❌         | v3.4             | 2024-02-14     | -                       |
-| Sqlite: ❌      | v3.4             | 2024-02-14     | -                       |
-| DNS server: ❌  | v3.4             | 2024-02-14     | -                       |
-| HTTP server: ❌ | v3.4             | 2024-02-14     | -                       |
-| Bittorrent: ❌  | v3.4             | 2024-02-14     | -                       |
-| Grep: ❌        | v3.4             | 2024-02-14     | -                       |
-| Shell: ❌       | v3.4             | 2024-02-14     | -                       |
+| Redis: ✅       | v3.5             | 2024-08-22     | v2.12                   |
+| Interpreter: ❌ | v3.5             | 2024-08-22     | -                       |
+| Git: ❌         | v3.5             | 2024-08-22     | -                       |
+| Sqlite: ❌      | v3.5             | 2024-08-22     | -                       |
+| DNS server: ❌  | v3.5             | 2024-08-22     | -                       |
+| HTTP server: ❌ | v3.5             | 2024-08-22     | -                       |
+| Bittorrent: ❌  | v3.5             | 2024-08-22     | -                       |
+| Grep: ❌        | v3.5             | 2024-08-22     | -                       |
+| Shell: ❌       | v3.5             | 2024-08-22     | -                       |
 
 ### [Swift](https://app.codecrafters.io/tracks/swift)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
