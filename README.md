@@ -28,17 +28,17 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Shell: ✅       | v1.80            | 2024-07-25     | v1.80                   |
 
 ### [Go](https://app.codecrafters.io/tracks/go)
-| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.23            | 2024-08-13     | v1.22                   |
-| Interpreter: ✅ | v1.23            | 2024-08-13     | v1.22                   |
-| Git: ✅         | v1.23            | 2024-08-13     | v1.22                   |
-| Sqlite: ✅      | v1.23            | 2024-08-13     | v1.22                   |
-| DNS server: ✅  | v1.23            | 2024-08-13     | v1.22                   |
-| HTTP server: ✅ | v1.23            | 2024-08-13     | v1.22                   |
-| Bittorrent: ✅  | v1.23            | 2024-08-13     | v1.22                   |
-| Grep: ✅        | v1.23            | 2024-08-13     | v1.22                   |
-| Shell: ✅       | v1.23            | 2024-08-13     | v1.22                   |
+| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:----------------|:-----------------|:---------------|:------------------------|
+| Redis: ⚠️       | v1.23            | 2024-08-13     | v1.22                   |
+| Interpreter: ⚠️ | v1.23            | 2024-08-13     | v1.22                   |
+| Git: ⚠️         | v1.23            | 2024-08-13     | v1.22                   |
+| Sqlite: ⚠️      | v1.23            | 2024-08-13     | v1.22                   |
+| DNS server: ⚠️  | v1.23            | 2024-08-13     | v1.22                   |
+| HTTP server: ⚠️ | v1.23            | 2024-08-13     | v1.22                   |
+| Bittorrent: ⚠️  | v1.23            | 2024-08-13     | v1.22                   |
+| Grep: ⚠️        | v1.23            | 2024-08-13     | v1.22                   |
+| Shell: ⚠️       | v1.23            | 2024-08-13     | v1.22                   |
 
 ### [Python](https://app.codecrafters.io/tracks/python)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -306,7 +306,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Redis: ⚠️       | v0.13            | 2024-06-07     | v0.12                   |
 | Interpreter: ✅  | v0.13            | 2024-06-07     | v0.13                   |
 | Git: ⚠️         | v0.13            | 2024-06-07     | v0.12                   |
-| Sqlite: ⚠️      | v0.13            | 2024-06-07     | v0.12                   |
+| Sqlite: ✅       | v0.13            | 2024-06-07     | v0.13                   |
 | HTTP server: ⚠️ | v0.13            | 2024-06-07     | v0.12                   |
 | Bittorrent: ⚠️  | v0.13            | 2024-06-07     | v0.12                   |
 | Shell: ✅        | v0.13            | 2024-06-07     | v0.13                   |
