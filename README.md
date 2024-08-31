@@ -106,17 +106,17 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Shell: ❌       | v1.13            | 2024-08-20     | -                       |
 
 ### [Dart](https://app.codecrafters.io/tracks/dart)
-| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:---------------|:-----------------|:---------------|:------------------------|
-| HTTP server: ✅ | v3.5             | 2024-08-16     | v3.4                    |
-| Redis: ❌       | v3.5             | 2024-08-16     | -                       |
-| Interpreter: ❌ | v3.5             | 2024-08-16     | -                       |
-| Git: ❌         | v3.5             | 2024-08-16     | -                       |
-| Sqlite: ❌      | v3.5             | 2024-08-16     | -                       |
-| DNS server: ❌  | v3.5             | 2024-08-16     | -                       |
-| Bittorrent: ❌  | v3.5             | 2024-08-16     | -                       |
-| Grep: ❌        | v3.5             | 2024-08-16     | -                       |
-| Shell: ❌       | v3.5             | 2024-08-16     | -                       |
+| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:----------------|:-----------------|:---------------|:------------------------|
+| HTTP server: ⚠️ | v3.5             | 2024-08-16     | v3.4                    |
+| Redis: ❌        | v3.5             | 2024-08-16     | -                       |
+| Interpreter: ❌  | v3.5             | 2024-08-16     | -                       |
+| Git: ❌          | v3.5             | 2024-08-16     | -                       |
+| Sqlite: ❌       | v3.5             | 2024-08-16     | -                       |
+| DNS server: ❌   | v3.5             | 2024-08-16     | -                       |
+| Bittorrent: ❌   | v3.5             | 2024-08-16     | -                       |
+| Grep: ❌         | v3.5             | 2024-08-16     | -                       |
+| Shell: ❌        | v3.5             | 2024-08-16     | -                       |
 
 ### [C#](https://app.codecrafters.io/tracks/dotnet)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
