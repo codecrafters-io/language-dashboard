@@ -95,7 +95,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Crystal](https://app.codecrafters.io/tracks/crystal)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.13            | 2024-08-20     | v1.1                    |
+| Redis: ⚠️      | v1.13            | 2024-08-20     | v1.1                    |
 | Interpreter: ❌ | v1.13            | 2024-08-20     | -                       |
 | Git: ❌         | v1.13            | 2024-08-20     | -                       |
 | Sqlite: ❌      | v1.13            | 2024-08-20     | -                       |
