@@ -213,6 +213,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
 | Redis: ❗       | v22.0            | 2024-04-24     | v21.0                   |
+| Interpreter: ❗ | v22.0            | 2024-04-24     | v21.0                   |
 | Git: ❗         | v22.0            | 2024-04-24     | v21.0                   |
 | Sqlite: ❗      | v22.0            | 2024-04-24     | v21.0                   |
 | DNS server: ❗  | v22.0            | 2024-04-24     | v21.0                   |
@@ -220,7 +221,6 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Bittorrent: ❗  | v22.0            | 2024-04-24     | v21.0                   |
 | Grep: ❗        | v22.0            | 2024-04-24     | v21.0                   |
 | Shell: ❗       | v22.0            | 2024-04-24     | v21.0                   |
-| Interpreter: ❌ | v22.0            | 2024-04-24     | -                       |
 
 ### [OCaml](https://app.codecrafters.io/tracks/ocaml)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
