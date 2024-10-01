@@ -277,9 +277,9 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Swift](https://app.codecrafters.io/tracks/swift)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
+| Redis: 🥑       | v5.10            | 2024-06-06     | v6.0                    |
+| Interpreter: 🥑 | v5.10            | 2024-06-06     | v6.0                    |
 | Sqlite: ❗      | v5.10            | 2024-06-06     | v5.7                    |
-| Redis: ❌       | v5.10            | 2024-06-06     | -                       |
-| Interpreter: ❌ | v5.10            | 2024-06-06     | -                       |
 | Git: ❌         | v5.10            | 2024-06-06     | -                       |
 | DNS server: ❌  | v5.10            | 2024-06-06     | -                       |
 | HTTP server: ❌ | v5.10            | 2024-06-06     | -                       |
