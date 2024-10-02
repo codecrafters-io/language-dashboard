@@ -171,17 +171,17 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Shell: ❌       | v9.10            | 2024-05-10     | -                       |
 
 ### [Java](https://app.codecrafters.io/tracks/java)
-| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v23.0            | 2024-09-17     | v21.0                   |
-| Git: ✅         | v23.0            | 2024-09-17     | v21.0                   |
-| Sqlite: ✅      | v23.0            | 2024-09-17     | v21.0                   |
-| DNS server: ✅  | v23.0            | 2024-09-17     | v21.0                   |
-| HTTP server: ✅ | v23.0            | 2024-09-17     | v21.0                   |
-| Bittorrent: ✅  | v23.0            | 2024-09-17     | v21.0                   |
-| Shell: ✅       | v23.0            | 2024-09-17     | v21.0                   |
-| Interpreter: ❌ | v23.0            | 2024-09-17     | -                       |
-| Grep: ❌        | v23.0            | 2024-09-17     | -                       |
+| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:----------------|:-----------------|:---------------|:------------------------|
+| Redis: ⚠️       | v23.0            | 2024-09-17     | v21.0                   |
+| Git: ⚠️         | v23.0            | 2024-09-17     | v21.0                   |
+| Sqlite: ⚠️      | v23.0            | 2024-09-17     | v21.0                   |
+| DNS server: ⚠️  | v23.0            | 2024-09-17     | v21.0                   |
+| HTTP server: ⚠️ | v23.0            | 2024-09-17     | v21.0                   |
+| Bittorrent: ⚠️  | v23.0            | 2024-09-17     | v21.0                   |
+| Grep: ✅         | v23.0            | 2024-09-17     | v23.0                   |
+| Shell: ⚠️       | v23.0            | 2024-09-17     | v21.0                   |
+| Interpreter: ❌  | v23.0            | 2024-09-17     | -                       |
 
 ### [Kotlin](https://app.codecrafters.io/tracks/kotlin)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
