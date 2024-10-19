@@ -15,17 +15,17 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ## Supported Languages
 
 ### [Rust](https://app.codecrafters.io/tracks/rust)
-| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:----------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️       | v1.81            | 2024-09-05     | v1.77                   |
-| Interpreter: ⚠️ | v1.81            | 2024-09-05     | v1.80                   |
-| Git: ⚠️         | v1.81            | 2024-09-05     | v1.80                   |
-| Sqlite: ⚠️      | v1.81            | 2024-09-05     | v1.80                   |
-| DNS server: ⚠️  | v1.81            | 2024-09-05     | v1.80                   |
-| HTTP server: ⚠️ | v1.81            | 2024-09-05     | v1.80                   |
-| Bittorrent: ⚠️  | v1.81            | 2024-09-05     | v1.77                   |
-| Grep: ⚠️        | v1.81            | 2024-09-05     | v1.80                   |
-| Shell: ⚠️       | v1.81            | 2024-09-05     | v1.80                   |
+| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:---------------|:-----------------|:---------------|:------------------------|
+| Redis: ✅       | v1.82            | 2024-10-17     | v1.77                   |
+| Interpreter: ✅ | v1.82            | 2024-10-17     | v1.80                   |
+| Git: ✅         | v1.82            | 2024-10-17     | v1.80                   |
+| Sqlite: ✅      | v1.82            | 2024-10-17     | v1.80                   |
+| DNS server: ✅  | v1.82            | 2024-10-17     | v1.80                   |
+| HTTP server: ✅ | v1.82            | 2024-10-17     | v1.80                   |
+| Bittorrent: ✅  | v1.82            | 2024-10-17     | v1.77                   |
+| Grep: ✅        | v1.82            | 2024-10-17     | v1.80                   |
+| Shell: ✅       | v1.82            | 2024-10-17     | v1.80                   |
 
 ### [Go](https://app.codecrafters.io/tracks/go)
 | Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
