@@ -41,17 +41,17 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Shell: ⚠️       | v1.23            | 2024-08-13     | v1.22                   |
 
 ### [Python](https://app.codecrafters.io/tracks/python)
-| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v3.13            | 2024-10-07     | v3.12                   |
-| Interpreter: ✅ | v3.13            | 2024-10-07     | v3.12                   |
-| Git: ✅         | v3.13            | 2024-10-07     | v3.12                   |
-| Sqlite: ✅      | v3.13            | 2024-10-07     | v3.12                   |
-| DNS server: ✅  | v3.13            | 2024-10-07     | v3.12                   |
-| HTTP server: ✅ | v3.13            | 2024-10-07     | v3.12                   |
-| Bittorrent: ✅  | v3.13            | 2024-10-07     | v3.12                   |
-| Grep: ✅        | v3.13            | 2024-10-07     | v3.12                   |
-| Shell: ✅       | v3.13            | 2024-10-07     | v3.12                   |
+| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:----------------|:-----------------|:---------------|:------------------------|
+| Redis: ⚠️       | v3.13            | 2024-10-07     | v3.12                   |
+| Interpreter: ⚠️ | v3.13            | 2024-10-07     | v3.12                   |
+| Git: ⚠️         | v3.13            | 2024-10-07     | v3.12                   |
+| Sqlite: ⚠️      | v3.13            | 2024-10-07     | v3.12                   |
+| DNS server: ⚠️  | v3.13            | 2024-10-07     | v3.12                   |
+| HTTP server: ⚠️ | v3.13            | 2024-10-07     | v3.12                   |
+| Bittorrent: ⚠️  | v3.13            | 2024-10-07     | v3.12                   |
+| Grep: ⚠️        | v3.13            | 2024-10-07     | v3.12                   |
+| Shell: ⚠️       | v3.13            | 2024-10-07     | v3.12                   |
 
 ### [C](https://app.codecrafters.io/tracks/c)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
