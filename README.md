@@ -59,11 +59,11 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Redis: ❗       | v9.5             | 2022-05-27     | v9.2                    |
 | Interpreter: 🥑 | v9.5             | 2022-05-27     | v23.0                   |
 | Git: 🥑         | v9.5             | 2022-05-27     | v23.0                   |
+| Sqlite: 🥑      | v9.5             | 2022-05-27     | v23.0                   |
 | DNS server: ❗  | v9.5             | 2022-05-27     | v9.2                    |
 | HTTP server: ❗ | v9.5             | 2022-05-27     | v9.2                    |
 | Bittorrent: ❗  | v9.5             | 2022-05-27     | v9.2                    |
 | Shell: ❗       | v9.5             | 2022-05-27     | v9.2                    |
-| Sqlite: ❌      | v9.5             | 2022-05-27     | -                       |
 | Grep: ❌        | v9.5             | 2022-05-27     | -                       |
 
 ### [Clojure](https://app.codecrafters.io/tracks/clojure)
