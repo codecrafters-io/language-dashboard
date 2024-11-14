@@ -303,7 +303,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Zig](https://app.codecrafters.io/tracks/zig)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ❗       | v0.13            | 2024-06-07     | v0.12                   |
+| Redis: ✅       | v0.13            | 2024-06-07     | v0.13                   |
 | Interpreter: ✅ | v0.13            | 2024-06-07     | v0.13                   |
 | Git: ❗         | v0.13            | 2024-06-07     | v0.12                   |
 | Sqlite: ✅      | v0.13            | 2024-06-07     | v0.13                   |
