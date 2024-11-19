@@ -95,7 +95,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Crystal](https://app.codecrafters.io/tracks/crystal)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️      | v1.13            | 2024-08-20     | v1.1                    |
+| Redis: ❗       | v1.13            | 2024-08-20     | v1.1                    |
 | Interpreter: ❌ | v1.13            | 2024-08-20     | -                       |
 | Git: ❌         | v1.13            | 2024-08-20     | -                       |
 | Sqlite: ❌      | v1.13            | 2024-08-20     | -                       |
@@ -128,8 +128,8 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | HTTP server: ✅ | v9.0             | 2024-11-12     | v8.0                    |
 | Bittorrent: ✅  | v9.0             | 2024-11-12     | v8.0                    |
 | Grep: ✅        | v9.0             | 2024-11-12     | v8.0                    |
+| Shell: ✅       | v9.0             | 2024-11-12     | v8.0                    |
 | Interpreter: ❌ | v9.0             | 2024-11-12     | -                       |
-| Shell: ❌       | v9.0             | 2024-11-12     | -                       |
 
 ### [Elixir](https://app.codecrafters.io/tracks/elixir)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
