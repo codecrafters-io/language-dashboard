@@ -238,15 +238,15 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [PHP](https://app.codecrafters.io/tracks/php)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v8.3             | 2023-11-23     | v8.3                    |
-| Interpreter: ❌ | v8.3             | 2023-11-23     | -                       |
-| Git: ❌         | v8.3             | 2023-11-23     | -                       |
-| Sqlite: ❌      | v8.3             | 2023-11-23     | -                       |
-| DNS server: ❌  | v8.3             | 2023-11-23     | -                       |
-| HTTP server: ❌ | v8.3             | 2023-11-23     | -                       |
-| Bittorrent: ❌  | v8.3             | 2023-11-23     | -                       |
-| Grep: ❌        | v8.3             | 2023-11-23     | -                       |
-| Shell: ❌       | v8.3             | 2023-11-23     | -                       |
+| Redis: ✅       | v8.4             | 2024-11-21     | v8.3                    |
+| Interpreter: ❌ | v8.4             | 2024-11-21     | -                       |
+| Git: ❌         | v8.4             | 2024-11-21     | -                       |
+| Sqlite: ❌      | v8.4             | 2024-11-21     | -                       |
+| DNS server: ❌  | v8.4             | 2024-11-21     | -                       |
+| HTTP server: ❌ | v8.4             | 2024-11-21     | -                       |
+| Bittorrent: ❌  | v8.4             | 2024-11-21     | -                       |
+| Grep: ❌        | v8.4             | 2024-11-21     | -                       |
+| Shell: ❌       | v8.4             | 2024-11-21     | -                       |
 
 ### [Ruby](https://app.codecrafters.io/tracks/ruby)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
