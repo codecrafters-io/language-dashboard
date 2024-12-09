@@ -164,3 +164,4 @@ cython_debug/
 
 .DS_Store
 *.ipynb
+.history/
