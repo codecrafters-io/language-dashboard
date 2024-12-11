@@ -239,6 +239,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
 | Redis: ⚠️      | v8.4             | 2024-11-21     | v8.3                    |
+| Shell: ✅       | v8.4             | 2024-11-21     | v8.4                    |
 | Interpreter: ❌ | v8.4             | 2024-11-21     | -                       |
 | Git: ❌         | v8.4             | 2024-11-21     | -                       |
 | Sqlite: ❌      | v8.4             | 2024-11-21     | -                       |
@@ -246,7 +247,6 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | HTTP server: ❌ | v8.4             | 2024-11-21     | -                       |
 | Bittorrent: ❌  | v8.4             | 2024-11-21     | -                       |
 | Grep: ❌        | v8.4             | 2024-11-21     | -                       |
-| Shell: ❌       | v8.4             | 2024-11-21     | -                       |
 
 ### [Ruby](https://app.codecrafters.io/tracks/ruby)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
