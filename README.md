@@ -132,17 +132,17 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Shell: ✅        | v9.0             | 2024-11-12     | v9.0                    |
 
 ### [Elixir](https://app.codecrafters.io/tracks/elixir)
-| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.18            | 2024-12-19     | v1.16                   |
-| HTTP server: ✅ | v1.18            | 2024-12-19     | v1.17                   |
-| Bittorrent: ✅  | v1.18            | 2024-12-19     | v1.16                   |
-| Interpreter: ❌ | v1.18            | 2024-12-19     | -                       |
-| Git: ❌         | v1.18            | 2024-12-19     | -                       |
-| Sqlite: ❌      | v1.18            | 2024-12-19     | -                       |
-| DNS server: ❌  | v1.18            | 2024-12-19     | -                       |
-| Grep: ❌        | v1.18            | 2024-12-19     | -                       |
-| Shell: ❌       | v1.18            | 2024-12-19     | -                       |
+| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:----------------|:-----------------|:---------------|:------------------------|
+| Redis: ⚠️       | v1.18            | 2024-12-19     | v1.16                   |
+| HTTP server: ⚠️ | v1.18            | 2024-12-19     | v1.17                   |
+| Bittorrent: ⚠️  | v1.18            | 2024-12-19     | v1.16                   |
+| Interpreter: ❌  | v1.18            | 2024-12-19     | -                       |
+| Git: ❌          | v1.18            | 2024-12-19     | -                       |
+| Sqlite: ❌       | v1.18            | 2024-12-19     | -                       |
+| DNS server: ❌   | v1.18            | 2024-12-19     | -                       |
+| Grep: ❌         | v1.18            | 2024-12-19     | -                       |
+| Shell: ❌        | v1.18            | 2024-12-19     | -                       |
 
 ### [Gleam](https://app.codecrafters.io/tracks/gleam)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
