@@ -184,17 +184,17 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Shell: ✅       | v23.0            | 2024-09-17     | v23.0                   |
 
 ### [Kotlin](https://app.codecrafters.io/tracks/kotlin)
-| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:----------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️       | v2.1             | 2024-10-10     | v2.0                    |
-| Interpreter: ⚠️ | v2.1             | 2024-10-10     | v2.0                    |
-| Git: ⚠️         | v2.1             | 2024-10-10     | v2.0                    |
-| Sqlite: ⚠️      | v2.1             | 2024-10-10     | v2.0                    |
-| DNS server: ⚠️  | v2.1             | 2024-10-10     | v2.0                    |
-| HTTP server: ⚠️ | v2.1             | 2024-10-10     | v2.0                    |
-| Bittorrent: ⚠️  | v2.1             | 2024-10-10     | v1.9                    |
-| Grep: ⚠️        | v2.1             | 2024-10-10     | v2.0                    |
-| Shell: ⚠️       | v2.1             | 2024-10-10     | v2.0                    |
+| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:---------------|:-----------------|:---------------|:------------------------|
+| Redis: ❗       | v2.1             | 2024-10-10     | v2.0                    |
+| Interpreter: ❗ | v2.1             | 2024-10-10     | v2.0                    |
+| Git: ❗         | v2.1             | 2024-10-10     | v2.0                    |
+| Sqlite: ❗      | v2.1             | 2024-10-10     | v2.0                    |
+| DNS server: ❗  | v2.1             | 2024-10-10     | v2.0                    |
+| HTTP server: ❗ | v2.1             | 2024-10-10     | v2.0                    |
+| Bittorrent: ❗  | v2.1             | 2024-10-10     | v1.9                    |
+| Grep: ❗        | v2.1             | 2024-10-10     | v2.0                    |
+| Shell: ❗       | v2.1             | 2024-10-10     | v2.0                    |
 
 ### [Nim](https://app.codecrafters.io/tracks/nim)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
