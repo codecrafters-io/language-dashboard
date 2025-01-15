@@ -210,17 +210,17 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Shell: ❌       | v2.2             | 2024-10-02     | -                       |
 
 ### [Javascript](https://app.codecrafters.io/tracks/nodejs)
-| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:----------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️       | v23.0            | 2024-10-16     | v21.0                   |
-| Interpreter: ⚠️ | v23.0            | 2024-10-16     | v21.0                   |
-| Git: ⚠️         | v23.0            | 2024-10-16     | v21.0                   |
-| Sqlite: ⚠️      | v23.0            | 2024-10-16     | v21.0                   |
-| DNS server: ⚠️  | v23.0            | 2024-10-16     | v21.0                   |
-| HTTP server: ⚠️ | v23.0            | 2024-10-16     | v21.0                   |
-| Bittorrent: ⚠️  | v23.0            | 2024-10-16     | v21.0                   |
-| Grep: ⚠️        | v23.0            | 2024-10-16     | v21.0                   |
-| Shell: ⚠️       | v23.0            | 2024-10-16     | v21.0                   |
+| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:---------------|:-----------------|:---------------|:------------------------|
+| Redis: ❗       | v23.0            | 2024-10-16     | v21.0                   |
+| Interpreter: ❗ | v23.0            | 2024-10-16     | v21.0                   |
+| Git: ❗         | v23.0            | 2024-10-16     | v21.0                   |
+| Sqlite: ❗      | v23.0            | 2024-10-16     | v21.0                   |
+| DNS server: ❗  | v23.0            | 2024-10-16     | v21.0                   |
+| HTTP server: ❗ | v23.0            | 2024-10-16     | v21.0                   |
+| Bittorrent: ❗  | v23.0            | 2024-10-16     | v21.0                   |
+| Grep: ❗        | v23.0            | 2024-10-16     | v21.0                   |
+| Shell: ❗       | v23.0            | 2024-10-16     | v21.0                   |
 
 ### [OCaml](https://app.codecrafters.io/tracks/ocaml)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
