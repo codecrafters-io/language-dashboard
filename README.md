@@ -279,7 +279,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 |:---------------|:-----------------|:---------------|:------------------------|
 | Redis: ✅       | v6.0             | 2024-10-28     | v6.0                    |
 | Interpreter: ✅ | v6.0             | 2024-10-28     | v6.0                    |
-| Sqlite: ⚠️     | v6.0             | 2024-10-28     | v5.7                    |
+| Sqlite: ❗      | v6.0             | 2024-10-28     | v5.7                    |
 | Git: ❌         | v6.0             | 2024-10-28     | -                       |
 | DNS server: ❌  | v6.0             | 2024-10-28     | -                       |
 | HTTP server: ❌ | v6.0             | 2024-10-28     | -                       |
