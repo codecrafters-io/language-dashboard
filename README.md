@@ -59,14 +59,14 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [C](https://app.codecrafters.io/tracks/c)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ❗       | v9.5             | 2022-05-27     | v9.2                    |
+| Redis: 🥑       | v9.5             | 2022-05-27     | v23.0                   |
 | Interpreter: 🥑 | v9.5             | 2022-05-27     | v23.0                   |
 | Git: 🥑         | v9.5             | 2022-05-27     | v23.0                   |
 | Sqlite: 🥑      | v9.5             | 2022-05-27     | v23.0                   |
-| DNS server: ❗  | v9.5             | 2022-05-27     | v9.2                    |
-| HTTP server: ❗ | v9.5             | 2022-05-27     | v9.2                    |
-| Bittorrent: ❗  | v9.5             | 2022-05-27     | v9.2                    |
-| Shell: ❗       | v9.5             | 2022-05-27     | v9.2                    |
+| DNS server: 🥑  | v9.5             | 2022-05-27     | v23.0                   |
+| HTTP server: 🥑 | v9.5             | 2022-05-27     | v23.0                   |
+| Bittorrent: 🥑  | v9.5             | 2022-05-27     | v23.0                   |
+| Shell: 🥑       | v9.5             | 2022-05-27     | v23.0                   |
 | Grep: ❌        | v9.5             | 2022-05-27     | -                       |
 | Kafka: ❌       | v9.5             | 2022-05-27     | -                       |
 
