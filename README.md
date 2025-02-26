@@ -17,7 +17,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Rust](https://app.codecrafters.io/tracks/rust)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.85            | 2025-02-20     | v1.82                   |
+| Redis: ✅       | v1.85            | 2025-02-20     | v1.85                   |
 | Interpreter: ✅ | v1.85            | 2025-02-20     | v1.82                   |
 | Git: ✅         | v1.85            | 2025-02-20     | v1.82                   |
 | Sqlite: ✅      | v1.85            | 2025-02-20     | v1.82                   |
@@ -29,18 +29,18 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Kafka: ✅       | v1.85            | 2025-02-20     | v1.82                   |
 
 ### [Go](https://app.codecrafters.io/tracks/go)
-| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.24            | 2025-02-11     | v1.22                   |
-| Interpreter: ✅ | v1.24            | 2025-02-11     | v1.22                   |
-| Git: ✅         | v1.24            | 2025-02-11     | v1.22                   |
-| Sqlite: ✅      | v1.24            | 2025-02-11     | v1.22                   |
-| DNS server: ✅  | v1.24            | 2025-02-11     | v1.22                   |
-| HTTP server: ✅ | v1.24            | 2025-02-11     | v1.22                   |
-| Bittorrent: ✅  | v1.24            | 2025-02-11     | v1.22                   |
-| Grep: ✅        | v1.24            | 2025-02-11     | v1.22                   |
-| Shell: ✅       | v1.24            | 2025-02-11     | v1.22                   |
-| Kafka: ✅       | v1.24            | 2025-02-11     | v1.22                   |
+| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:----------------|:-----------------|:---------------|:------------------------|
+| Redis: ⚠️       | v1.24            | 2025-02-11     | v1.22                   |
+| Interpreter: ⚠️ | v1.24            | 2025-02-11     | v1.22                   |
+| Git: ⚠️         | v1.24            | 2025-02-11     | v1.22                   |
+| Sqlite: ⚠️      | v1.24            | 2025-02-11     | v1.22                   |
+| DNS server: ⚠️  | v1.24            | 2025-02-11     | v1.22                   |
+| HTTP server: ⚠️ | v1.24            | 2025-02-11     | v1.22                   |
+| Bittorrent: ⚠️  | v1.24            | 2025-02-11     | v1.22                   |
+| Grep: ⚠️        | v1.24            | 2025-02-11     | v1.22                   |
+| Shell: ⚠️       | v1.24            | 2025-02-11     | v1.22                   |
+| Kafka: ⚠️       | v1.24            | 2025-02-11     | v1.22                   |
 
 ### [Python](https://app.codecrafters.io/tracks/python)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -197,18 +197,18 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Kafka: ✅       | v23.0            | 2024-09-17     | v23.0                   |
 
 ### [Kotlin](https://app.codecrafters.io/tracks/kotlin)
-| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:----------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️       | v2.1             | 2024-11-27     | v2.0                    |
-| Interpreter: ⚠️ | v2.1             | 2024-11-27     | v2.0                    |
-| Git: ⚠️         | v2.1             | 2024-11-27     | v2.0                    |
-| Sqlite: ⚠️      | v2.1             | 2024-11-27     | v2.0                    |
-| DNS server: ⚠️  | v2.1             | 2024-11-27     | v2.0                    |
-| HTTP server: ⚠️ | v2.1             | 2024-11-27     | v2.0                    |
-| Bittorrent: ⚠️  | v2.1             | 2024-11-27     | v1.9                    |
-| Grep: ⚠️        | v2.1             | 2024-11-27     | v2.0                    |
-| Shell: ⚠️       | v2.1             | 2024-11-27     | v2.0                    |
-| Kafka: ❌        | v2.1             | 2024-11-27     | -                       |
+| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:---------------|:-----------------|:---------------|:------------------------|
+| Redis: ❗       | v2.1             | 2024-11-27     | v2.0                    |
+| Interpreter: ❗ | v2.1             | 2024-11-27     | v2.0                    |
+| Git: ❗         | v2.1             | 2024-11-27     | v2.0                    |
+| Sqlite: ❗      | v2.1             | 2024-11-27     | v2.0                    |
+| DNS server: ❗  | v2.1             | 2024-11-27     | v2.0                    |
+| HTTP server: ❗ | v2.1             | 2024-11-27     | v2.0                    |
+| Bittorrent: ❗  | v2.1             | 2024-11-27     | v1.9                    |
+| Grep: ❗        | v2.1             | 2024-11-27     | v2.0                    |
+| Shell: ❗       | v2.1             | 2024-11-27     | v2.0                    |
+| Kafka: ❌       | v2.1             | 2024-11-27     | -                       |
 
 ### [Nim](https://app.codecrafters.io/tracks/nim)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
