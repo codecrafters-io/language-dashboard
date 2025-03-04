@@ -37,7 +37,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Sqlite: ✅      | v1.24            | 2025-02-11     | v1.24                   |
 | DNS server: ✅  | v1.24            | 2025-02-11     | v1.24                   |
 | HTTP server: ✅ | v1.24            | 2025-02-11     | v1.24                   |
-| Bittorrent: ⚠️ | v1.24            | 2025-02-11     | v1.22                   |
+| Bittorrent: ✅  | v1.24            | 2025-02-11     | v1.24                   |
 | Grep: ✅        | v1.24            | 2025-02-11     | v1.24                   |
 | Shell: ✅       | v1.24            | 2025-02-11     | v1.24                   |
 | Kafka: ✅       | v1.24            | 2025-02-11     | v1.24                   |
