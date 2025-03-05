@@ -162,7 +162,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Sqlite: ✅      | v1.6             | 2024-12-04     | v1.6                    |
 | HTTP server: ✅ | v1.6             | 2024-12-04     | v1.6                    |
 | Grep: ✅        | v1.6             | 2024-12-04     | v1.6                    |
-| Kafka: ⚠️      | v1.6             | 2024-12-04     | v1.4                    |
+| Kafka: ❗       | v1.6             | 2024-12-04     | v1.4                    |
 | Git: ❌         | v1.6             | 2024-12-04     | -                       |
 | DNS server: ❌  | v1.6             | 2024-12-04     | -                       |
 | Bittorrent: ❌  | v1.6             | 2024-12-04     | -                       |
