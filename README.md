@@ -15,18 +15,18 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ## Supported Languages
 
 ### [Rust](https://app.codecrafters.io/tracks/rust)
-| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.85            | 2025-02-20     | v1.85                   |
-| Interpreter: ✅ | v1.85            | 2025-02-20     | v1.82                   |
-| Git: ✅         | v1.85            | 2025-02-20     | v1.82                   |
-| Sqlite: ✅      | v1.85            | 2025-02-20     | v1.82                   |
-| DNS server: ✅  | v1.85            | 2025-02-20     | v1.82                   |
-| HTTP server: ✅ | v1.85            | 2025-02-20     | v1.82                   |
-| Bittorrent: ✅  | v1.85            | 2025-02-20     | v1.82                   |
-| Grep: ✅        | v1.85            | 2025-02-20     | v1.82                   |
-| Shell: ✅       | v1.85            | 2025-02-20     | v1.82                   |
-| Kafka: ✅       | v1.85            | 2025-02-20     | v1.82                   |
+| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:----------------|:-----------------|:---------------|:------------------------|
+| Redis: ✅        | v1.85            | 2025-02-20     | v1.85                   |
+| Interpreter: ⚠️ | v1.85            | 2025-02-20     | v1.82                   |
+| Git: ⚠️         | v1.85            | 2025-02-20     | v1.82                   |
+| Sqlite: ⚠️      | v1.85            | 2025-02-20     | v1.82                   |
+| DNS server: ⚠️  | v1.85            | 2025-02-20     | v1.82                   |
+| HTTP server: ⚠️ | v1.85            | 2025-02-20     | v1.82                   |
+| Bittorrent: ⚠️  | v1.85            | 2025-02-20     | v1.82                   |
+| Grep: ⚠️        | v1.85            | 2025-02-20     | v1.82                   |
+| Shell: ⚠️       | v1.85            | 2025-02-20     | v1.82                   |
+| Kafka: ⚠️       | v1.85            | 2025-02-20     | v1.82                   |
 
 ### [Go](https://app.codecrafters.io/tracks/go)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
