@@ -283,7 +283,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Scala](https://app.codecrafters.io/tracks/scala)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️      | v3.6             | 2024-12-10     | v2.12                   |
+| Redis: ❗       | v3.6             | 2024-12-10     | v2.12                   |
 | Interpreter: ❌ | v3.6             | 2024-12-10     | -                       |
 | Git: ❌         | v3.6             | 2024-12-10     | -                       |
 | Sqlite: ❌      | v3.6             | 2024-12-10     | -                       |
