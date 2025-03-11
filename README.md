@@ -21,7 +21,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Interpreter: ⚠️ | v1.85            | 2025-02-20     | v1.82                   |
 | Git: ⚠️         | v1.85            | 2025-02-20     | v1.82                   |
 | Sqlite: ⚠️      | v1.85            | 2025-02-20     | v1.82                   |
-| DNS server: ⚠️  | v1.85            | 2025-02-20     | v1.82                   |
+| DNS server: ✅   | v1.85            | 2025-02-20     | v1.85                   |
 | HTTP server: ⚠️ | v1.85            | 2025-02-20     | v1.82                   |
 | Bittorrent: ⚠️  | v1.85            | 2025-02-20     | v1.82                   |
 | Grep: ⚠️        | v1.85            | 2025-02-20     | v1.82                   |
@@ -157,16 +157,16 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Gleam](https://app.codecrafters.io/tracks/gleam)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.6             | 2024-12-04     | v1.6                    |
-| Interpreter: ✅ | v1.6             | 2024-12-04     | v1.6                    |
-| Sqlite: ✅      | v1.6             | 2024-12-04     | v1.6                    |
-| HTTP server: ✅ | v1.6             | 2024-12-04     | v1.6                    |
-| Grep: ✅        | v1.6             | 2024-12-04     | v1.6                    |
-| Kafka: ❗       | v1.6             | 2024-12-04     | v1.4                    |
+| Redis: 🥑       | v1.6             | 2024-12-04     | v1.9                    |
+| Interpreter: 🥑 | v1.6             | 2024-12-04     | v1.9                    |
+| Sqlite: 🥑      | v1.6             | 2024-12-04     | v1.9                    |
+| HTTP server: 🥑 | v1.6             | 2024-12-04     | v1.9                    |
+| Grep: 🥑        | v1.6             | 2024-12-04     | v1.9                    |
+| Shell: 🥑       | v1.6             | 2024-12-04     | v1.9                    |
+| Kafka: 🥑       | v1.6             | 2024-12-04     | v1.9                    |
 | Git: ❌         | v1.6             | 2024-12-04     | -                       |
 | DNS server: ❌  | v1.6             | 2024-12-04     | -                       |
 | Bittorrent: ❌  | v1.6             | 2024-12-04     | -                       |
-| Shell: ❌       | v1.6             | 2024-12-04     | -                       |
 
 ### [Haskell](https://app.codecrafters.io/tracks/haskell)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
