@@ -44,5 +44,5 @@ swift:
   releaseDate: "2024-10-28"
 zig:
   # https://github.com/ziglang/zig/releases
-  cycle: "0.13.0"
-  releaseDate: "2024-06-07"
+  cycle: "0.14.0"
+  releaseDate: "2025-03-05"
