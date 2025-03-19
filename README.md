@@ -325,14 +325,14 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Zig](https://app.codecrafters.io/tracks/zig)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v0.13            | 2024-06-07     | v0.13                   |
-| Interpreter: ✅ | v0.13            | 2024-06-07     | v0.13                   |
-| Git: ❗         | v0.13            | 2024-06-07     | v0.12                   |
-| Sqlite: ✅      | v0.13            | 2024-06-07     | v0.13                   |
-| HTTP server: ❗ | v0.13            | 2024-06-07     | v0.12                   |
-| Bittorrent: ❗  | v0.13            | 2024-06-07     | v0.12                   |
-| Shell: ✅       | v0.13            | 2024-06-07     | v0.13                   |
-| DNS server: ❌  | v0.13            | 2024-06-07     | -                       |
-| Grep: ❌        | v0.13            | 2024-06-07     | -                       |
-| Kafka: ❌       | v0.13            | 2024-06-07     | -                       |
+| Redis: ✅       | v0.14            | 2025-03-05     | v0.14                   |
+| Interpreter: ✅ | v0.14            | 2025-03-05     | v0.14                   |
+| Git: ✅         | v0.14            | 2025-03-05     | v0.14                   |
+| Sqlite: ✅      | v0.14            | 2025-03-05     | v0.14                   |
+| HTTP server: ✅ | v0.14            | 2025-03-05     | v0.14                   |
+| Bittorrent: ✅  | v0.14            | 2025-03-05     | v0.14                   |
+| Shell: ✅       | v0.14            | 2025-03-05     | v0.14                   |
+| DNS server: ❌  | v0.14            | 2025-03-05     | -                       |
+| Grep: ❌        | v0.14            | 2025-03-05     | -                       |
+| Kafka: ❌       | v0.14            | 2025-03-05     | -                       |
 
