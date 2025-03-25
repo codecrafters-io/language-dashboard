@@ -267,18 +267,18 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Kafka: ❌       | v8.4             | 2024-11-21     | -                       |
 
 ### [Ruby](https://app.codecrafters.io/tracks/ruby)
-| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:----------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️       | v3.4             | 2024-12-24     | v3.3                    |
-| Git: ⚠️         | v3.4             | 2024-12-24     | v3.3                    |
-| Sqlite: ⚠️      | v3.4             | 2024-12-24     | v3.3                    |
-| DNS server: ⚠️  | v3.4             | 2024-12-24     | v3.3                    |
-| HTTP server: ⚠️ | v3.4             | 2024-12-24     | v3.3                    |
-| Bittorrent: ⚠️  | v3.4             | 2024-12-24     | v3.3                    |
-| Grep: ⚠️        | v3.4             | 2024-12-24     | v3.3                    |
-| Shell: ⚠️       | v3.4             | 2024-12-24     | v3.3                    |
-| Interpreter: ❌  | v3.4             | 2024-12-24     | -                       |
-| Kafka: ❌        | v3.4             | 2024-12-24     | -                       |
+| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:---------------|:-----------------|:---------------|:------------------------|
+| Redis: ❗       | v3.4             | 2024-12-24     | v3.3                    |
+| Git: ❗         | v3.4             | 2024-12-24     | v3.3                    |
+| Sqlite: ❗      | v3.4             | 2024-12-24     | v3.3                    |
+| DNS server: ❗  | v3.4             | 2024-12-24     | v3.3                    |
+| HTTP server: ❗ | v3.4             | 2024-12-24     | v3.3                    |
+| Bittorrent: ❗  | v3.4             | 2024-12-24     | v3.3                    |
+| Grep: ❗        | v3.4             | 2024-12-24     | v3.3                    |
+| Shell: ❗       | v3.4             | 2024-12-24     | v3.3                    |
+| Interpreter: ❌ | v3.4             | 2024-12-24     | -                       |
+| Kafka: ❌       | v3.4             | 2024-12-24     | -                       |
 
 ### [Scala](https://app.codecrafters.io/tracks/scala)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
