@@ -183,18 +183,18 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Kafka: ❌       | v9.10            | 2024-05-10     | -                       |
 
 ### [Java](https://app.codecrafters.io/tracks/java)
-| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v24.0            | 2025-03-18     | v23.0                   |
-| Interpreter: ✅ | v24.0            | 2025-03-18     | v23.0                   |
-| Git: ✅         | v24.0            | 2025-03-18     | v23.0                   |
-| Sqlite: ✅      | v24.0            | 2025-03-18     | v23.0                   |
-| DNS server: ✅  | v24.0            | 2025-03-18     | v23.0                   |
-| HTTP server: ✅ | v24.0            | 2025-03-18     | v23.0                   |
-| Bittorrent: ✅  | v24.0            | 2025-03-18     | v23.0                   |
-| Grep: ✅        | v24.0            | 2025-03-18     | v23.0                   |
-| Shell: ✅       | v24.0            | 2025-03-18     | v23.0                   |
-| Kafka: ✅       | v24.0            | 2025-03-18     | v23.0                   |
+| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:----------------|:-----------------|:---------------|:------------------------|
+| Redis: ⚠️       | v24.0            | 2025-03-18     | v23.0                   |
+| Interpreter: ⚠️ | v24.0            | 2025-03-18     | v23.0                   |
+| Git: ⚠️         | v24.0            | 2025-03-18     | v23.0                   |
+| Sqlite: ⚠️      | v24.0            | 2025-03-18     | v23.0                   |
+| DNS server: ⚠️  | v24.0            | 2025-03-18     | v23.0                   |
+| HTTP server: ⚠️ | v24.0            | 2025-03-18     | v23.0                   |
+| Bittorrent: ⚠️  | v24.0            | 2025-03-18     | v23.0                   |
+| Grep: ⚠️        | v24.0            | 2025-03-18     | v23.0                   |
+| Shell: ⚠️       | v24.0            | 2025-03-18     | v23.0                   |
+| Kafka: ⚠️       | v24.0            | 2025-03-18     | v23.0                   |
 
 ### [Kotlin](https://app.codecrafters.io/tracks/kotlin)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
