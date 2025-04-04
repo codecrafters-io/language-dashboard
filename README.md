@@ -329,10 +329,10 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Interpreter: ✅ | v0.14            | 2025-03-05     | v0.14                   |
 | Git: ✅         | v0.14            | 2025-03-05     | v0.14                   |
 | Sqlite: ✅      | v0.14            | 2025-03-05     | v0.14                   |
+| DNS server: ✅  | v0.14            | 2025-03-05     | v0.14                   |
 | HTTP server: ✅ | v0.14            | 2025-03-05     | v0.14                   |
 | Bittorrent: ✅  | v0.14            | 2025-03-05     | v0.14                   |
+| Grep: ✅        | v0.14            | 2025-03-05     | v0.14                   |
 | Shell: ✅       | v0.14            | 2025-03-05     | v0.14                   |
-| DNS server: ❌  | v0.14            | 2025-03-05     | -                       |
-| Grep: ❌        | v0.14            | 2025-03-05     | -                       |
-| Kafka: ❌       | v0.14            | 2025-03-05     | -                       |
+| Kafka: ✅       | v0.14            | 2025-03-05     | v0.14                   |
 
