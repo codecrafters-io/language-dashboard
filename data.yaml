@@ -3,8 +3,8 @@ bun:
   cycle: "1.1.38"
   releaseDate: "2024-11-29"
 c:
-  cycle: "9.5"
-  releaseDate: "2022-05-27"
+  cycle: "23.0"
+  releaseDate: "2024-10-31"
 clojure:
   # https://github.com/clojure/clojure/tags
   cycle: "1.12.0"
