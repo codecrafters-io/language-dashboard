@@ -172,10 +172,10 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
 | Redis: ❗       | v9.10            | 2024-05-10     | v9.8                    |
-| Git: ❗         | v9.10            | 2024-05-10     | v9.4                    |
+| Git: ❗         | v9.10            | 2024-05-10     | v9.8                    |
 | HTTP server: ❗ | v9.10            | 2024-05-10     | v9.8                    |
-| Bittorrent: ❗  | v9.10            | 2024-05-10     | v9.4                    |
-| Grep: ❗        | v9.10            | 2024-05-10     | v9.2                    |
+| Bittorrent: ❗  | v9.10            | 2024-05-10     | v9.8                    |
+| Grep: ❗        | v9.10            | 2024-05-10     | v9.8                    |
 | Interpreter: ❌ | v9.10            | 2024-05-10     | -                       |
 | Sqlite: ❌      | v9.10            | 2024-05-10     | -                       |
 | DNS server: ❌  | v9.10            | 2024-05-10     | -                       |
