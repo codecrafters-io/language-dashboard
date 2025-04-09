@@ -171,9 +171,9 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Haskell](https://app.codecrafters.io/tracks/haskell)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ❗       | v9.10            | 2024-05-10     | v9.4                    |
+| Redis: ❗       | v9.10            | 2024-05-10     | v9.8                    |
 | Git: ❗         | v9.10            | 2024-05-10     | v9.4                    |
-| HTTP server: ❗ | v9.10            | 2024-05-10     | v9.4                    |
+| HTTP server: ❗ | v9.10            | 2024-05-10     | v9.8                    |
 | Bittorrent: ❗  | v9.10            | 2024-05-10     | v9.4                    |
 | Grep: ❗        | v9.10            | 2024-05-10     | v9.2                    |
 | Interpreter: ❌ | v9.10            | 2024-05-10     | -                       |
