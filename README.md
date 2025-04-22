@@ -312,6 +312,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
 | Redis: ✅       | v1.1             | 2024-11-29     | v1.1                    |
+| Interpreter: ✅ | v1.1             | 2024-11-29     | v1.1                    |
 | Git: ✅         | v1.1             | 2024-11-29     | v1.1                    |
 | Sqlite: ✅      | v1.1             | 2024-11-29     | v1.1                    |
 | DNS server: ✅  | v1.1             | 2024-11-29     | v1.1                    |
@@ -320,7 +321,6 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Grep: ✅        | v1.1             | 2024-11-29     | v1.1                    |
 | Shell: ✅       | v1.1             | 2024-11-29     | v1.1                    |
 | Kafka: ✅       | v1.1             | 2024-11-29     | v1.1                    |
-| Interpreter: ❌ | v1.1             | 2024-11-29     | -                       |
 
 ### [Zig](https://app.codecrafters.io/tracks/zig)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
