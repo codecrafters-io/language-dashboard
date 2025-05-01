@@ -144,14 +144,14 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
 | Redis: ❗       | v1.18            | 2024-12-19     | v1.16                   |
+| Interpreter: ❗ | v1.18            | 2024-12-19     | v1.17                   |
 | HTTP server: ❗ | v1.18            | 2024-12-19     | v1.17                   |
 | Bittorrent: ❗  | v1.18            | 2024-12-19     | v1.16                   |
-| Interpreter: ❌ | v1.18            | 2024-12-19     | -                       |
+| Shell: ❗       | v1.18            | 2024-12-19     | v1.17                   |
 | Git: ❌         | v1.18            | 2024-12-19     | -                       |
 | Sqlite: ❌      | v1.18            | 2024-12-19     | -                       |
 | DNS server: ❌  | v1.18            | 2024-12-19     | -                       |
 | Grep: ❌        | v1.18            | 2024-12-19     | -                       |
-| Shell: ❌       | v1.18            | 2024-12-19     | -                       |
 | Kafka: ❌       | v1.18            | 2024-12-19     | -                       |
 
 ### [Gleam](https://app.codecrafters.io/tracks/gleam)
