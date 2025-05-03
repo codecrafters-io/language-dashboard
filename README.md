@@ -23,7 +23,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Sqlite: ⚠️      | v1.86            | 2025-04-03     | v1.85                   |
 | DNS server: ⚠️  | v1.86            | 2025-04-03     | v1.85                   |
 | HTTP server: ⚠️ | v1.86            | 2025-04-03     | v1.85                   |
-| Bittorrent: ⚠️  | v1.86            | 2025-04-03     | v1.85                   |
+| Bittorrent: ✅   | v1.86            | 2025-04-03     | v1.86                   |
 | Grep: ⚠️        | v1.86            | 2025-04-03     | v1.85                   |
 | Shell: ⚠️       | v1.86            | 2025-04-03     | v1.85                   |
 | Kafka: ⚠️       | v1.86            | 2025-04-03     | v1.85                   |
@@ -146,7 +146,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Redis: ❗       | v1.18            | 2024-12-19     | v1.16                   |
 | Interpreter: ❗ | v1.18            | 2024-12-19     | v1.17                   |
 | HTTP server: ❗ | v1.18            | 2024-12-19     | v1.17                   |
-| Bittorrent: ❗  | v1.18            | 2024-12-19     | v1.16                   |
+| Bittorrent: ❗  | v1.18            | 2024-12-19     | v1.17                   |
 | Shell: ❗       | v1.18            | 2024-12-19     | v1.17                   |
 | Git: ❌         | v1.18            | 2024-12-19     | -                       |
 | Sqlite: ❌      | v1.18            | 2024-12-19     | -                       |
@@ -205,7 +205,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Sqlite: ❗      | v2.1             | 2024-11-27     | v2.0                    |
 | DNS server: ❗  | v2.1             | 2024-11-27     | v2.0                    |
 | HTTP server: ❗ | v2.1             | 2024-11-27     | v2.0                    |
-| Bittorrent: ❗  | v2.1             | 2024-11-27     | v1.9                    |
+| Bittorrent: ❗  | v2.1             | 2024-11-27     | v2.0                    |
 | Grep: ❗        | v2.1             | 2024-11-27     | v2.0                    |
 | Shell: ❗       | v2.1             | 2024-11-27     | v2.0                    |
 | Kafka: ❌       | v2.1             | 2024-11-27     | -                       |
