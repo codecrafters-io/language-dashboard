@@ -145,11 +145,11 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 |:---------------|:-----------------|:---------------|:------------------------|
 | Redis: ❗       | v1.18            | 2024-12-19     | v1.16                   |
 | Interpreter: ❗ | v1.18            | 2024-12-19     | v1.17                   |
+| Sqlite: ✅      | v1.18            | 2024-12-19     | v1.18                   |
 | HTTP server: ❗ | v1.18            | 2024-12-19     | v1.17                   |
 | Bittorrent: ❗  | v1.18            | 2024-12-19     | v1.17                   |
 | Shell: ❗       | v1.18            | 2024-12-19     | v1.17                   |
 | Git: ❌         | v1.18            | 2024-12-19     | -                       |
-| Sqlite: ❌      | v1.18            | 2024-12-19     | -                       |
 | DNS server: ❌  | v1.18            | 2024-12-19     | -                       |
 | Grep: ❌        | v1.18            | 2024-12-19     | -                       |
 | Kafka: ❌       | v1.18            | 2024-12-19     | -                       |
