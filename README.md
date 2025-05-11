@@ -283,16 +283,16 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Scala](https://app.codecrafters.io/tracks/scala)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ❗       | v3.6             | 2024-12-10     | v2.12                   |
-| Interpreter: ❌ | v3.6             | 2024-12-10     | -                       |
-| Git: ❌         | v3.6             | 2024-12-10     | -                       |
-| Sqlite: ❌      | v3.6             | 2024-12-10     | -                       |
-| DNS server: ❌  | v3.6             | 2024-12-10     | -                       |
-| HTTP server: ❌ | v3.6             | 2024-12-10     | -                       |
-| Bittorrent: ❌  | v3.6             | 2024-12-10     | -                       |
-| Grep: ❌        | v3.6             | 2024-12-10     | -                       |
-| Shell: ❌       | v3.6             | 2024-12-10     | -                       |
-| Kafka: ❌       | v3.6             | 2024-12-10     | -                       |
+| Redis: ✅       | v3.7             | 2025-05-07     | v2.12                   |
+| Interpreter: ❌ | v3.7             | 2025-05-07     | -                       |
+| Git: ❌         | v3.7             | 2025-05-07     | -                       |
+| Sqlite: ❌      | v3.7             | 2025-05-07     | -                       |
+| DNS server: ❌  | v3.7             | 2025-05-07     | -                       |
+| HTTP server: ❌ | v3.7             | 2025-05-07     | -                       |
+| Bittorrent: ❌  | v3.7             | 2025-05-07     | -                       |
+| Grep: ❌        | v3.7             | 2025-05-07     | -                       |
+| Shell: ❌       | v3.7             | 2025-05-07     | -                       |
+| Kafka: ❌       | v3.7             | 2025-05-07     | -                       |
 
 ### [Swift](https://app.codecrafters.io/tracks/swift)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
