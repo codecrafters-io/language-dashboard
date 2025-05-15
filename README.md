@@ -17,9 +17,9 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Rust](https://app.codecrafters.io/tracks/rust)
 | Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:----------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️       | v1.86            | 2025-04-03     | v1.85                   |
-| Interpreter: ⚠️ | v1.86            | 2025-04-03     | v1.85                   |
-| Git: ⚠️         | v1.86            | 2025-04-03     | v1.85                   |
+| Redis: ✅        | v1.86            | 2025-04-03     | v1.86                   |
+| Interpreter: ✅  | v1.86            | 2025-04-03     | v1.86                   |
+| Git: ✅          | v1.86            | 2025-04-03     | v1.86                   |
 | Sqlite: ⚠️      | v1.86            | 2025-04-03     | v1.85                   |
 | DNS server: ⚠️  | v1.86            | 2025-04-03     | v1.85                   |
 | HTTP server: ⚠️ | v1.86            | 2025-04-03     | v1.85                   |
@@ -143,8 +143,8 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Elixir](https://app.codecrafters.io/tracks/elixir)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ❗       | v1.18            | 2024-12-19     | v1.16                   |
-| Interpreter: ❗ | v1.18            | 2024-12-19     | v1.17                   |
+| Redis: ✅       | v1.18            | 2024-12-19     | v1.18                   |
+| Interpreter: ✅ | v1.18            | 2024-12-19     | v1.18                   |
 | Sqlite: ✅      | v1.18            | 2024-12-19     | v1.18                   |
 | HTTP server: ❗ | v1.18            | 2024-12-19     | v1.17                   |
 | Bittorrent: ❗  | v1.18            | 2024-12-19     | v1.17                   |
@@ -311,9 +311,9 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Typescript](https://app.codecrafters.io/tracks/bun)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.1             | 2024-11-29     | v1.1                    |
-| Interpreter: ✅ | v1.1             | 2024-11-29     | v1.1                    |
-| Git: ✅         | v1.1             | 2024-11-29     | v1.1                    |
+| Redis: 🥑       | v1.1             | 2024-11-29     | v1.2                    |
+| Interpreter: 🥑 | v1.1             | 2024-11-29     | v1.2                    |
+| Git: 🥑         | v1.1             | 2024-11-29     | v1.2                    |
 | Sqlite: ✅      | v1.1             | 2024-11-29     | v1.1                    |
 | DNS server: ✅  | v1.1             | 2024-11-29     | v1.1                    |
 | HTTP server: ✅ | v1.1             | 2024-11-29     | v1.1                    |
