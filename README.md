@@ -15,18 +15,18 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ## Supported Languages
 
 ### [Rust](https://app.codecrafters.io/tracks/rust)
-| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:----------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅        | v1.86            | 2025-04-03     | v1.86                   |
-| Interpreter: ✅  | v1.86            | 2025-04-03     | v1.86                   |
-| Git: ✅          | v1.86            | 2025-04-03     | v1.86                   |
-| Sqlite: ⚠️      | v1.86            | 2025-04-03     | v1.85                   |
-| DNS server: ⚠️  | v1.86            | 2025-04-03     | v1.85                   |
-| HTTP server: ⚠️ | v1.86            | 2025-04-03     | v1.85                   |
-| Bittorrent: ✅   | v1.86            | 2025-04-03     | v1.86                   |
-| Grep: ⚠️        | v1.86            | 2025-04-03     | v1.85                   |
-| Shell: ⚠️       | v1.86            | 2025-04-03     | v1.85                   |
-| Kafka: ⚠️       | v1.86            | 2025-04-03     | v1.85                   |
+| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:---------------|:-----------------|:---------------|:------------------------|
+| Redis: ✅       | v1.86            | 2025-04-03     | v1.86                   |
+| Interpreter: ✅ | v1.86            | 2025-04-03     | v1.86                   |
+| Git: ✅         | v1.86            | 2025-04-03     | v1.86                   |
+| Sqlite: ✅      | v1.86            | 2025-04-03     | v1.86                   |
+| DNS server: ✅  | v1.86            | 2025-04-03     | v1.86                   |
+| HTTP server: ✅ | v1.86            | 2025-04-03     | v1.86                   |
+| Bittorrent: ✅  | v1.86            | 2025-04-03     | v1.86                   |
+| Grep: ✅        | v1.86            | 2025-04-03     | v1.86                   |
+| Shell: ✅       | v1.86            | 2025-04-03     | v1.86                   |
+| Kafka: ✅       | v1.86            | 2025-04-03     | v1.86                   |
 
 ### [Go](https://app.codecrafters.io/tracks/go)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -146,9 +146,9 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Redis: ✅       | v1.18            | 2024-12-19     | v1.18                   |
 | Interpreter: ✅ | v1.18            | 2024-12-19     | v1.18                   |
 | Sqlite: ✅      | v1.18            | 2024-12-19     | v1.18                   |
-| HTTP server: ❗ | v1.18            | 2024-12-19     | v1.17                   |
-| Bittorrent: ❗  | v1.18            | 2024-12-19     | v1.17                   |
-| Shell: ❗       | v1.18            | 2024-12-19     | v1.17                   |
+| HTTP server: ✅ | v1.18            | 2024-12-19     | v1.18                   |
+| Bittorrent: ✅  | v1.18            | 2024-12-19     | v1.18                   |
+| Shell: ✅       | v1.18            | 2024-12-19     | v1.18                   |
 | Git: ❌         | v1.18            | 2024-12-19     | -                       |
 | DNS server: ❌  | v1.18            | 2024-12-19     | -                       |
 | Grep: ❌        | v1.18            | 2024-12-19     | -                       |
@@ -314,13 +314,13 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Redis: 🥑       | v1.1             | 2024-11-29     | v1.2                    |
 | Interpreter: 🥑 | v1.1             | 2024-11-29     | v1.2                    |
 | Git: 🥑         | v1.1             | 2024-11-29     | v1.2                    |
-| Sqlite: ✅      | v1.1             | 2024-11-29     | v1.1                    |
-| DNS server: ✅  | v1.1             | 2024-11-29     | v1.1                    |
-| HTTP server: ✅ | v1.1             | 2024-11-29     | v1.1                    |
-| Bittorrent: ✅  | v1.1             | 2024-11-29     | v1.1                    |
-| Grep: ✅        | v1.1             | 2024-11-29     | v1.1                    |
-| Shell: ✅       | v1.1             | 2024-11-29     | v1.1                    |
-| Kafka: ✅       | v1.1             | 2024-11-29     | v1.1                    |
+| Sqlite: 🥑      | v1.1             | 2024-11-29     | v1.2                    |
+| DNS server: 🥑  | v1.1             | 2024-11-29     | v1.2                    |
+| HTTP server: 🥑 | v1.1             | 2024-11-29     | v1.2                    |
+| Bittorrent: 🥑  | v1.1             | 2024-11-29     | v1.2                    |
+| Grep: 🥑        | v1.1             | 2024-11-29     | v1.2                    |
+| Shell: 🥑       | v1.1             | 2024-11-29     | v1.2                    |
+| Kafka: 🥑       | v1.1             | 2024-11-29     | v1.2                    |
 
 ### [Zig](https://app.codecrafters.io/tracks/zig)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
