@@ -241,16 +241,16 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [OCaml](https://app.codecrafters.io/tracks/ocaml)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v5.2             | 2024-11-18     | v5.2                    |
-| Interpreter: ✅ | v5.2             | 2024-11-18     | v5.2                    |
-| Git: ❌         | v5.2             | 2024-11-18     | -                       |
-| Sqlite: ❌      | v5.2             | 2024-11-18     | -                       |
-| DNS server: ❌  | v5.2             | 2024-11-18     | -                       |
-| HTTP server: ❌ | v5.2             | 2024-11-18     | -                       |
-| Bittorrent: ❌  | v5.2             | 2024-11-18     | -                       |
-| Grep: ❌        | v5.2             | 2024-11-18     | -                       |
-| Shell: ❌       | v5.2             | 2024-11-18     | -                       |
-| Kafka: ❌       | v5.2             | 2024-11-18     | -                       |
+| Redis: ✅       | v5.3             | 2025-01-08     | v5.3                    |
+| Interpreter: ✅ | v5.3             | 2025-01-08     | v5.3                    |
+| Git: ❌         | v5.3             | 2025-01-08     | -                       |
+| Sqlite: ❌      | v5.3             | 2025-01-08     | -                       |
+| DNS server: ❌  | v5.3             | 2025-01-08     | -                       |
+| HTTP server: ❌ | v5.3             | 2025-01-08     | -                       |
+| Bittorrent: ❌  | v5.3             | 2025-01-08     | -                       |
+| Grep: ❌        | v5.3             | 2025-01-08     | -                       |
+| Shell: ❌       | v5.3             | 2025-01-08     | -                       |
+| Kafka: ❌       | v5.3             | 2025-01-08     | -                       |
 
 ### [PHP](https://app.codecrafters.io/tracks/php)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
