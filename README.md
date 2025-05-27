@@ -25,7 +25,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | HTTP server: ✅ | v1.87            | 2025-05-15     | v1.86                   |
 | Bittorrent: ✅  | v1.87            | 2025-05-15     | v1.86                   |
 | Grep: ✅        | v1.87            | 2025-05-15     | v1.86                   |
-| Shell: ✅       | v1.87            | 2025-05-15     | v1.86                   |
+| Shell: ✅       | v1.87            | 2025-05-15     | v1.87                   |
 | Kafka: ✅       | v1.87            | 2025-05-15     | v1.86                   |
 
 ### [Go](https://app.codecrafters.io/tracks/go)
