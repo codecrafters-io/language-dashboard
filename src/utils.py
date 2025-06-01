@@ -51,6 +51,7 @@ class Language(Enum):
     nim = "Nim"
     nodejs = "Javascript"
     ocaml = "OCaml"
+    odin = "Odin"
     php = "PHP"
     ruby = "Ruby"
     scala = "Scala"

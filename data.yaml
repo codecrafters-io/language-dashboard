@@ -37,6 +37,10 @@ ocaml:
   # https://github.com/ocaml/ocaml/releases
   cycle: "5.3.0"
   releaseDate: "2025-01-08"
+odin:
+  # https://github.com/odin-lang/Odin/releases
+  cycle: "2025.4"
+  releaseDate: "2025-04-04"
 swift:
   # https://github.com/swiftlang/swift/releases
   cycle: "6.0.2"
