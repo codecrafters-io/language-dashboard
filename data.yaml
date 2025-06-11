@@ -23,8 +23,8 @@ dart:
   releaseDate: "2024-10-17"
 gleam:
   # https://github.com/gleam-lang/gleam/releases
-  cycle: "1.9.1"
-  releaseDate: "2025-03-10"
+  cycle: "1.11.1"
+  releaseDate: "2025-06-06"
 haskell:
   # https://www.haskell.org/ghc/download.html (Stable Release)
   cycle: "9.10.1"
