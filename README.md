@@ -158,7 +158,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
 | Redis: ✅       | v1.11            | 2025-06-06     | v1.11                   |
-| Interpreter: ✅ | v1.11            | 2025-06-06     | v1.9                    |
+| Interpreter: ✅ | v1.11            | 2025-06-06     | v1.11                   |
 | Sqlite: ✅      | v1.11            | 2025-06-06     | v1.11                   |
 | HTTP server: ✅ | v1.11            | 2025-06-06     | v1.11                   |
 | Grep: ✅        | v1.11            | 2025-06-06     | v1.11                   |
