@@ -15,18 +15,18 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ## Supported Languages
 
 ### [Rust](https://app.codecrafters.io/tracks/rust)
-| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:----------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️       | v1.87            | 2025-05-15     | v1.86                   |
-| Interpreter: ⚠️ | v1.87            | 2025-05-15     | v1.86                   |
-| Git: ⚠️         | v1.87            | 2025-05-15     | v1.86                   |
-| Sqlite: ⚠️      | v1.87            | 2025-05-15     | v1.86                   |
-| DNS server: ⚠️  | v1.87            | 2025-05-15     | v1.86                   |
-| HTTP server: ⚠️ | v1.87            | 2025-05-15     | v1.86                   |
-| Bittorrent: ⚠️  | v1.87            | 2025-05-15     | v1.86                   |
-| Grep: ⚠️        | v1.87            | 2025-05-15     | v1.86                   |
-| Shell: ✅        | v1.87            | 2025-05-15     | v1.87                   |
-| Kafka: ⚠️       | v1.87            | 2025-05-15     | v1.86                   |
+| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:---------------|:-----------------|:---------------|:------------------------|
+| Redis: ⚠️      | v1.87            | 2025-05-15     | v1.86                   |
+| Interpreter: ✅ | v1.87            | 2025-05-15     | v1.87                   |
+| Git: ✅         | v1.87            | 2025-05-15     | v1.87                   |
+| Sqlite: ✅      | v1.87            | 2025-05-15     | v1.87                   |
+| DNS server: ✅  | v1.87            | 2025-05-15     | v1.87                   |
+| HTTP server: ✅ | v1.87            | 2025-05-15     | v1.87                   |
+| Bittorrent: ✅  | v1.87            | 2025-05-15     | v1.87                   |
+| Grep: ✅        | v1.87            | 2025-05-15     | v1.87                   |
+| Shell: ✅       | v1.87            | 2025-05-15     | v1.87                   |
+| Kafka: ✅       | v1.87            | 2025-05-15     | v1.87                   |
 
 ### [Go](https://app.codecrafters.io/tracks/go)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -183,18 +183,18 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Kafka: ❌       | v9.10            | 2024-05-10     | -                       |
 
 ### [Java](https://app.codecrafters.io/tracks/java)
-| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:----------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️       | v24.0            | 2025-03-18     | v23.0                   |
-| Interpreter: ⚠️ | v24.0            | 2025-03-18     | v23.0                   |
-| Git: ⚠️         | v24.0            | 2025-03-18     | v23.0                   |
-| Sqlite: ⚠️      | v24.0            | 2025-03-18     | v23.0                   |
-| DNS server: ⚠️  | v24.0            | 2025-03-18     | v23.0                   |
-| HTTP server: ⚠️ | v24.0            | 2025-03-18     | v23.0                   |
-| Bittorrent: ⚠️  | v24.0            | 2025-03-18     | v23.0                   |
-| Grep: ⚠️        | v24.0            | 2025-03-18     | v23.0                   |
-| Shell: ⚠️       | v24.0            | 2025-03-18     | v23.0                   |
-| Kafka: ⚠️       | v24.0            | 2025-03-18     | v23.0                   |
+| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:---------------|:-----------------|:---------------|:------------------------|
+| Redis: ⚠️      | v24.0            | 2025-03-18     | v23.0                   |
+| Interpreter: ✅ | v24.0            | 2025-03-18     | v24.0                   |
+| Git: ✅         | v24.0            | 2025-03-18     | v24.0                   |
+| Sqlite: ✅      | v24.0            | 2025-03-18     | v24.0                   |
+| DNS server: ✅  | v24.0            | 2025-03-18     | v24.0                   |
+| HTTP server: ✅ | v24.0            | 2025-03-18     | v24.0                   |
+| Bittorrent: ✅  | v24.0            | 2025-03-18     | v24.0                   |
+| Grep: ✅        | v24.0            | 2025-03-18     | v24.0                   |
+| Shell: ⚠️      | v24.0            | 2025-03-18     | v23.0                   |
+| Kafka: ✅       | v24.0            | 2025-03-18     | v24.0                   |
 
 ### [Kotlin](https://app.codecrafters.io/tracks/kotlin)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
