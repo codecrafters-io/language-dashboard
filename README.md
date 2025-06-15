@@ -17,7 +17,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Rust](https://app.codecrafters.io/tracks/rust)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️      | v1.87            | 2025-05-15     | v1.86                   |
+| Redis: ✅       | v1.87            | 2025-05-15     | v1.87                   |
 | Interpreter: ✅ | v1.87            | 2025-05-15     | v1.87                   |
 | Git: ✅         | v1.87            | 2025-05-15     | v1.87                   |
 | Sqlite: ✅      | v1.87            | 2025-05-15     | v1.87                   |
@@ -185,7 +185,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Java](https://app.codecrafters.io/tracks/java)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️      | v24.0            | 2025-03-18     | v23.0                   |
+| Redis: ✅       | v24.0            | 2025-03-18     | v24.0                   |
 | Interpreter: ✅ | v24.0            | 2025-03-18     | v24.0                   |
 | Git: ✅         | v24.0            | 2025-03-18     | v24.0                   |
 | Sqlite: ✅      | v24.0            | 2025-03-18     | v24.0                   |
@@ -193,7 +193,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | HTTP server: ✅ | v24.0            | 2025-03-18     | v24.0                   |
 | Bittorrent: ✅  | v24.0            | 2025-03-18     | v24.0                   |
 | Grep: ✅        | v24.0            | 2025-03-18     | v24.0                   |
-| Shell: ⚠️      | v24.0            | 2025-03-18     | v23.0                   |
+| Shell: ✅       | v24.0            | 2025-03-18     | v24.0                   |
 | Kafka: ✅       | v24.0            | 2025-03-18     | v24.0                   |
 
 ### [Kotlin](https://app.codecrafters.io/tracks/kotlin)
