@@ -256,13 +256,13 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
 | Interpreter: ✅ | v2025.4          | 2025-04-04     | v2025.4                 |
+| Grep: 🥑        | v2025.4          | 2025-04-04     | v2025.6                 |
 | Redis: ❌       | v2025.4          | 2025-04-04     | -                       |
 | Git: ❌         | v2025.4          | 2025-04-04     | -                       |
 | Sqlite: ❌      | v2025.4          | 2025-04-04     | -                       |
 | DNS server: ❌  | v2025.4          | 2025-04-04     | -                       |
 | HTTP server: ❌ | v2025.4          | 2025-04-04     | -                       |
 | Bittorrent: ❌  | v2025.4          | 2025-04-04     | -                       |
-| Grep: ❌        | v2025.4          | 2025-04-04     | -                       |
 | Shell: ❌       | v2025.4          | 2025-04-04     | -                       |
 | Kafka: ❌       | v2025.4          | 2025-04-04     | -                       |
 
