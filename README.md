@@ -255,9 +255,9 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Odin](https://app.codecrafters.io/tracks/odin)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
+| Redis: 🥑       | v2025.4          | 2025-04-04     | v2025.6                 |
 | Interpreter: ✅ | v2025.4          | 2025-04-04     | v2025.4                 |
 | Grep: 🥑        | v2025.4          | 2025-04-04     | v2025.6                 |
-| Redis: ❌       | v2025.4          | 2025-04-04     | -                       |
 | Git: ❌         | v2025.4          | 2025-04-04     | -                       |
 | Sqlite: ❌      | v2025.4          | 2025-04-04     | -                       |
 | DNS server: ❌  | v2025.4          | 2025-04-04     | -                       |
