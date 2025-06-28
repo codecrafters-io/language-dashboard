@@ -17,16 +17,16 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Rust](https://app.codecrafters.io/tracks/rust)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.87            | 2025-05-15     | v1.87                   |
-| Interpreter: ✅ | v1.87            | 2025-05-15     | v1.87                   |
-| Git: ✅         | v1.87            | 2025-05-15     | v1.87                   |
-| Sqlite: ✅      | v1.87            | 2025-05-15     | v1.87                   |
-| DNS server: ✅  | v1.87            | 2025-05-15     | v1.87                   |
-| HTTP server: ✅ | v1.87            | 2025-05-15     | v1.87                   |
-| Bittorrent: ✅  | v1.87            | 2025-05-15     | v1.87                   |
-| Grep: ✅        | v1.87            | 2025-05-15     | v1.87                   |
-| Shell: ✅       | v1.87            | 2025-05-15     | v1.87                   |
-| Kafka: ✅       | v1.87            | 2025-05-15     | v1.87                   |
+| Redis: ✅       | v1.88            | 2025-06-26     | v1.87                   |
+| Interpreter: ✅ | v1.88            | 2025-06-26     | v1.87                   |
+| Git: ✅         | v1.88            | 2025-06-26     | v1.87                   |
+| Sqlite: ✅      | v1.88            | 2025-06-26     | v1.87                   |
+| DNS server: ✅  | v1.88            | 2025-06-26     | v1.87                   |
+| HTTP server: ✅ | v1.88            | 2025-06-26     | v1.87                   |
+| Bittorrent: ✅  | v1.88            | 2025-06-26     | v1.87                   |
+| Grep: ✅        | v1.88            | 2025-06-26     | v1.87                   |
+| Shell: ✅       | v1.88            | 2025-06-26     | v1.87                   |
+| Kafka: ✅       | v1.88            | 2025-06-26     | v1.87                   |
 
 ### [Go](https://app.codecrafters.io/tracks/go)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -199,16 +199,16 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Kotlin](https://app.codecrafters.io/tracks/kotlin)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ❗       | v2.1             | 2024-11-27     | v2.0                    |
-| Interpreter: ❗ | v2.1             | 2024-11-27     | v2.0                    |
-| Git: ❗         | v2.1             | 2024-11-27     | v2.0                    |
-| Sqlite: ❗      | v2.1             | 2024-11-27     | v2.0                    |
-| DNS server: ❗  | v2.1             | 2024-11-27     | v2.0                    |
-| HTTP server: ❗ | v2.1             | 2024-11-27     | v2.0                    |
-| Bittorrent: ❗  | v2.1             | 2024-11-27     | v2.0                    |
-| Grep: ❗        | v2.1             | 2024-11-27     | v2.0                    |
-| Shell: ❗       | v2.1             | 2024-11-27     | v2.0                    |
-| Kafka: ❌       | v2.1             | 2024-11-27     | -                       |
+| Redis: ✅       | v2.2             | 2025-06-23     | v2.0                    |
+| Interpreter: ✅ | v2.2             | 2025-06-23     | v2.0                    |
+| Git: ✅         | v2.2             | 2025-06-23     | v2.0                    |
+| Sqlite: ✅      | v2.2             | 2025-06-23     | v2.0                    |
+| DNS server: ✅  | v2.2             | 2025-06-23     | v2.0                    |
+| HTTP server: ✅ | v2.2             | 2025-06-23     | v2.0                    |
+| Bittorrent: ✅  | v2.2             | 2025-06-23     | v2.0                    |
+| Grep: ✅        | v2.2             | 2025-06-23     | v2.0                    |
+| Shell: ✅       | v2.2             | 2025-06-23     | v2.0                    |
+| Kafka: ❌       | v2.2             | 2025-06-23     | -                       |
 
 ### [Nim](https://app.codecrafters.io/tracks/nim)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
