@@ -18,15 +18,15 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
 | Redis: ✅       | v1.88            | 2025-06-26     | v1.87                   |
-| Interpreter: ✅ | v1.88            | 2025-06-26     | v1.87                   |
-| Git: ✅         | v1.88            | 2025-06-26     | v1.87                   |
-| Sqlite: ✅      | v1.88            | 2025-06-26     | v1.87                   |
-| DNS server: ✅  | v1.88            | 2025-06-26     | v1.87                   |
-| HTTP server: ✅ | v1.88            | 2025-06-26     | v1.87                   |
-| Bittorrent: ✅  | v1.88            | 2025-06-26     | v1.87                   |
-| Grep: ✅        | v1.88            | 2025-06-26     | v1.87                   |
-| Shell: ✅       | v1.88            | 2025-06-26     | v1.87                   |
-| Kafka: ✅       | v1.88            | 2025-06-26     | v1.87                   |
+| Interpreter: ✅ | v1.88            | 2025-06-26     | v1.88                   |
+| Git: ✅         | v1.88            | 2025-06-26     | v1.88                   |
+| Sqlite: ✅      | v1.88            | 2025-06-26     | v1.88                   |
+| DNS server: ✅  | v1.88            | 2025-06-26     | v1.88                   |
+| HTTP server: ✅ | v1.88            | 2025-06-26     | v1.88                   |
+| Bittorrent: ✅  | v1.88            | 2025-06-26     | v1.88                   |
+| Grep: ✅        | v1.88            | 2025-06-26     | v1.88                   |
+| Shell: ✅       | v1.88            | 2025-06-26     | v1.88                   |
+| Kafka: ✅       | v1.88            | 2025-06-26     | v1.88                   |
 
 ### [Go](https://app.codecrafters.io/tracks/go)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
