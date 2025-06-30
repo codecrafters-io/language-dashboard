@@ -17,7 +17,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Rust](https://app.codecrafters.io/tracks/rust)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.88            | 2025-06-26     | v1.87                   |
+| Redis: ✅       | v1.88            | 2025-06-26     | v1.88                   |
 | Interpreter: ✅ | v1.88            | 2025-06-26     | v1.88                   |
 | Git: ✅         | v1.88            | 2025-06-26     | v1.88                   |
 | Sqlite: ✅      | v1.88            | 2025-06-26     | v1.88                   |
