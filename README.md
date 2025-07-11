@@ -74,10 +74,10 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
 | Redis: ✅       | v1.12            | 2022-09-06     | v1.12                   |
+| Sqlite: ✅      | v1.12            | 2022-09-06     | v1.12                   |
 | HTTP server: ✅ | v1.12            | 2022-09-06     | v1.12                   |
 | Interpreter: ❌ | v1.12            | 2022-09-06     | -                       |
 | Git: ❌         | v1.12            | 2022-09-06     | -                       |
-| Sqlite: ❌      | v1.12            | 2022-09-06     | -                       |
 | DNS server: ❌  | v1.12            | 2022-09-06     | -                       |
 | Bittorrent: ❌  | v1.12            | 2022-09-06     | -                       |
 | Grep: ❌        | v1.12            | 2022-09-06     | -                       |
