@@ -35,7 +35,7 @@ jobs:
 
       - name: Update README.md
         run: |
-          git config --global user.email "ryan-gg@outlook.com"
-          git config --global user.name "Ryan Gang"
-          git remote set-url origin https://ryan-gang:${{ secrets.GITHUB_TOKEN }}@github.com/codecrafters-io/language-dashboard.git
+          git config --global user.email "hello@codecrafters.io"
+          git config --global user.name "codecrafters-bot"
+          git remote set-url origin https://codecrafters-bot:${{ secrets.GITHUB_TOKEN }}@github.com/codecrafters-io/language-dashboard.git
           git diff --quiet || (git add README.md && git commit -m "ci: auto-update README" && git push)
