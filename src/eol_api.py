@@ -8,6 +8,9 @@ class EOLApi:
 
     @staticmethod
     def fetch_data(language: str) -> list[dict[str, str]]:
+        if language == "java":
+            language = "openjdk-builds-from-oracle"
+
         url = f"https://endoflife.date/api/{language}.json"
         headers = {"Accept": "application/json"}
         response = requests.get(url, headers=headers)
