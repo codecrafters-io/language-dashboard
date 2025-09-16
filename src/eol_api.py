@@ -1,4 +1,5 @@
 import requests
+from loguru import logger
 
 
 class EOLApi:
@@ -10,6 +11,9 @@ class EOLApi:
         url = f"https://endoflife.date/api/{language}.json"
         headers = {"Accept": "application/json"}
         response = requests.get(url, headers=headers)
+        response.raise_for_status()
+        logger.debug("response.content", response.content)
+
         data = response.json()
         if "message" in data and data["message"] == "Product not found":
             raise RuntimeError(f"Language '{language}' not found")
