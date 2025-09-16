@@ -15,7 +15,6 @@ class EOLApi:
         headers = {"Accept": "application/json"}
         response = requests.get(url, headers=headers)
         response.raise_for_status()
-        logger.debug("response.content", response.content)
 
         data = response.json()
         if "message" in data and data["message"] == "Product not found":
