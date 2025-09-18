@@ -185,16 +185,16 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Java](https://app.codecrafters.io/tracks/java)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v24.0            | 2025-03-18     | v24.0                   |
-| Interpreter: ✅ | v24.0            | 2025-03-18     | v24.0                   |
-| Git: ✅         | v24.0            | 2025-03-18     | v24.0                   |
-| Sqlite: ✅      | v24.0            | 2025-03-18     | v24.0                   |
-| DNS server: ✅  | v24.0            | 2025-03-18     | v24.0                   |
-| HTTP server: ✅ | v24.0            | 2025-03-18     | v24.0                   |
-| Bittorrent: ✅  | v24.0            | 2025-03-18     | v24.0                   |
-| Grep: ✅        | v24.0            | 2025-03-18     | v24.0                   |
-| Shell: ✅       | v24.0            | 2025-03-18     | v24.0                   |
-| Kafka: ✅       | v24.0            | 2025-03-18     | v24.0                   |
+| Redis: ✅       | v25.0            | 2025-09-16     | v24.0                   |
+| Interpreter: ✅ | v25.0            | 2025-09-16     | v24.0                   |
+| Git: ✅         | v25.0            | 2025-09-16     | v24.0                   |
+| Sqlite: ✅      | v25.0            | 2025-09-16     | v24.0                   |
+| DNS server: ✅  | v25.0            | 2025-09-16     | v24.0                   |
+| HTTP server: ✅ | v25.0            | 2025-09-16     | v24.0                   |
+| Bittorrent: ✅  | v25.0            | 2025-09-16     | v24.0                   |
+| Grep: ✅        | v25.0            | 2025-09-16     | v24.0                   |
+| Shell: ✅       | v25.0            | 2025-09-16     | v24.0                   |
+| Kafka: ✅       | v25.0            | 2025-09-16     | v24.0                   |
 
 ### [Kotlin](https://app.codecrafters.io/tracks/kotlin)
 | Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
