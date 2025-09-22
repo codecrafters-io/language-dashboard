@@ -197,18 +197,18 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Kafka: ✅       | v25.0            | 2025-09-16     | v24.0                   |
 
 ### [Kotlin](https://app.codecrafters.io/tracks/kotlin)
-| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:----------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️       | v2.2             | 2025-06-23     | v2.0                    |
-| Interpreter: ⚠️ | v2.2             | 2025-06-23     | v2.0                    |
-| Git: ⚠️         | v2.2             | 2025-06-23     | v2.0                    |
-| Sqlite: ⚠️      | v2.2             | 2025-06-23     | v2.0                    |
-| DNS server: ⚠️  | v2.2             | 2025-06-23     | v2.0                    |
-| HTTP server: ⚠️ | v2.2             | 2025-06-23     | v2.0                    |
-| Bittorrent: ⚠️  | v2.2             | 2025-06-23     | v2.0                    |
-| Grep: ⚠️        | v2.2             | 2025-06-23     | v2.0                    |
-| Shell: ⚠️       | v2.2             | 2025-06-23     | v2.0                    |
-| Kafka: ❌        | v2.2             | 2025-06-23     | -                       |
+| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:---------------|:-----------------|:---------------|:------------------------|
+| Redis: ❗       | v2.2             | 2025-06-23     | v2.0                    |
+| Interpreter: ❗ | v2.2             | 2025-06-23     | v2.0                    |
+| Git: ❗         | v2.2             | 2025-06-23     | v2.0                    |
+| Sqlite: ❗      | v2.2             | 2025-06-23     | v2.0                    |
+| DNS server: ❗  | v2.2             | 2025-06-23     | v2.0                    |
+| HTTP server: ❗ | v2.2             | 2025-06-23     | v2.0                    |
+| Bittorrent: ❗  | v2.2             | 2025-06-23     | v2.0                    |
+| Grep: ❗        | v2.2             | 2025-06-23     | v2.0                    |
+| Shell: ❗       | v2.2             | 2025-06-23     | v2.0                    |
+| Kafka: ❌       | v2.2             | 2025-06-23     | -                       |
 
 ### [Nim](https://app.codecrafters.io/tracks/nim)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
