@@ -227,16 +227,16 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Javascript](https://app.codecrafters.io/tracks/nodejs)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ❗       | v24.0            | 2025-05-06     | v21.0                   |
-| Interpreter: ❗ | v24.0            | 2025-05-06     | v21.0                   |
-| Git: ❗         | v24.0            | 2025-05-06     | v21.0                   |
-| Sqlite: ❗      | v24.0            | 2025-05-06     | v21.0                   |
-| DNS server: ❗  | v24.0            | 2025-05-06     | v21.0                   |
-| HTTP server: ❗ | v24.0            | 2025-05-06     | v21.0                   |
-| Bittorrent: ❗  | v24.0            | 2025-05-06     | v21.0                   |
-| Grep: ❗        | v24.0            | 2025-05-06     | v21.0                   |
-| Shell: ❗       | v24.0            | 2025-05-06     | v21.0                   |
-| Kafka: ❗       | v24.0            | 2025-05-06     | v21.0                   |
+| Redis: ✅       | v25.0            | 2025-10-15     | v21.0                   |
+| Interpreter: ✅ | v25.0            | 2025-10-15     | v21.0                   |
+| Git: ✅         | v25.0            | 2025-10-15     | v21.0                   |
+| Sqlite: ✅      | v25.0            | 2025-10-15     | v21.0                   |
+| DNS server: ✅  | v25.0            | 2025-10-15     | v21.0                   |
+| HTTP server: ✅ | v25.0            | 2025-10-15     | v21.0                   |
+| Bittorrent: ✅  | v25.0            | 2025-10-15     | v21.0                   |
+| Grep: ✅        | v25.0            | 2025-10-15     | v21.0                   |
+| Shell: ✅       | v25.0            | 2025-10-15     | v21.0                   |
+| Kafka: ✅       | v25.0            | 2025-10-15     | v21.0                   |
 
 ### [OCaml](https://app.codecrafters.io/tracks/ocaml)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
