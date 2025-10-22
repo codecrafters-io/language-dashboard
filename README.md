@@ -43,18 +43,18 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Kafka: ⚠️       | v1.25            | 2025-08-12     | v1.24                   |
 
 ### [Python](https://app.codecrafters.io/tracks/python)
-| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v3.14            | 2025-10-07     | v3.13                   |
-| Interpreter: ✅ | v3.14            | 2025-10-07     | v3.13                   |
-| Git: ✅         | v3.14            | 2025-10-07     | v3.13                   |
-| Sqlite: ✅      | v3.14            | 2025-10-07     | v3.13                   |
-| DNS server: ✅  | v3.14            | 2025-10-07     | v3.13                   |
-| HTTP server: ✅ | v3.14            | 2025-10-07     | v3.13                   |
-| Bittorrent: ✅  | v3.14            | 2025-10-07     | v3.13                   |
-| Grep: ✅        | v3.14            | 2025-10-07     | v3.13                   |
-| Shell: ✅       | v3.14            | 2025-10-07     | v3.13                   |
-| Kafka: ✅       | v3.14            | 2025-10-07     | v3.13                   |
+| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:----------------|:-----------------|:---------------|:------------------------|
+| Redis: ⚠️       | v3.14            | 2025-10-07     | v3.13                   |
+| Interpreter: ⚠️ | v3.14            | 2025-10-07     | v3.13                   |
+| Git: ⚠️         | v3.14            | 2025-10-07     | v3.13                   |
+| Sqlite: ⚠️      | v3.14            | 2025-10-07     | v3.13                   |
+| DNS server: ⚠️  | v3.14            | 2025-10-07     | v3.13                   |
+| HTTP server: ⚠️ | v3.14            | 2025-10-07     | v3.13                   |
+| Bittorrent: ⚠️  | v3.14            | 2025-10-07     | v3.13                   |
+| Grep: ⚠️        | v3.14            | 2025-10-07     | v3.13                   |
+| Shell: ⚠️       | v3.14            | 2025-10-07     | v3.13                   |
+| Kafka: ⚠️       | v3.14            | 2025-10-07     | v3.13                   |
 
 ### [C](https://app.codecrafters.io/tracks/c)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
