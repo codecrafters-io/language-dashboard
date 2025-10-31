@@ -141,18 +141,18 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Kafka: ✅       | v9.0             | 2024-11-12     | v9.0                    |
 
 ### [Elixir](https://app.codecrafters.io/tracks/elixir)
-| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.19            | 2025-10-16     | v1.18                   |
-| Interpreter: ✅ | v1.19            | 2025-10-16     | v1.18                   |
-| Sqlite: ✅      | v1.19            | 2025-10-16     | v1.18                   |
-| HTTP server: ✅ | v1.19            | 2025-10-16     | v1.18                   |
-| Bittorrent: ✅  | v1.19            | 2025-10-16     | v1.18                   |
-| Shell: ✅       | v1.19            | 2025-10-16     | v1.18                   |
-| Git: ❌         | v1.19            | 2025-10-16     | -                       |
-| DNS server: ❌  | v1.19            | 2025-10-16     | -                       |
-| Grep: ❌        | v1.19            | 2025-10-16     | -                       |
-| Kafka: ❌       | v1.19            | 2025-10-16     | -                       |
+| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:----------------|:-----------------|:---------------|:------------------------|
+| Redis: ⚠️       | v1.19            | 2025-10-16     | v1.18                   |
+| Interpreter: ⚠️ | v1.19            | 2025-10-16     | v1.18                   |
+| Sqlite: ⚠️      | v1.19            | 2025-10-16     | v1.18                   |
+| HTTP server: ⚠️ | v1.19            | 2025-10-16     | v1.18                   |
+| Bittorrent: ⚠️  | v1.19            | 2025-10-16     | v1.18                   |
+| Shell: ⚠️       | v1.19            | 2025-10-16     | v1.18                   |
+| Git: ❌          | v1.19            | 2025-10-16     | -                       |
+| DNS server: ❌   | v1.19            | 2025-10-16     | -                       |
+| Grep: ❌         | v1.19            | 2025-10-16     | -                       |
+| Kafka: ❌        | v1.19            | 2025-10-16     | -                       |
 
 ### [Gleam](https://app.codecrafters.io/tracks/gleam)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
