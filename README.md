@@ -155,18 +155,18 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Kafka: ❌        | v1.19            | 2025-10-16     | -                       |
 
 ### [Gleam](https://app.codecrafters.io/tracks/gleam)
-| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.13            | 2025-10-19     | v1.11                   |
-| Interpreter: ✅ | v1.13            | 2025-10-19     | v1.11                   |
-| Sqlite: ✅      | v1.13            | 2025-10-19     | v1.11                   |
-| HTTP server: ✅ | v1.13            | 2025-10-19     | v1.11                   |
-| Grep: ✅        | v1.13            | 2025-10-19     | v1.11                   |
-| Shell: ✅       | v1.13            | 2025-10-19     | v1.11                   |
-| Kafka: ✅       | v1.13            | 2025-10-19     | v1.11                   |
-| Git: ❌         | v1.13            | 2025-10-19     | -                       |
-| DNS server: ❌  | v1.13            | 2025-10-19     | -                       |
-| Bittorrent: ❌  | v1.13            | 2025-10-19     | -                       |
+| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:----------------|:-----------------|:---------------|:------------------------|
+| Redis: ⚠️       | v1.13            | 2025-10-19     | v1.11                   |
+| Interpreter: ⚠️ | v1.13            | 2025-10-19     | v1.11                   |
+| Sqlite: ⚠️      | v1.13            | 2025-10-19     | v1.11                   |
+| HTTP server: ⚠️ | v1.13            | 2025-10-19     | v1.11                   |
+| Grep: ⚠️        | v1.13            | 2025-10-19     | v1.11                   |
+| Shell: ⚠️       | v1.13            | 2025-10-19     | v1.11                   |
+| Kafka: ⚠️       | v1.13            | 2025-10-19     | v1.11                   |
+| Git: ❌          | v1.13            | 2025-10-19     | -                       |
+| DNS server: ❌   | v1.13            | 2025-10-19     | -                       |
+| Bittorrent: ❌   | v1.13            | 2025-10-19     | -                       |
 
 ### [Haskell](https://app.codecrafters.io/tracks/haskell)
 | Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
