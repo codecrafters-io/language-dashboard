@@ -129,16 +129,16 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [C#](https://app.codecrafters.io/tracks/dotnet)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v9.0             | 2024-11-12     | v9.0                    |
-| Interpreter: ✅ | v9.0             | 2024-11-12     | v9.0                    |
-| Git: ✅         | v9.0             | 2024-11-12     | v9.0                    |
-| Sqlite: ✅      | v9.0             | 2024-11-12     | v9.0                    |
-| DNS server: ✅  | v9.0             | 2024-11-12     | v9.0                    |
-| HTTP server: ✅ | v9.0             | 2024-11-12     | v9.0                    |
-| Bittorrent: ✅  | v9.0             | 2024-11-12     | v9.0                    |
-| Grep: ✅        | v9.0             | 2024-11-12     | v9.0                    |
-| Shell: ✅       | v9.0             | 2024-11-12     | v9.0                    |
-| Kafka: ✅       | v9.0             | 2024-11-12     | v9.0                    |
+| Redis: ✅       | v10.0            | 2025-11-11     | v9.0                    |
+| Interpreter: ✅ | v10.0            | 2025-11-11     | v9.0                    |
+| Git: ✅         | v10.0            | 2025-11-11     | v9.0                    |
+| Sqlite: ✅      | v10.0            | 2025-11-11     | v9.0                    |
+| DNS server: ✅  | v10.0            | 2025-11-11     | v9.0                    |
+| HTTP server: ✅ | v10.0            | 2025-11-11     | v9.0                    |
+| Bittorrent: ✅  | v10.0            | 2025-11-11     | v9.0                    |
+| Grep: ✅        | v10.0            | 2025-11-11     | v9.0                    |
+| Shell: ✅       | v10.0            | 2025-11-11     | v9.0                    |
+| Kafka: ✅       | v10.0            | 2025-11-11     | v9.0                    |
 
 ### [Elixir](https://app.codecrafters.io/tracks/elixir)
 | Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
