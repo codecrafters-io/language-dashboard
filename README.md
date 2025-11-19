@@ -67,8 +67,8 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | HTTP server: ✅ | v23.0            | 2024-10-31     | v23.0                   |
 | Bittorrent: ✅  | v23.0            | 2024-10-31     | v23.0                   |
 | Shell: ✅       | v23.0            | 2024-10-31     | v23.0                   |
+| Kafka: ✅       | v23.0            | 2024-10-31     | v23.0                   |
 | Grep: ❌        | v23.0            | 2024-10-31     | -                       |
-| Kafka: ❌       | v23.0            | 2024-10-31     | -                       |
 
 ### [Clojure](https://app.codecrafters.io/tracks/clojure)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
