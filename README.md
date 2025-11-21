@@ -269,16 +269,16 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [PHP](https://app.codecrafters.io/tracks/php)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ❗       | v8.4             | 2024-11-21     | v8.3                    |
-| Interpreter: ✅ | v8.4             | 2024-11-21     | v8.4                    |
-| Grep: ✅        | v8.4             | 2024-11-21     | v8.4                    |
-| Shell: ✅       | v8.4             | 2024-11-21     | v8.4                    |
-| Git: ❌         | v8.4             | 2024-11-21     | -                       |
-| Sqlite: ❌      | v8.4             | 2024-11-21     | -                       |
-| DNS server: ❌  | v8.4             | 2024-11-21     | -                       |
-| HTTP server: ❌ | v8.4             | 2024-11-21     | -                       |
-| Bittorrent: ❌  | v8.4             | 2024-11-21     | -                       |
-| Kafka: ❌       | v8.4             | 2024-11-21     | -                       |
+| Redis: ✅       | v8.5             | 2025-11-20     | v8.3                    |
+| Interpreter: ✅ | v8.5             | 2025-11-20     | v8.4                    |
+| Grep: ✅        | v8.5             | 2025-11-20     | v8.4                    |
+| Shell: ✅       | v8.5             | 2025-11-20     | v8.4                    |
+| Git: ❌         | v8.5             | 2025-11-20     | -                       |
+| Sqlite: ❌      | v8.5             | 2025-11-20     | -                       |
+| DNS server: ❌  | v8.5             | 2025-11-20     | -                       |
+| HTTP server: ❌ | v8.5             | 2025-11-20     | -                       |
+| Bittorrent: ❌  | v8.5             | 2025-11-20     | -                       |
+| Kafka: ❌       | v8.5             | 2025-11-20     | -                       |
 
 ### [Ruby](https://app.codecrafters.io/tracks/ruby)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
