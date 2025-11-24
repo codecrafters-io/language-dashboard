@@ -17,9 +17,9 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Rust](https://app.codecrafters.io/tracks/rust)
 | Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:----------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️       | v1.91            | 2025-10-30     | v1.88                   |
+| Redis: ✅        | v1.91            | 2025-10-30     | v1.91                   |
 | Interpreter: ⚠️ | v1.91            | 2025-10-30     | v1.88                   |
-| Git: ⚠️         | v1.91            | 2025-10-30     | v1.88                   |
+| Git: ✅          | v1.91            | 2025-10-30     | v1.91                   |
 | Sqlite: ⚠️      | v1.91            | 2025-10-30     | v1.88                   |
 | DNS server: ⚠️  | v1.91            | 2025-10-30     | v1.88                   |
 | HTTP server: ⚠️ | v1.91            | 2025-10-30     | v1.88                   |
@@ -31,9 +31,9 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Go](https://app.codecrafters.io/tracks/go)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ❗       | v1.25            | 2025-08-12     | v1.24                   |
+| Redis: ✅       | v1.25            | 2025-08-12     | v1.25                   |
 | Interpreter: ❗ | v1.25            | 2025-08-12     | v1.24                   |
-| Git: ❗         | v1.25            | 2025-08-12     | v1.24                   |
+| Git: ✅         | v1.25            | 2025-08-12     | v1.25                   |
 | Sqlite: ❗      | v1.25            | 2025-08-12     | v1.24                   |
 | DNS server: ❗  | v1.25            | 2025-08-12     | v1.24                   |
 | HTTP server: ❗ | v1.25            | 2025-08-12     | v1.24                   |
