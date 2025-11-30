@@ -269,10 +269,10 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [PHP](https://app.codecrafters.io/tracks/php)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v8.5             | 2025-11-20     | v8.3                    |
-| Interpreter: ✅ | v8.5             | 2025-11-20     | v8.4                    |
-| Grep: ✅        | v8.5             | 2025-11-20     | v8.4                    |
-| Shell: ✅       | v8.5             | 2025-11-20     | v8.4                    |
+| Redis: ✅       | v8.5             | 2025-11-20     | v8.5                    |
+| Interpreter: ✅ | v8.5             | 2025-11-20     | v8.5                    |
+| Grep: ✅        | v8.5             | 2025-11-20     | v8.5                    |
+| Shell: ✅       | v8.5             | 2025-11-20     | v8.5                    |
 | Git: ❌         | v8.5             | 2025-11-20     | -                       |
 | Sqlite: ❌      | v8.5             | 2025-11-20     | -                       |
 | DNS server: ❌  | v8.5             | 2025-11-20     | -                       |
