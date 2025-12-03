@@ -271,12 +271,12 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 |:---------------|:-----------------|:---------------|:------------------------|
 | Redis: ✅       | v8.5             | 2025-11-20     | v8.5                    |
 | Interpreter: ✅ | v8.5             | 2025-11-20     | v8.5                    |
+| HTTP server: ✅ | v8.5             | 2025-11-20     | v8.5                    |
 | Grep: ✅        | v8.5             | 2025-11-20     | v8.5                    |
 | Shell: ✅       | v8.5             | 2025-11-20     | v8.5                    |
 | Git: ❌         | v8.5             | 2025-11-20     | -                       |
 | Sqlite: ❌      | v8.5             | 2025-11-20     | -                       |
 | DNS server: ❌  | v8.5             | 2025-11-20     | -                       |
-| HTTP server: ❌ | v8.5             | 2025-11-20     | -                       |
 | Bittorrent: ❌  | v8.5             | 2025-11-20     | -                       |
 | Kafka: ❌       | v8.5             | 2025-11-20     | -                       |
 
@@ -298,7 +298,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
 | Redis: ✅       | v3.7             | 2025-05-07     | v3.7                    |
-| Interpreter: ❌ | v3.7             | 2025-05-07     | -                       |
+| Interpreter: ✅ | v3.7             | 2025-05-07     | v3.7                    |
 | Git: ❌         | v3.7             | 2025-05-07     | -                       |
 | Sqlite: ❌      | v3.7             | 2025-05-07     | -                       |
 | DNS server: ❌  | v3.7             | 2025-05-07     | -                       |
