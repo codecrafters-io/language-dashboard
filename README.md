@@ -283,14 +283,14 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Ruby](https://app.codecrafters.io/tracks/ruby)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ❗       | v3.4             | 2024-12-24     | v3.3                    |
-| Git: ❗         | v3.4             | 2024-12-24     | v3.3                    |
-| Sqlite: ❗      | v3.4             | 2024-12-24     | v3.3                    |
-| DNS server: ❗  | v3.4             | 2024-12-24     | v3.3                    |
-| HTTP server: ❗ | v3.4             | 2024-12-24     | v3.3                    |
-| Bittorrent: ❗  | v3.4             | 2024-12-24     | v3.3                    |
-| Grep: ❗        | v3.4             | 2024-12-24     | v3.3                    |
-| Shell: ❗       | v3.4             | 2024-12-24     | v3.3                    |
+| Redis: ✅       | v3.4             | 2024-12-24     | v3.4                    |
+| Git: ✅         | v3.4             | 2024-12-24     | v3.4                    |
+| Sqlite: ✅      | v3.4             | 2024-12-24     | v3.4                    |
+| DNS server: ✅  | v3.4             | 2024-12-24     | v3.4                    |
+| HTTP server: ✅ | v3.4             | 2024-12-24     | v3.4                    |
+| Bittorrent: ✅  | v3.4             | 2024-12-24     | v3.4                    |
+| Grep: ✅        | v3.4             | 2024-12-24     | v3.4                    |
+| Shell: ✅       | v3.4             | 2024-12-24     | v3.4                    |
 | Interpreter: ❌ | v3.4             | 2024-12-24     | -                       |
 | Kafka: ❌       | v3.4             | 2024-12-24     | -                       |
 
