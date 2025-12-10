@@ -169,18 +169,18 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Bittorrent: ❌   | v1.13            | 2025-10-19     | -                       |
 
 ### [Haskell](https://app.codecrafters.io/tracks/haskell)
-| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:----------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️       | v9.10            | 2025-09-10     | v9.8                    |
-| Git: ⚠️         | v9.10            | 2025-09-10     | v9.8                    |
-| HTTP server: ⚠️ | v9.10            | 2025-09-10     | v9.8                    |
-| Bittorrent: ⚠️  | v9.10            | 2025-09-10     | v9.8                    |
-| Grep: ⚠️        | v9.10            | 2025-09-10     | v9.8                    |
-| Interpreter: ❌  | v9.10            | 2025-09-10     | -                       |
-| Sqlite: ❌       | v9.10            | 2025-09-10     | -                       |
-| DNS server: ❌   | v9.10            | 2025-09-10     | -                       |
-| Shell: ❌        | v9.10            | 2025-09-10     | -                       |
-| Kafka: ❌        | v9.10            | 2025-09-10     | -                       |
+| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:---------------|:-----------------|:---------------|:------------------------|
+| Redis: ❗       | v9.10            | 2025-09-10     | v9.8                    |
+| Git: ❗         | v9.10            | 2025-09-10     | v9.8                    |
+| HTTP server: ❗ | v9.10            | 2025-09-10     | v9.8                    |
+| Bittorrent: ❗  | v9.10            | 2025-09-10     | v9.8                    |
+| Grep: ❗        | v9.10            | 2025-09-10     | v9.8                    |
+| Interpreter: ❌ | v9.10            | 2025-09-10     | -                       |
+| Sqlite: ❌      | v9.10            | 2025-09-10     | -                       |
+| DNS server: ❌  | v9.10            | 2025-09-10     | -                       |
+| Shell: ❌       | v9.10            | 2025-09-10     | -                       |
+| Kafka: ❌       | v9.10            | 2025-09-10     | -                       |
 
 ### [Java](https://app.codecrafters.io/tracks/java)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
