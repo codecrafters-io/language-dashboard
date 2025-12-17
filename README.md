@@ -299,28 +299,28 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 |:---------------|:-----------------|:---------------|:------------------------|
 | Redis: ✅       | v3.7             | 2025-05-07     | v3.7                    |
 | Interpreter: ✅ | v3.7             | 2025-05-07     | v3.7                    |
+| HTTP server: ✅ | v3.7             | 2025-05-07     | v3.7                    |
 | Git: ❌         | v3.7             | 2025-05-07     | -                       |
 | Sqlite: ❌      | v3.7             | 2025-05-07     | -                       |
 | DNS server: ❌  | v3.7             | 2025-05-07     | -                       |
-| HTTP server: ❌ | v3.7             | 2025-05-07     | -                       |
 | Bittorrent: ❌  | v3.7             | 2025-05-07     | -                       |
 | Grep: ❌        | v3.7             | 2025-05-07     | -                       |
 | Shell: ❌       | v3.7             | 2025-05-07     | -                       |
 | Kafka: ❌       | v3.7             | 2025-05-07     | -                       |
 
 ### [Swift](https://app.codecrafters.io/tracks/swift)
-| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:----------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️       | v6.2             | 2025-09-17     | v6.0                    |
-| Interpreter: ⚠️ | v6.2             | 2025-09-17     | v6.0                    |
-| Sqlite: ⚠️      | v6.2             | 2025-09-17     | v5.7                    |
-| Git: ❌          | v6.2             | 2025-09-17     | -                       |
-| DNS server: ❌   | v6.2             | 2025-09-17     | -                       |
-| HTTP server: ❌  | v6.2             | 2025-09-17     | -                       |
-| Bittorrent: ❌   | v6.2             | 2025-09-17     | -                       |
-| Grep: ❌         | v6.2             | 2025-09-17     | -                       |
-| Shell: ❌        | v6.2             | 2025-09-17     | -                       |
-| Kafka: ❌        | v6.2             | 2025-09-17     | -                       |
+| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:---------------|:-----------------|:---------------|:------------------------|
+| Redis: ❗       | v6.2             | 2025-09-17     | v6.0                    |
+| Interpreter: ❗ | v6.2             | 2025-09-17     | v6.0                    |
+| Sqlite: ❗      | v6.2             | 2025-09-17     | v5.7                    |
+| Git: ❌         | v6.2             | 2025-09-17     | -                       |
+| DNS server: ❌  | v6.2             | 2025-09-17     | -                       |
+| HTTP server: ❌ | v6.2             | 2025-09-17     | -                       |
+| Bittorrent: ❌  | v6.2             | 2025-09-17     | -                       |
+| Grep: ❌        | v6.2             | 2025-09-17     | -                       |
+| Shell: ❌       | v6.2             | 2025-09-17     | -                       |
+| Kafka: ❌       | v6.2             | 2025-09-17     | -                       |
 
 ### [Typescript](https://app.codecrafters.io/tracks/bun)
 | Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
