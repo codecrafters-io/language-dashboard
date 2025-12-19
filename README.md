@@ -149,10 +149,10 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | HTTP server: ✅ | v1.19            | 2025-10-16     | v1.19                   |
 | Bittorrent: ✅  | v1.19            | 2025-10-16     | v1.19                   |
 | Shell: ✅       | v1.19            | 2025-10-16     | v1.19                   |
+| Kafka: ✅       | v1.19            | 2025-10-16     | v1.19                   |
 | Git: ❌         | v1.19            | 2025-10-16     | -                       |
 | DNS server: ❌  | v1.19            | 2025-10-16     | -                       |
 | Grep: ❌        | v1.19            | 2025-10-16     | -                       |
-| Kafka: ❌       | v1.19            | 2025-10-16     | -                       |
 
 ### [Gleam](https://app.codecrafters.io/tracks/gleam)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
