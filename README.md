@@ -15,18 +15,18 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ## Supported Languages
 
 ### [Rust](https://app.codecrafters.io/tracks/rust)
-| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.92            | 2025-12-11     | v1.91                   |
-| Interpreter: ✅ | v1.92            | 2025-12-11     | v1.91                   |
-| Git: ✅         | v1.92            | 2025-12-11     | v1.91                   |
-| Sqlite: ✅      | v1.92            | 2025-12-11     | v1.91                   |
-| DNS server: ✅  | v1.92            | 2025-12-11     | v1.91                   |
-| HTTP server: ✅ | v1.92            | 2025-12-11     | v1.91                   |
-| Bittorrent: ✅  | v1.92            | 2025-12-11     | v1.91                   |
-| Grep: ✅        | v1.92            | 2025-12-11     | v1.91                   |
-| Shell: ✅       | v1.92            | 2025-12-11     | v1.91                   |
-| Kafka: ✅       | v1.92            | 2025-12-11     | v1.91                   |
+| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:----------------|:-----------------|:---------------|:------------------------|
+| Redis: ⚠️       | v1.92            | 2025-12-11     | v1.91                   |
+| Interpreter: ⚠️ | v1.92            | 2025-12-11     | v1.91                   |
+| Git: ⚠️         | v1.92            | 2025-12-11     | v1.91                   |
+| Sqlite: ⚠️      | v1.92            | 2025-12-11     | v1.91                   |
+| DNS server: ⚠️  | v1.92            | 2025-12-11     | v1.91                   |
+| HTTP server: ⚠️ | v1.92            | 2025-12-11     | v1.91                   |
+| Bittorrent: ⚠️  | v1.92            | 2025-12-11     | v1.91                   |
+| Grep: ⚠️        | v1.92            | 2025-12-11     | v1.91                   |
+| Shell: ⚠️       | v1.92            | 2025-12-11     | v1.91                   |
+| Kafka: ⚠️       | v1.92            | 2025-12-11     | v1.91                   |
 
 ### [Go](https://app.codecrafters.io/tracks/go)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -283,16 +283,16 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Ruby](https://app.codecrafters.io/tracks/ruby)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v3.4             | 2024-12-24     | v3.4                    |
-| Git: ✅         | v3.4             | 2024-12-24     | v3.4                    |
-| Sqlite: ✅      | v3.4             | 2024-12-24     | v3.4                    |
-| DNS server: ✅  | v3.4             | 2024-12-24     | v3.4                    |
-| HTTP server: ✅ | v3.4             | 2024-12-24     | v3.4                    |
-| Bittorrent: ✅  | v3.4             | 2024-12-24     | v3.4                    |
-| Grep: ✅        | v3.4             | 2024-12-24     | v3.4                    |
-| Shell: ✅       | v3.4             | 2024-12-24     | v3.4                    |
-| Interpreter: ❌ | v3.4             | 2024-12-24     | -                       |
-| Kafka: ❌       | v3.4             | 2024-12-24     | -                       |
+| Redis: ✅       | v4.0             | 2025-12-25     | v3.4                    |
+| Git: ✅         | v4.0             | 2025-12-25     | v3.4                    |
+| Sqlite: ✅      | v4.0             | 2025-12-25     | v3.4                    |
+| DNS server: ✅  | v4.0             | 2025-12-25     | v3.4                    |
+| HTTP server: ✅ | v4.0             | 2025-12-25     | v3.4                    |
+| Bittorrent: ✅  | v4.0             | 2025-12-25     | v3.4                    |
+| Grep: ✅        | v4.0             | 2025-12-25     | v3.4                    |
+| Shell: ✅       | v4.0             | 2025-12-25     | v3.4                    |
+| Interpreter: ❌ | v4.0             | 2025-12-25     | -                       |
+| Kafka: ❌       | v4.0             | 2025-12-25     | -                       |
 
 ### [Scala](https://app.codecrafters.io/tracks/scala)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
