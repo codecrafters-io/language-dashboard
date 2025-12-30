@@ -113,18 +113,18 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Kafka: ❌       | v1.18            | 2025-10-22     | -                       |
 
 ### [Dart](https://app.codecrafters.io/tracks/dart)
-| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:----------------|:-----------------|:---------------|:------------------------|
-| HTTP server: ⚠️ | v3.9             | 2025-09-30     | v3.4                    |
-| Redis: ❌        | v3.9             | 2025-09-30     | -                       |
-| Interpreter: ❌  | v3.9             | 2025-09-30     | -                       |
-| Git: ❌          | v3.9             | 2025-09-30     | -                       |
-| Sqlite: ❌       | v3.9             | 2025-09-30     | -                       |
-| DNS server: ❌   | v3.9             | 2025-09-30     | -                       |
-| Bittorrent: ❌   | v3.9             | 2025-09-30     | -                       |
-| Grep: ❌         | v3.9             | 2025-09-30     | -                       |
-| Shell: ❌        | v3.9             | 2025-09-30     | -                       |
-| Kafka: ❌        | v3.9             | 2025-09-30     | -                       |
+| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:---------------|:-----------------|:---------------|:------------------------|
+| HTTP server: ❗ | v3.9             | 2025-09-30     | v3.4                    |
+| Redis: ❌       | v3.9             | 2025-09-30     | -                       |
+| Interpreter: ❌ | v3.9             | 2025-09-30     | -                       |
+| Git: ❌         | v3.9             | 2025-09-30     | -                       |
+| Sqlite: ❌      | v3.9             | 2025-09-30     | -                       |
+| DNS server: ❌  | v3.9             | 2025-09-30     | -                       |
+| Bittorrent: ❌  | v3.9             | 2025-09-30     | -                       |
+| Grep: ❌        | v3.9             | 2025-09-30     | -                       |
+| Shell: ❌       | v3.9             | 2025-09-30     | -                       |
+| Kafka: ❌       | v3.9             | 2025-09-30     | -                       |
 
 ### [C#](https://app.codecrafters.io/tracks/dotnet)
 | Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
