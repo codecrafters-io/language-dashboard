@@ -253,18 +253,18 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Kafka: ❌        | v5.4             | 2025-10-09     | -                       |
 
 ### [Odin](https://app.codecrafters.io/tracks/odin)
-| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:----------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️       | v2025.10         | 2025-10-05     | v2025.7                 |
-| Interpreter: ⚠️ | v2025.10         | 2025-10-05     | v2025.7                 |
-| Grep: ⚠️        | v2025.10         | 2025-10-05     | v2025.7                 |
-| Git: ❌          | v2025.10         | 2025-10-05     | -                       |
-| Sqlite: ❌       | v2025.10         | 2025-10-05     | -                       |
-| DNS server: ❌   | v2025.10         | 2025-10-05     | -                       |
-| HTTP server: ❌  | v2025.10         | 2025-10-05     | -                       |
-| Bittorrent: ❌   | v2025.10         | 2025-10-05     | -                       |
-| Shell: ❌        | v2025.10         | 2025-10-05     | -                       |
-| Kafka: ❌        | v2025.10         | 2025-10-05     | -                       |
+| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:---------------|:-----------------|:---------------|:------------------------|
+| Redis: ❗       | v2025.10         | 2025-10-05     | v2025.7                 |
+| Interpreter: ❗ | v2025.10         | 2025-10-05     | v2025.7                 |
+| Grep: ❗        | v2025.10         | 2025-10-05     | v2025.7                 |
+| Git: ❌         | v2025.10         | 2025-10-05     | -                       |
+| Sqlite: ❌      | v2025.10         | 2025-10-05     | -                       |
+| DNS server: ❌  | v2025.10         | 2025-10-05     | -                       |
+| HTTP server: ❌ | v2025.10         | 2025-10-05     | -                       |
+| Bittorrent: ❌  | v2025.10         | 2025-10-05     | -                       |
+| Shell: ❌       | v2025.10         | 2025-10-05     | -                       |
+| Kafka: ❌       | v2025.10         | 2025-10-05     | -                       |
 
 ### [PHP](https://app.codecrafters.io/tracks/php)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
