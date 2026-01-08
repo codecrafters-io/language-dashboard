@@ -239,18 +239,18 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Kafka: ⚠️       | v25.0            | 2025-10-15     | v21.0                   |
 
 ### [OCaml](https://app.codecrafters.io/tracks/ocaml)
-| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:----------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️       | v5.4             | 2025-10-09     | v5.3                    |
-| Interpreter: ⚠️ | v5.4             | 2025-10-09     | v5.3                    |
-| Git: ❌          | v5.4             | 2025-10-09     | -                       |
-| Sqlite: ❌       | v5.4             | 2025-10-09     | -                       |
-| DNS server: ❌   | v5.4             | 2025-10-09     | -                       |
-| HTTP server: ❌  | v5.4             | 2025-10-09     | -                       |
-| Bittorrent: ❌   | v5.4             | 2025-10-09     | -                       |
-| Grep: ❌         | v5.4             | 2025-10-09     | -                       |
-| Shell: ❌        | v5.4             | 2025-10-09     | -                       |
-| Kafka: ❌        | v5.4             | 2025-10-09     | -                       |
+| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:---------------|:-----------------|:---------------|:------------------------|
+| Redis: ❗       | v5.4             | 2025-10-09     | v5.3                    |
+| Interpreter: ❗ | v5.4             | 2025-10-09     | v5.3                    |
+| Git: ❌         | v5.4             | 2025-10-09     | -                       |
+| Sqlite: ❌      | v5.4             | 2025-10-09     | -                       |
+| DNS server: ❌  | v5.4             | 2025-10-09     | -                       |
+| HTTP server: ❌ | v5.4             | 2025-10-09     | -                       |
+| Bittorrent: ❌  | v5.4             | 2025-10-09     | -                       |
+| Grep: ❌        | v5.4             | 2025-10-09     | -                       |
+| Shell: ❌       | v5.4             | 2025-10-09     | -                       |
+| Kafka: ❌       | v5.4             | 2025-10-09     | -                       |
 
 ### [Odin](https://app.codecrafters.io/tracks/odin)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
