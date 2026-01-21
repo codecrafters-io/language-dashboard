@@ -101,7 +101,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Crystal](https://app.codecrafters.io/tracks/crystal)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️      | v1.18            | 2025-10-22     | v1.1                    |
+| Redis: ❗       | v1.18            | 2025-10-22     | v1.1                    |
 | Interpreter: ❌ | v1.18            | 2025-10-22     | -                       |
 | Git: ❌         | v1.18            | 2025-10-22     | -                       |
 | Sqlite: ❌      | v1.18            | 2025-10-22     | -                       |
@@ -323,18 +323,18 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Kafka: ❌       | v6.2             | 2025-09-17     | -                       |
 
 ### [Typescript](https://app.codecrafters.io/tracks/bun)
-| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:----------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️       | v1.3             | 2025-10-22     | v1.2                    |
-| Interpreter: ⚠️ | v1.3             | 2025-10-22     | v1.2                    |
-| Git: ⚠️         | v1.3             | 2025-10-22     | v1.2                    |
-| Sqlite: ⚠️      | v1.3             | 2025-10-22     | v1.2                    |
-| DNS server: ⚠️  | v1.3             | 2025-10-22     | v1.2                    |
-| HTTP server: ⚠️ | v1.3             | 2025-10-22     | v1.2                    |
-| Bittorrent: ⚠️  | v1.3             | 2025-10-22     | v1.2                    |
-| Grep: ⚠️        | v1.3             | 2025-10-22     | v1.2                    |
-| Shell: ⚠️       | v1.3             | 2025-10-22     | v1.2                    |
-| Kafka: ⚠️       | v1.3             | 2025-10-22     | v1.2                    |
+| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:---------------|:-----------------|:---------------|:------------------------|
+| Redis: ❗       | v1.3             | 2025-10-22     | v1.2                    |
+| Interpreter: ❗ | v1.3             | 2025-10-22     | v1.2                    |
+| Git: ❗         | v1.3             | 2025-10-22     | v1.2                    |
+| Sqlite: ❗      | v1.3             | 2025-10-22     | v1.2                    |
+| DNS server: ❗  | v1.3             | 2025-10-22     | v1.2                    |
+| HTTP server: ❗ | v1.3             | 2025-10-22     | v1.2                    |
+| Bittorrent: ❗  | v1.3             | 2025-10-22     | v1.2                    |
+| Grep: ❗        | v1.3             | 2025-10-22     | v1.2                    |
+| Shell: ❗       | v1.3             | 2025-10-22     | v1.2                    |
+| Kafka: ❗       | v1.3             | 2025-10-22     | v1.2                    |
 
 ### [Zig](https://app.codecrafters.io/tracks/zig)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
