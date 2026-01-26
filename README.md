@@ -157,16 +157,16 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Gleam](https://app.codecrafters.io/tracks/gleam)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.13            | 2025-10-19     | v1.13                   |
-| Interpreter: ✅ | v1.13            | 2025-10-19     | v1.13                   |
-| Sqlite: ✅      | v1.13            | 2025-10-19     | v1.13                   |
-| HTTP server: ✅ | v1.13            | 2025-10-19     | v1.13                   |
-| Grep: ✅        | v1.13            | 2025-10-19     | v1.13                   |
-| Shell: ✅       | v1.13            | 2025-10-19     | v1.13                   |
-| Kafka: ✅       | v1.13            | 2025-10-19     | v1.13                   |
-| Git: ❌         | v1.13            | 2025-10-19     | -                       |
-| DNS server: ❌  | v1.13            | 2025-10-19     | -                       |
-| Bittorrent: ❌  | v1.13            | 2025-10-19     | -                       |
+| Redis: ✅       | v1.14            | 2025-12-25     | v1.14                   |
+| Interpreter: ✅ | v1.14            | 2025-12-25     | v1.14                   |
+| Sqlite: ✅      | v1.14            | 2025-12-25     | v1.14                   |
+| HTTP server: ✅ | v1.14            | 2025-12-25     | v1.14                   |
+| Grep: ✅        | v1.14            | 2025-12-25     | v1.14                   |
+| Shell: ✅       | v1.14            | 2025-12-25     | v1.14                   |
+| Kafka: ✅       | v1.14            | 2025-12-25     | v1.14                   |
+| Git: ❌         | v1.14            | 2025-12-25     | -                       |
+| DNS server: ❌  | v1.14            | 2025-12-25     | -                       |
+| Bittorrent: ❌  | v1.14            | 2025-12-25     | -                       |
 
 ### [Haskell](https://app.codecrafters.io/tracks/haskell)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
