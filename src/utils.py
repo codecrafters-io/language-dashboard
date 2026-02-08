@@ -23,6 +23,7 @@ class Challenge(Enum):
     GREP = "build-your-own-grep"
     SHELL = "build-your-own-shell"
     KAFKA = "build-your-own-kafka"
+    CLAUDE_CODE = "build-your-own-claude-code"
 
 
 class Status(Enum):
