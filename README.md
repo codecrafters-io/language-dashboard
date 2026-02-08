@@ -27,6 +27,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Grep: ⚠️        | v1.93            | 2026-01-22     | v1.92                   |
 | Shell: ⚠️       | v1.93            | 2026-01-22     | v1.92                   |
 | Kafka: ⚠️       | v1.93            | 2026-01-22     | v1.92                   |
+| CLAUDE code: ⚠️ | v1.93            | 2026-01-22     | v1.92                   |
 
 ### [Go](https://app.codecrafters.io/tracks/go)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -41,6 +42,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Grep: ✅        | v1.25            | 2025-08-12     | v1.25                   |
 | Shell: ✅       | v1.25            | 2025-08-12     | v1.25                   |
 | Kafka: ✅       | v1.25            | 2025-08-12     | v1.25                   |
+| CLAUDE code: ✅ | v1.25            | 2025-08-12     | v1.25                   |
 
 ### [Python](https://app.codecrafters.io/tracks/python)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -55,6 +57,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Grep: ✅        | v3.14            | 2025-10-07     | v3.14                   |
 | Shell: ✅       | v3.14            | 2025-10-07     | v3.14                   |
 | Kafka: ✅       | v3.14            | 2025-10-07     | v3.14                   |
+| CLAUDE code: ✅ | v3.14            | 2025-10-07     | v3.14                   |
 
 ### [C](https://app.codecrafters.io/tracks/c)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -69,6 +72,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Grep: ✅        | v23.0            | 2024-10-31     | v23.0                   |
 | Shell: ✅       | v23.0            | 2024-10-31     | v23.0                   |
 | Kafka: ✅       | v23.0            | 2024-10-31     | v23.0                   |
+| CLAUDE code: ❌ | v23.0            | 2024-10-31     | -                       |
 
 ### [Clojure](https://app.codecrafters.io/tracks/clojure)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -83,6 +87,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Grep: ❌        | v1.12            | 2025-09-26     | -                       |
 | Shell: ❌       | v1.12            | 2025-09-26     | -                       |
 | Kafka: ❌       | v1.12            | 2025-09-26     | -                       |
+| CLAUDE code: ❌ | v1.12            | 2025-09-26     | -                       |
 
 ### [C++](https://app.codecrafters.io/tracks/cpp)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -97,6 +102,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Grep: ✅        | v23.0            | 2023-12-01     | v23.0                   |
 | Shell: ✅       | v23.0            | 2023-12-01     | v23.0                   |
 | Kafka: ✅       | v23.0            | 2023-12-01     | v23.0                   |
+| CLAUDE code: ❌ | v23.0            | 2023-12-01     | -                       |
 
 ### [Crystal](https://app.codecrafters.io/tracks/crystal)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -111,6 +117,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Grep: ❌        | v1.18            | 2025-10-22     | -                       |
 | Shell: ❌       | v1.18            | 2025-10-22     | -                       |
 | Kafka: ❌       | v1.18            | 2025-10-22     | -                       |
+| CLAUDE code: ❌ | v1.18            | 2025-10-22     | -                       |
 
 ### [Dart](https://app.codecrafters.io/tracks/dart)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -125,6 +132,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Grep: ❌        | v3.9             | 2025-09-30     | -                       |
 | Shell: ❌       | v3.9             | 2025-09-30     | -                       |
 | Kafka: ❌       | v3.9             | 2025-09-30     | -                       |
+| CLAUDE code: ❌ | v3.9             | 2025-09-30     | -                       |
 
 ### [C#](https://app.codecrafters.io/tracks/dotnet)
 | Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -139,6 +147,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Grep: ⚠️        | v10.0            | 2025-11-11     | v9.0                    |
 | Shell: ⚠️       | v10.0            | 2025-11-11     | v9.0                    |
 | Kafka: ⚠️       | v10.0            | 2025-11-11     | v9.0                    |
+| CLAUDE code: ❌  | v10.0            | 2025-11-11     | -                       |
 
 ### [Elixir](https://app.codecrafters.io/tracks/elixir)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -153,6 +162,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Kafka: ✅       | v1.19            | 2025-10-16     | v1.19                   |
 | Git: ❌         | v1.19            | 2025-10-16     | -                       |
 | Grep: ❌        | v1.19            | 2025-10-16     | -                       |
+| CLAUDE code: ❌ | v1.19            | 2025-10-16     | -                       |
 
 ### [Gleam](https://app.codecrafters.io/tracks/gleam)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -167,6 +177,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Git: ❌         | v1.14            | 2025-12-25     | -                       |
 | DNS server: ❌  | v1.14            | 2025-12-25     | -                       |
 | Bittorrent: ❌  | v1.14            | 2025-12-25     | -                       |
+| CLAUDE code: ❌ | v1.14            | 2025-12-25     | -                       |
 
 ### [Haskell](https://app.codecrafters.io/tracks/haskell)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -181,6 +192,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | DNS server: ❌  | v9.10            | 2025-09-10     | -                       |
 | Shell: ❌       | v9.10            | 2025-09-10     | -                       |
 | Kafka: ❌       | v9.10            | 2025-09-10     | -                       |
+| CLAUDE code: ❌ | v9.10            | 2025-09-10     | -                       |
 
 ### [Java](https://app.codecrafters.io/tracks/java)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -195,6 +207,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Grep: ✅        | v25.0            | 2025-09-16     | v25.0                   |
 | Shell: ✅       | v25.0            | 2025-09-16     | v25.0                   |
 | Kafka: ✅       | v25.0            | 2025-09-16     | v25.0                   |
+| CLAUDE code: ❌ | v25.0            | 2025-09-16     | -                       |
 
 ### [Kotlin](https://app.codecrafters.io/tracks/kotlin)
 | Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -209,6 +222,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Grep: ⚠️        | v2.3             | 2025-12-16     | v2.2                    |
 | Shell: ⚠️       | v2.3             | 2025-12-16     | v2.2                    |
 | Kafka: ⚠️       | v2.3             | 2025-12-16     | v2.2                    |
+| CLAUDE code: ❌  | v2.3             | 2025-12-16     | -                       |
 
 ### [Nim](https://app.codecrafters.io/tracks/nim)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -223,6 +237,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Grep: ❌        | v2.2             | 2025-04-22     | -                       |
 | Shell: ❌       | v2.2             | 2025-04-22     | -                       |
 | Kafka: ❌       | v2.2             | 2025-04-22     | -                       |
+| CLAUDE code: ❌ | v2.2             | 2025-04-22     | -                       |
 
 ### [Javascript](https://app.codecrafters.io/tracks/nodejs)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -237,6 +252,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Grep: ❗        | v25.0            | 2025-10-15     | v21.0                   |
 | Shell: ❗       | v25.0            | 2025-10-15     | v21.0                   |
 | Kafka: ❗       | v25.0            | 2025-10-15     | v21.0                   |
+| CLAUDE code: ❗ | v25.0            | 2025-10-15     | v21.0                   |
 
 ### [OCaml](https://app.codecrafters.io/tracks/ocaml)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -251,6 +267,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Grep: ❌        | v5.4             | 2025-10-09     | -                       |
 | Shell: ❌       | v5.4             | 2025-10-09     | -                       |
 | Kafka: ❌       | v5.4             | 2025-10-09     | -                       |
+| CLAUDE code: ❌ | v5.4             | 2025-10-09     | -                       |
 
 ### [Odin](https://app.codecrafters.io/tracks/odin)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -265,6 +282,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Bittorrent: ❌  | v2025.10         | 2025-10-05     | -                       |
 | Shell: ❌       | v2025.10         | 2025-10-05     | -                       |
 | Kafka: ❌       | v2025.10         | 2025-10-05     | -                       |
+| CLAUDE code: ❌ | v2025.10         | 2025-10-05     | -                       |
 
 ### [PHP](https://app.codecrafters.io/tracks/php)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -279,6 +297,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | DNS server: ❌  | v8.5             | 2025-11-20     | -                       |
 | Bittorrent: ❌  | v8.5             | 2025-11-20     | -                       |
 | Kafka: ❌       | v8.5             | 2025-11-20     | -                       |
+| CLAUDE code: ❌ | v8.5             | 2025-11-20     | -                       |
 
 ### [Ruby](https://app.codecrafters.io/tracks/ruby)
 | Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -293,6 +312,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Shell: ⚠️       | v4.0             | 2025-12-25     | v3.4                    |
 | Interpreter: ❌  | v4.0             | 2025-12-25     | -                       |
 | Kafka: ❌        | v4.0             | 2025-12-25     | -                       |
+| CLAUDE code: ❌  | v4.0             | 2025-12-25     | -                       |
 
 ### [Scala](https://app.codecrafters.io/tracks/scala)
 | Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -307,6 +327,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Bittorrent: ❌   | v3.8             | 2026-01-22     | -                       |
 | Grep: ❌         | v3.8             | 2026-01-22     | -                       |
 | Kafka: ❌        | v3.8             | 2026-01-22     | -                       |
+| CLAUDE code: ❌  | v3.8             | 2026-01-22     | -                       |
 
 ### [Swift](https://app.codecrafters.io/tracks/swift)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -321,6 +342,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Grep: ❌        | v6.2             | 2025-09-17     | -                       |
 | Shell: ❌       | v6.2             | 2025-09-17     | -                       |
 | Kafka: ❌       | v6.2             | 2025-09-17     | -                       |
+| CLAUDE code: ❌ | v6.2             | 2025-09-17     | -                       |
 
 ### [Typescript](https://app.codecrafters.io/tracks/bun)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -335,6 +357,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Grep: ❗        | v1.3             | 2025-10-22     | v1.2                    |
 | Shell: ❗       | v1.3             | 2025-10-22     | v1.2                    |
 | Kafka: ❗       | v1.3             | 2025-10-22     | v1.2                    |
+| CLAUDE code: ❗ | v1.3             | 2025-10-22     | v1.2                    |
 
 ### [Zig](https://app.codecrafters.io/tracks/zig)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -349,4 +372,5 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Grep: ✅        | v0.15            | 2025-10-11     | v0.15                   |
 | Shell: ✅       | v0.15            | 2025-10-11     | v0.15                   |
 | Kafka: ✅       | v0.15            | 2025-10-11     | v0.15                   |
+| CLAUDE code: ❌ | v0.15            | 2025-10-11     | -                       |
 
