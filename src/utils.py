@@ -195,5 +195,9 @@ def copy_template_to_readme(template_file: str, output_file: str) -> None:
 def format_course_name(name: str) -> str:
     if "_" in name:
         parts = name.split("_")
-        return parts[0].upper() + " " + parts[1].lower()
+        if parts[0] in ["dns", "http"]:
+            parts[0] = parts[0].upper()
+        else:
+            parts = [part.capitalize() for part in parts]
+        return " ".join(parts)
     return name.capitalize()
