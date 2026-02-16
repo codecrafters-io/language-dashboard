@@ -15,19 +15,19 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ## Supported Languages
 
 ### [Rust](https://app.codecrafters.io/tracks/rust)
-| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:----------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️       | v1.93            | 2026-01-22     | v1.92                   |
-| Interpreter: ⚠️ | v1.93            | 2026-01-22     | v1.92                   |
-| Git: ⚠️         | v1.93            | 2026-01-22     | v1.92                   |
-| Sqlite: ⚠️      | v1.93            | 2026-01-22     | v1.92                   |
-| DNS server: ⚠️  | v1.93            | 2026-01-22     | v1.92                   |
-| HTTP server: ⚠️ | v1.93            | 2026-01-22     | v1.92                   |
-| Bittorrent: ⚠️  | v1.93            | 2026-01-22     | v1.92                   |
-| Grep: ⚠️        | v1.93            | 2026-01-22     | v1.92                   |
-| Shell: ⚠️       | v1.93            | 2026-01-22     | v1.92                   |
-| Kafka: ⚠️       | v1.93            | 2026-01-22     | v1.92                   |
-| Claude Code: ⚠️ | v1.93            | 2026-01-22     | v1.92                   |
+| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:---------------|:-----------------|:---------------|:------------------------|
+| Redis: ✅       | v1.93            | 2026-01-22     | v1.93                   |
+| Interpreter: ✅ | v1.93            | 2026-01-22     | v1.93                   |
+| Git: ✅         | v1.93            | 2026-01-22     | v1.93                   |
+| Sqlite: ✅      | v1.93            | 2026-01-22     | v1.93                   |
+| DNS server: ✅  | v1.93            | 2026-01-22     | v1.93                   |
+| HTTP server: ✅ | v1.93            | 2026-01-22     | v1.93                   |
+| Bittorrent: ✅  | v1.93            | 2026-01-22     | v1.93                   |
+| Grep: ✅        | v1.93            | 2026-01-22     | v1.93                   |
+| Shell: ✅       | v1.93            | 2026-01-22     | v1.93                   |
+| Kafka: ✅       | v1.93            | 2026-01-22     | v1.93                   |
+| Claude Code: ✅ | v1.93            | 2026-01-22     | v1.93                   |
 
 ### [Go](https://app.codecrafters.io/tracks/go)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
