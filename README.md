@@ -102,7 +102,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Grep: ✅        | v23.0            | 2023-12-01     | v23.0                   |
 | Shell: ✅       | v23.0            | 2023-12-01     | v23.0                   |
 | Kafka: ✅       | v23.0            | 2023-12-01     | v23.0                   |
-| Claude Code: ❌ | v23.0            | 2023-12-01     | -                       |
+| Claude Code: ✅ | v23.0            | 2023-12-01     | v23.0                   |
 
 ### [Crystal](https://app.codecrafters.io/tracks/crystal)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -147,7 +147,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Grep: ❗        | v10.0            | 2025-11-11     | v9.0                    |
 | Shell: ❗       | v10.0            | 2025-11-11     | v9.0                    |
 | Kafka: ❗       | v10.0            | 2025-11-11     | v9.0                    |
-| Claude Code: ❌ | v10.0            | 2025-11-11     | -                       |
+| Claude Code: ❗ | v10.0            | 2025-11-11     | v9.0                    |
 
 ### [Elixir](https://app.codecrafters.io/tracks/elixir)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -207,7 +207,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Grep: ✅        | v25.0            | 2025-09-16     | v25.0                   |
 | Shell: ✅       | v25.0            | 2025-09-16     | v25.0                   |
 | Kafka: ✅       | v25.0            | 2025-09-16     | v25.0                   |
-| Claude Code: ❌ | v25.0            | 2025-09-16     | -                       |
+| Claude Code: ✅ | v25.0            | 2025-09-16     | v25.0                   |
 
 ### [Kotlin](https://app.codecrafters.io/tracks/kotlin)
 | Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
