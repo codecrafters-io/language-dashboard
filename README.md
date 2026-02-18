@@ -72,7 +72,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Grep: ✅        | v23.0            | 2024-10-31     | v23.0                   |
 | Shell: ✅       | v23.0            | 2024-10-31     | v23.0                   |
 | Kafka: ✅       | v23.0            | 2024-10-31     | v23.0                   |
-| Claude Code: ❌ | v23.0            | 2024-10-31     | -                       |
+| Claude Code: ✅ | v23.0            | 2024-10-31     | v23.0                   |
 
 ### [Clojure](https://app.codecrafters.io/tracks/clojure)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
