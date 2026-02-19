@@ -147,7 +147,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Grep: ❗        | v10.0            | 2025-11-11     | v9.0                    |
 | Shell: ❗       | v10.0            | 2025-11-11     | v9.0                    |
 | Kafka: ❗       | v10.0            | 2025-11-11     | v9.0                    |
-| Claude Code: ❗ | v10.0            | 2025-11-11     | v9.0                    |
+| Claude Code: ✅ | v10.0            | 2025-11-11     | v10.0                   |
 
 ### [Elixir](https://app.codecrafters.io/tracks/elixir)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -252,7 +252,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Grep: ❗        | v25.0            | 2025-10-15     | v21.0                   |
 | Shell: ❗       | v25.0            | 2025-10-15     | v21.0                   |
 | Kafka: ❗       | v25.0            | 2025-10-15     | v21.0                   |
-| Claude Code: ❗ | v25.0            | 2025-10-15     | v21.0                   |
+| Claude Code: ✅ | v25.0            | 2025-10-15     | v25.0                   |
 
 ### [OCaml](https://app.codecrafters.io/tracks/ocaml)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -357,7 +357,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Grep: ❗        | v1.3             | 2025-10-22     | v1.2                    |
 | Shell: ❗       | v1.3             | 2025-10-22     | v1.2                    |
 | Kafka: ❗       | v1.3             | 2025-10-22     | v1.2                    |
-| Claude Code: ❗ | v1.3             | 2025-10-22     | v1.2                    |
+| Claude Code: ✅ | v1.3             | 2025-10-22     | v1.3                    |
 
 ### [Zig](https://app.codecrafters.io/tracks/zig)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -372,5 +372,5 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Grep: ✅        | v0.15            | 2025-10-11     | v0.15                   |
 | Shell: ✅       | v0.15            | 2025-10-11     | v0.15                   |
 | Kafka: ✅       | v0.15            | 2025-10-11     | v0.15                   |
-| Claude Code: ❌ | v0.15            | 2025-10-11     | -                       |
+| Claude Code: ✅ | v0.15            | 2025-10-11     | v0.15                   |
 
