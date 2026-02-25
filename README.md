@@ -123,6 +123,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
 | HTTP server: ❗ | v3.9             | 2025-09-30     | v3.4                    |
+| Shell: 🥑       | v3.9             | 2025-09-30     | v3.11                   |
 | Redis: ❌       | v3.9             | 2025-09-30     | -                       |
 | Interpreter: ❌ | v3.9             | 2025-09-30     | -                       |
 | Git: ❌         | v3.9             | 2025-09-30     | -                       |
@@ -130,7 +131,6 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | DNS server: ❌  | v3.9             | 2025-09-30     | -                       |
 | Bittorrent: ❌  | v3.9             | 2025-09-30     | -                       |
 | Grep: ❌        | v3.9             | 2025-09-30     | -                       |
-| Shell: ❌       | v3.9             | 2025-09-30     | -                       |
 | Kafka: ❌       | v3.9             | 2025-09-30     | -                       |
 | Claude Code: ❌ | v3.9             | 2025-09-30     | -                       |
 
@@ -187,10 +187,10 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | HTTP server: ❗ | v9.10            | 2025-09-10     | v9.8                    |
 | Bittorrent: ❗  | v9.10            | 2025-09-10     | v9.8                    |
 | Grep: ❗        | v9.10            | 2025-09-10     | v9.8                    |
+| Shell: ❗       | v9.10            | 2025-09-10     | v9.8                    |
 | Interpreter: ❌ | v9.10            | 2025-09-10     | -                       |
 | Sqlite: ❌      | v9.10            | 2025-09-10     | -                       |
 | DNS server: ❌  | v9.10            | 2025-09-10     | -                       |
-| Shell: ❌       | v9.10            | 2025-09-10     | -                       |
 | Kafka: ❌       | v9.10            | 2025-09-10     | -                       |
 | Claude Code: ❌ | v9.10            | 2025-09-10     | -                       |
 
@@ -275,12 +275,12 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Redis: ❗       | v2025.10         | 2025-10-05     | v2025.7                 |
 | Interpreter: ❗ | v2025.10         | 2025-10-05     | v2025.7                 |
 | Grep: ❗        | v2025.10         | 2025-10-05     | v2025.7                 |
+| Shell: ❗       | v2025.10         | 2025-10-05     | v2025.7                 |
 | Git: ❌         | v2025.10         | 2025-10-05     | -                       |
 | Sqlite: ❌      | v2025.10         | 2025-10-05     | -                       |
 | DNS server: ❌  | v2025.10         | 2025-10-05     | -                       |
 | HTTP server: ❌ | v2025.10         | 2025-10-05     | -                       |
 | Bittorrent: ❌  | v2025.10         | 2025-10-05     | -                       |
-| Shell: ❌       | v2025.10         | 2025-10-05     | -                       |
 | Kafka: ❌       | v2025.10         | 2025-10-05     | -                       |
 | Claude Code: ❌ | v2025.10         | 2025-10-05     | -                       |
 
