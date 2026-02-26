@@ -30,19 +30,19 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Claude Code: ✅ | v1.93            | 2026-01-22     | v1.93                   |
 
 ### [Go](https://app.codecrafters.io/tracks/go)
-| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.26            | 2026-02-11     | v1.25                   |
-| Interpreter: ✅ | v1.26            | 2026-02-11     | v1.25                   |
-| Git: ✅         | v1.26            | 2026-02-11     | v1.25                   |
-| Sqlite: ✅      | v1.26            | 2026-02-11     | v1.25                   |
-| DNS server: ✅  | v1.26            | 2026-02-11     | v1.25                   |
-| HTTP server: ✅ | v1.26            | 2026-02-11     | v1.25                   |
-| Bittorrent: ✅  | v1.26            | 2026-02-11     | v1.25                   |
-| Grep: ✅        | v1.26            | 2026-02-11     | v1.25                   |
-| Shell: ✅       | v1.26            | 2026-02-11     | v1.25                   |
-| Kafka: ✅       | v1.26            | 2026-02-11     | v1.25                   |
-| Claude Code: ✅ | v1.26            | 2026-02-11     | v1.25                   |
+| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:----------------|:-----------------|:---------------|:------------------------|
+| Redis: ⚠️       | v1.26            | 2026-02-11     | v1.25                   |
+| Interpreter: ⚠️ | v1.26            | 2026-02-11     | v1.25                   |
+| Git: ⚠️         | v1.26            | 2026-02-11     | v1.25                   |
+| Sqlite: ⚠️      | v1.26            | 2026-02-11     | v1.25                   |
+| DNS server: ⚠️  | v1.26            | 2026-02-11     | v1.25                   |
+| HTTP server: ⚠️ | v1.26            | 2026-02-11     | v1.25                   |
+| Bittorrent: ⚠️  | v1.26            | 2026-02-11     | v1.25                   |
+| Grep: ⚠️        | v1.26            | 2026-02-11     | v1.25                   |
+| Shell: ⚠️       | v1.26            | 2026-02-11     | v1.25                   |
+| Kafka: ⚠️       | v1.26            | 2026-02-11     | v1.25                   |
+| Claude Code: ⚠️ | v1.26            | 2026-02-11     | v1.25                   |
 
 ### [Python](https://app.codecrafters.io/tracks/python)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
