@@ -347,16 +347,16 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Typescript](https://app.codecrafters.io/tracks/bun)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ❗       | v1.3             | 2025-10-22     | v1.2                    |
-| Interpreter: ❗ | v1.3             | 2025-10-22     | v1.2                    |
-| Git: ❗         | v1.3             | 2025-10-22     | v1.2                    |
-| Sqlite: ❗      | v1.3             | 2025-10-22     | v1.2                    |
-| DNS server: ❗  | v1.3             | 2025-10-22     | v1.2                    |
-| HTTP server: ❗ | v1.3             | 2025-10-22     | v1.2                    |
-| Bittorrent: ❗  | v1.3             | 2025-10-22     | v1.2                    |
-| Grep: ❗        | v1.3             | 2025-10-22     | v1.2                    |
-| Shell: ❗       | v1.3             | 2025-10-22     | v1.2                    |
-| Kafka: ❗       | v1.3             | 2025-10-22     | v1.2                    |
+| Redis: ✅       | v1.3             | 2025-10-22     | v1.3                    |
+| Interpreter: ✅ | v1.3             | 2025-10-22     | v1.3                    |
+| Git: ✅         | v1.3             | 2025-10-22     | v1.3                    |
+| Sqlite: ✅      | v1.3             | 2025-10-22     | v1.3                    |
+| DNS server: ✅  | v1.3             | 2025-10-22     | v1.3                    |
+| HTTP server: ✅ | v1.3             | 2025-10-22     | v1.3                    |
+| Bittorrent: ✅  | v1.3             | 2025-10-22     | v1.3                    |
+| Grep: ✅        | v1.3             | 2025-10-22     | v1.3                    |
+| Shell: ✅       | v1.3             | 2025-10-22     | v1.3                    |
+| Kafka: ✅       | v1.3             | 2025-10-22     | v1.3                    |
 | Claude Code: ✅ | v1.3             | 2025-10-22     | v1.3                    |
 
 ### [Zig](https://app.codecrafters.io/tracks/zig)
