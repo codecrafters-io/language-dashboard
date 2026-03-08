@@ -183,12 +183,12 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
 | Redis: ❗       | v9.10            | 2025-09-10     | v9.8                    |
+| Interpreter: ✅ | v9.10            | 2025-09-10     | v9.10                   |
 | Git: ❗         | v9.10            | 2025-09-10     | v9.8                    |
 | HTTP server: ❗ | v9.10            | 2025-09-10     | v9.8                    |
 | Bittorrent: ❗  | v9.10            | 2025-09-10     | v9.8                    |
 | Grep: ❗        | v9.10            | 2025-09-10     | v9.8                    |
 | Shell: ❗       | v9.10            | 2025-09-10     | v9.8                    |
-| Interpreter: ❌ | v9.10            | 2025-09-10     | -                       |
 | Sqlite: ❌      | v9.10            | 2025-09-10     | -                       |
 | DNS server: ❌  | v9.10            | 2025-09-10     | -                       |
 | Kafka: ❌       | v9.10            | 2025-09-10     | -                       |
@@ -318,15 +318,15 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:----------------|:-----------------|:---------------|:------------------------|
 | Redis: ⚠️       | v3.8             | 2026-01-22     | v3.7                    |
-| Interpreter: ⚠️ | v3.8             | 2026-01-22     | v3.7                    |
+| Interpreter: ✅  | v3.8             | 2026-01-22     | v3.8                    |
 | HTTP server: ⚠️ | v3.8             | 2026-01-22     | v3.7                    |
 | Shell: ⚠️       | v3.8             | 2026-01-22     | v3.7                    |
+| Kafka: ✅        | v3.8             | 2026-01-22     | v3.8                    |
 | Git: ❌          | v3.8             | 2026-01-22     | -                       |
 | Sqlite: ❌       | v3.8             | 2026-01-22     | -                       |
 | DNS server: ❌   | v3.8             | 2026-01-22     | -                       |
 | Bittorrent: ❌   | v3.8             | 2026-01-22     | -                       |
 | Grep: ❌         | v3.8             | 2026-01-22     | -                       |
-| Kafka: ❌        | v3.8             | 2026-01-22     | -                       |
 | Claude Code: ❌  | v3.8             | 2026-01-22     | -                       |
 
 ### [Swift](https://app.codecrafters.io/tracks/swift)
