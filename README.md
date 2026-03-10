@@ -272,17 +272,17 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Odin](https://app.codecrafters.io/tracks/odin)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ❗       | v2025.10         | 2025-10-05     | v2025.7                 |
-| Interpreter: ❗ | v2025.10         | 2025-10-05     | v2025.7                 |
-| Grep: ❗        | v2025.10         | 2025-10-05     | v2025.7                 |
-| Shell: ❗       | v2025.10         | 2025-10-05     | v2025.7                 |
-| Git: ❌         | v2025.10         | 2025-10-05     | -                       |
-| Sqlite: ❌      | v2025.10         | 2025-10-05     | -                       |
-| DNS server: ❌  | v2025.10         | 2025-10-05     | -                       |
-| HTTP server: ❌ | v2025.10         | 2025-10-05     | -                       |
-| Bittorrent: ❌  | v2025.10         | 2025-10-05     | -                       |
-| Kafka: ❌       | v2025.10         | 2025-10-05     | -                       |
-| Claude Code: ❌ | v2025.10         | 2025-10-05     | -                       |
+| Redis: ✅       | v2026.3          | 2026-03-04     | v2025.7                 |
+| Interpreter: ✅ | v2026.3          | 2026-03-04     | v2025.7                 |
+| HTTP server: ✅ | v2026.3          | 2026-03-04     | v2026.3                 |
+| Grep: ✅        | v2026.3          | 2026-03-04     | v2025.7                 |
+| Shell: ✅       | v2026.3          | 2026-03-04     | v2025.7                 |
+| Git: ❌         | v2026.3          | 2026-03-04     | -                       |
+| Sqlite: ❌      | v2026.3          | 2026-03-04     | -                       |
+| DNS server: ❌  | v2026.3          | 2026-03-04     | -                       |
+| Bittorrent: ❌  | v2026.3          | 2026-03-04     | -                       |
+| Kafka: ❌       | v2026.3          | 2026-03-04     | -                       |
+| Claude Code: ❌ | v2026.3          | 2026-03-04     | -                       |
 
 ### [PHP](https://app.codecrafters.io/tracks/php)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
