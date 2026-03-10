@@ -39,8 +39,8 @@ ocaml:
   releaseDate: "2025-10-09"
 odin:
   # https://github.com/odin-lang/Odin/releases
-  cycle: "2025.10"
-  releaseDate: "2025-10-05"
+  cycle: "2026.03"
+  releaseDate: "2026-03-04"
 swift:
   # https://github.com/swiftlang/swift/releases
   cycle: "6.2"
