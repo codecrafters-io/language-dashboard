@@ -276,7 +276,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Interpreter: ✅ | v2026.3          | 2026-03-04     | v2025.7                 |
 | HTTP server: ✅ | v2026.3          | 2026-03-04     | v2026.3                 |
 | Grep: ✅        | v2026.3          | 2026-03-04     | v2025.7                 |
-| Shell: ✅       | v2026.3          | 2026-03-04     | v2025.7                 |
+| Shell: ✅       | v2026.3          | 2026-03-04     | v2026.3                 |
 | Git: ❌         | v2026.3          | 2026-03-04     | -                       |
 | Sqlite: ❌      | v2026.3          | 2026-03-04     | -                       |
 | DNS server: ❌  | v2026.3          | 2026-03-04     | -                       |
