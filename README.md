@@ -320,7 +320,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Redis: ⚠️       | v3.8             | 2026-01-22     | v3.7                    |
 | Interpreter: ✅  | v3.8             | 2026-01-22     | v3.8                    |
 | HTTP server: ⚠️ | v3.8             | 2026-01-22     | v3.7                    |
-| Shell: ⚠️       | v3.8             | 2026-01-22     | v3.7                    |
+| Shell: ✅        | v3.8             | 2026-01-22     | v3.8                    |
 | Kafka: ✅        | v3.8             | 2026-01-22     | v3.8                    |
 | Git: ❌          | v3.8             | 2026-01-22     | -                       |
 | Sqlite: ❌       | v3.8             | 2026-01-22     | -                       |
