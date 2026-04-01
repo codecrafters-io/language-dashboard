@@ -195,19 +195,19 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Claude Code: ❌ | v9.10            | 2025-09-10     | -                       |
 
 ### [Java](https://app.codecrafters.io/tracks/java)
-| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v26.0            | 2026-03-17     | v25.0                   |
-| Interpreter: ✅ | v26.0            | 2026-03-17     | v25.0                   |
-| Git: ✅         | v26.0            | 2026-03-17     | v25.0                   |
-| Sqlite: ✅      | v26.0            | 2026-03-17     | v25.0                   |
-| DNS server: ✅  | v26.0            | 2026-03-17     | v25.0                   |
-| HTTP server: ✅ | v26.0            | 2026-03-17     | v25.0                   |
-| Bittorrent: ✅  | v26.0            | 2026-03-17     | v25.0                   |
-| Grep: ✅        | v26.0            | 2026-03-17     | v25.0                   |
-| Shell: ✅       | v26.0            | 2026-03-17     | v25.0                   |
-| Kafka: ✅       | v26.0            | 2026-03-17     | v25.0                   |
-| Claude Code: ✅ | v26.0            | 2026-03-17     | v25.0                   |
+| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:----------------|:-----------------|:---------------|:------------------------|
+| Redis: ⚠️       | v26.0            | 2026-03-17     | v25.0                   |
+| Interpreter: ⚠️ | v26.0            | 2026-03-17     | v25.0                   |
+| Git: ⚠️         | v26.0            | 2026-03-17     | v25.0                   |
+| Sqlite: ⚠️      | v26.0            | 2026-03-17     | v25.0                   |
+| DNS server: ⚠️  | v26.0            | 2026-03-17     | v25.0                   |
+| HTTP server: ⚠️ | v26.0            | 2026-03-17     | v25.0                   |
+| Bittorrent: ⚠️  | v26.0            | 2026-03-17     | v25.0                   |
+| Grep: ⚠️        | v26.0            | 2026-03-17     | v25.0                   |
+| Shell: ⚠️       | v26.0            | 2026-03-17     | v25.0                   |
+| Kafka: ⚠️       | v26.0            | 2026-03-17     | v25.0                   |
+| Claude Code: ⚠️ | v26.0            | 2026-03-17     | v25.0                   |
 
 ### [Kotlin](https://app.codecrafters.io/tracks/kotlin)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
