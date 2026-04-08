@@ -137,7 +137,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [C#](https://app.codecrafters.io/tracks/dotnet)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ❗       | v10.0            | 2025-11-11     | v9.0                    |
+| Redis: ✅       | v10.0            | 2025-11-11     | v10.0                   |
 | Interpreter: ❗ | v10.0            | 2025-11-11     | v9.0                    |
 | Git: ❗         | v10.0            | 2025-11-11     | v9.0                    |
 | Sqlite: ❗      | v10.0            | 2025-11-11     | v9.0                    |
