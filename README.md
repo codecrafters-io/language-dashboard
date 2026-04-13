@@ -212,16 +212,16 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Kotlin](https://app.codecrafters.io/tracks/kotlin)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ❗       | v2.3             | 2025-12-16     | v2.2                    |
-| Interpreter: ❗ | v2.3             | 2025-12-16     | v2.2                    |
-| Git: ❗         | v2.3             | 2025-12-16     | v2.2                    |
-| Sqlite: ❗      | v2.3             | 2025-12-16     | v2.2                    |
-| DNS server: ❗  | v2.3             | 2025-12-16     | v2.2                    |
-| HTTP server: ❗ | v2.3             | 2025-12-16     | v2.2                    |
-| Bittorrent: ❗  | v2.3             | 2025-12-16     | v2.2                    |
-| Grep: ❗        | v2.3             | 2025-12-16     | v2.2                    |
-| Shell: ❗       | v2.3             | 2025-12-16     | v2.2                    |
-| Kafka: ❗       | v2.3             | 2025-12-16     | v2.2                    |
+| Redis: ✅       | v2.3             | 2025-12-16     | v2.3                    |
+| Interpreter: ✅ | v2.3             | 2025-12-16     | v2.3                    |
+| Git: ✅         | v2.3             | 2025-12-16     | v2.3                    |
+| Sqlite: ✅      | v2.3             | 2025-12-16     | v2.3                    |
+| DNS server: ✅  | v2.3             | 2025-12-16     | v2.3                    |
+| HTTP server: ✅ | v2.3             | 2025-12-16     | v2.3                    |
+| Bittorrent: ✅  | v2.3             | 2025-12-16     | v2.3                    |
+| Grep: ✅        | v2.3             | 2025-12-16     | v2.3                    |
+| Shell: ✅       | v2.3             | 2025-12-16     | v2.3                    |
+| Kafka: ✅       | v2.3             | 2025-12-16     | v2.3                    |
 | Claude Code: ❌ | v2.3             | 2025-12-16     | -                       |
 
 ### [Nim](https://app.codecrafters.io/tracks/nim)
