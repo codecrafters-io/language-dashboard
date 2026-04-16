@@ -46,6 +46,6 @@ swift:
   cycle: "6.2"
   releaseDate: "2025-09-17"
 zig:
-  # https://github.com/ziglang/zig/tags
-  cycle: "0.15.2"
-  releaseDate: "2025-10-11"
+  # https://ziglang.org/download/
+  cycle: "0.16.0"
+  releaseDate: "2026-04-13"
