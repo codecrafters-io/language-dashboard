@@ -259,9 +259,9 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 |:---------------|:-----------------|:---------------|:------------------------|
 | Redis: ✅       | v5.4             | 2025-10-09     | v5.4                    |
 | Interpreter: ✅ | v5.4             | 2025-10-09     | v5.4                    |
+| Git: ✅         | v5.4             | 2025-10-09     | v5.4                    |
 | HTTP server: ✅ | v5.4             | 2025-10-09     | v5.4                    |
 | Shell: ✅       | v5.4             | 2025-10-09     | v5.4                    |
-| Git: ❌         | v5.4             | 2025-10-09     | -                       |
 | Sqlite: ❌      | v5.4             | 2025-10-09     | -                       |
 | DNS server: ❌  | v5.4             | 2025-10-09     | -                       |
 | Bittorrent: ❌  | v5.4             | 2025-10-09     | -                       |
