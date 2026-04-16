@@ -19,8 +19,8 @@ crystal:
 dart:
   # https://github.com/dart-lang/sdk/tags
   # stable release version data from: https://dart.dev/get-dart
-  cycle: "3.9.4"
-  releaseDate: "2025-09-30"
+  cycle: "3.11.5"
+  releaseDate: "2026-02-11"
 gleam:
   # https://github.com/gleam-lang/gleam/releases
   cycle: "1.14.0"
