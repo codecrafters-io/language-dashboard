@@ -17,17 +17,17 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Rust](https://app.codecrafters.io/tracks/rust)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.94            | 2026-03-06     | v1.94                   |
-| Interpreter: ✅ | v1.94            | 2026-03-06     | v1.94                   |
-| Git: ✅         | v1.94            | 2026-03-06     | v1.94                   |
-| Sqlite: ✅      | v1.94            | 2026-03-06     | v1.94                   |
-| DNS server: ✅  | v1.94            | 2026-03-06     | v1.94                   |
-| HTTP server: ✅ | v1.94            | 2026-03-06     | v1.94                   |
-| Bittorrent: ✅  | v1.94            | 2026-03-06     | v1.94                   |
-| Grep: ✅        | v1.94            | 2026-03-06     | v1.94                   |
-| Shell: ✅       | v1.94            | 2026-03-06     | v1.94                   |
-| Kafka: ✅       | v1.94            | 2026-03-06     | v1.94                   |
-| Claude Code: ✅ | v1.94            | 2026-03-06     | v1.94                   |
+| Redis: ✅       | v1.95            | 2026-04-16     | v1.94                   |
+| Interpreter: ✅ | v1.95            | 2026-04-16     | v1.94                   |
+| Git: ✅         | v1.95            | 2026-04-16     | v1.94                   |
+| Sqlite: ✅      | v1.95            | 2026-04-16     | v1.94                   |
+| DNS server: ✅  | v1.95            | 2026-04-16     | v1.94                   |
+| HTTP server: ✅ | v1.95            | 2026-04-16     | v1.94                   |
+| Bittorrent: ✅  | v1.95            | 2026-04-16     | v1.94                   |
+| Grep: ✅        | v1.95            | 2026-04-16     | v1.94                   |
+| Shell: ✅       | v1.95            | 2026-04-16     | v1.94                   |
+| Kafka: ✅       | v1.95            | 2026-04-16     | v1.94                   |
+| Claude Code: ✅ | v1.95            | 2026-04-16     | v1.94                   |
 
 ### [Go](https://app.codecrafters.io/tracks/go)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
