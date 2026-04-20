@@ -302,15 +302,15 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Ruby](https://app.codecrafters.io/tracks/ruby)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ❗       | v4.0             | 2025-12-25     | v3.4                    |
+| Redis: ✅       | v4.0             | 2025-12-25     | v4.0                    |
 | Interpreter: ✅ | v4.0             | 2025-12-25     | v4.0                    |
-| Git: ❗         | v4.0             | 2025-12-25     | v3.4                    |
-| Sqlite: ❗      | v4.0             | 2025-12-25     | v3.4                    |
-| DNS server: ❗  | v4.0             | 2025-12-25     | v3.4                    |
-| HTTP server: ❗ | v4.0             | 2025-12-25     | v3.4                    |
-| Bittorrent: ❗  | v4.0             | 2025-12-25     | v3.4                    |
-| Grep: ❗        | v4.0             | 2025-12-25     | v3.4                    |
-| Shell: ❗       | v4.0             | 2025-12-25     | v3.4                    |
+| Git: ✅         | v4.0             | 2025-12-25     | v4.0                    |
+| Sqlite: ✅      | v4.0             | 2025-12-25     | v4.0                    |
+| DNS server: ✅  | v4.0             | 2025-12-25     | v4.0                    |
+| HTTP server: ✅ | v4.0             | 2025-12-25     | v4.0                    |
+| Bittorrent: ✅  | v4.0             | 2025-12-25     | v4.0                    |
+| Grep: ✅        | v4.0             | 2025-12-25     | v4.0                    |
+| Shell: ✅       | v4.0             | 2025-12-25     | v4.0                    |
 | Kafka: ❌       | v4.0             | 2025-12-25     | -                       |
 | Claude Code: ❌ | v4.0             | 2025-12-25     | -                       |
 
