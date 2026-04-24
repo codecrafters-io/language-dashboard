@@ -275,7 +275,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Redis: ✅       | v2026.4          | 2026-04-03     | v2026.4                 |
 | Interpreter: ✅ | v2026.4          | 2026-04-03     | v2026.4                 |
 | HTTP server: ✅ | v2026.4          | 2026-04-03     | v2026.4                 |
-| Grep: ⚠️       | v2026.4          | 2026-04-03     | v2026.3                 |
+| Grep: ✅        | v2026.4          | 2026-04-03     | v2026.4                 |
 | Shell: ✅       | v2026.4          | 2026-04-03     | v2026.4                 |
 | Git: ❌         | v2026.4          | 2026-04-03     | -                       |
 | Sqlite: ❌      | v2026.4          | 2026-04-03     | -                       |
