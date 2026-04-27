@@ -290,11 +290,11 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Redis: ✅       | v8.5             | 2025-11-20     | v8.5                    |
 | Interpreter: ✅ | v8.5             | 2025-11-20     | v8.5                    |
 | Git: ✅         | v8.5             | 2025-11-20     | v8.5                    |
+| DNS server: ✅  | v8.5             | 2025-11-20     | v8.5                    |
 | HTTP server: ✅ | v8.5             | 2025-11-20     | v8.5                    |
 | Grep: ✅        | v8.5             | 2025-11-20     | v8.5                    |
 | Shell: ✅       | v8.5             | 2025-11-20     | v8.5                    |
 | Sqlite: ❌      | v8.5             | 2025-11-20     | -                       |
-| DNS server: ❌  | v8.5             | 2025-11-20     | -                       |
 | Bittorrent: ❌  | v8.5             | 2025-11-20     | -                       |
 | Kafka: ❌       | v8.5             | 2025-11-20     | -                       |
 | Claude Code: ❌ | v8.5             | 2025-11-20     | -                       |
