@@ -185,7 +185,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Redis: ❗       | v9.10            | 2025-09-10     | v9.8                    |
 | Interpreter: ✅ | v9.10            | 2025-09-10     | v9.10                   |
 | Git: ❗         | v9.10            | 2025-09-10     | v9.8                    |
-| HTTP server: ❗ | v9.10            | 2025-09-10     | v9.8                    |
+| HTTP server: ✅ | v9.10            | 2025-09-10     | v9.10                   |
 | Bittorrent: ❗  | v9.10            | 2025-09-10     | v9.8                    |
 | Grep: ❗        | v9.10            | 2025-09-10     | v9.8                    |
 | Shell: ❗       | v9.10            | 2025-09-10     | v9.8                    |
