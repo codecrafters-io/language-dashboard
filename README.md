@@ -154,13 +154,13 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 |:---------------|:-----------------|:---------------|:------------------------|
 | Redis: ✅       | v1.19            | 2025-10-16     | v1.19                   |
 | Interpreter: ✅ | v1.19            | 2025-10-16     | v1.19                   |
+| Git: ✅         | v1.19            | 2025-10-16     | v1.19                   |
 | Sqlite: ✅      | v1.19            | 2025-10-16     | v1.19                   |
 | DNS server: ✅  | v1.19            | 2025-10-16     | v1.19                   |
 | HTTP server: ✅ | v1.19            | 2025-10-16     | v1.19                   |
 | Bittorrent: ✅  | v1.19            | 2025-10-16     | v1.19                   |
 | Shell: ✅       | v1.19            | 2025-10-16     | v1.19                   |
 | Kafka: ✅       | v1.19            | 2025-10-16     | v1.19                   |
-| Git: ❌         | v1.19            | 2025-10-16     | -                       |
 | Grep: ❌        | v1.19            | 2025-10-16     | -                       |
 | Claude Code: ❌ | v1.19            | 2025-10-16     | -                       |
 
