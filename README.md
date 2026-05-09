@@ -242,17 +242,17 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Javascript](https://app.codecrafters.io/tracks/nodejs)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v25.0            | 2025-10-15     | v25.0                   |
-| Interpreter: ✅ | v25.0            | 2025-10-15     | v25.0                   |
-| Git: ✅         | v25.0            | 2025-10-15     | v25.0                   |
-| Sqlite: ✅      | v25.0            | 2025-10-15     | v25.0                   |
-| DNS server: ✅  | v25.0            | 2025-10-15     | v25.0                   |
-| HTTP server: ✅ | v25.0            | 2025-10-15     | v25.0                   |
-| Bittorrent: ✅  | v25.0            | 2025-10-15     | v25.0                   |
-| Grep: ✅        | v25.0            | 2025-10-15     | v25.0                   |
-| Shell: ✅       | v25.0            | 2025-10-15     | v25.0                   |
-| Kafka: ✅       | v25.0            | 2025-10-15     | v25.0                   |
-| Claude Code: ✅ | v25.0            | 2025-10-15     | v25.0                   |
+| Redis: ✅       | v26.0            | 2026-05-05     | v25.0                   |
+| Interpreter: ✅ | v26.0            | 2026-05-05     | v25.0                   |
+| Git: ✅         | v26.0            | 2026-05-05     | v25.0                   |
+| Sqlite: ✅      | v26.0            | 2026-05-05     | v25.0                   |
+| DNS server: ✅  | v26.0            | 2026-05-05     | v25.0                   |
+| HTTP server: ✅ | v26.0            | 2026-05-05     | v25.0                   |
+| Bittorrent: ✅  | v26.0            | 2026-05-05     | v25.0                   |
+| Grep: ✅        | v26.0            | 2026-05-05     | v25.0                   |
+| Shell: ✅       | v26.0            | 2026-05-05     | v25.0                   |
+| Kafka: ✅       | v26.0            | 2026-05-05     | v25.0                   |
+| Claude Code: ✅ | v26.0            | 2026-05-05     | v25.0                   |
 
 ### [OCaml](https://app.codecrafters.io/tracks/ocaml)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
