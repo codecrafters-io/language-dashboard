@@ -371,6 +371,6 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Bittorrent: ✅   | v0.16            | 2026-04-13     | v0.16                   |
 | Grep: ⚠️        | v0.16            | 2026-04-13     | v0.15                   |
 | Shell: ✅        | v0.16            | 2026-04-13     | v0.16                   |
-| Kafka: ⚠️       | v0.16            | 2026-04-13     | v0.15                   |
-| Claude Code: ⚠️ | v0.16            | 2026-04-13     | v0.15                   |
+| Kafka: ✅        | v0.16            | 2026-04-13     | v0.16                   |
+| Claude Code: ✅  | v0.16            | 2026-04-13     | v0.16                   |
 
