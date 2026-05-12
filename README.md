@@ -290,11 +290,11 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Redis: ✅       | v8.5             | 2025-11-20     | v8.5                    |
 | Interpreter: ✅ | v8.5             | 2025-11-20     | v8.5                    |
 | Git: ✅         | v8.5             | 2025-11-20     | v8.5                    |
+| Sqlite: ✅      | v8.5             | 2025-11-20     | v8.5                    |
 | DNS server: ✅  | v8.5             | 2025-11-20     | v8.5                    |
 | HTTP server: ✅ | v8.5             | 2025-11-20     | v8.5                    |
 | Grep: ✅        | v8.5             | 2025-11-20     | v8.5                    |
 | Shell: ✅       | v8.5             | 2025-11-20     | v8.5                    |
-| Sqlite: ❌      | v8.5             | 2025-11-20     | -                       |
 | Bittorrent: ❌  | v8.5             | 2025-11-20     | -                       |
 | Kafka: ❌       | v8.5             | 2025-11-20     | -                       |
 | Claude Code: ❌ | v8.5             | 2025-11-20     | -                       |
@@ -365,7 +365,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Redis: ✅        | v0.16            | 2026-04-13     | v0.16                   |
 | Interpreter: ⚠️ | v0.16            | 2026-04-13     | v0.15                   |
 | Git: ⚠️         | v0.16            | 2026-04-13     | v0.15                   |
-| Sqlite: ⚠️      | v0.16            | 2026-04-13     | v0.15                   |
+| Sqlite: ✅       | v0.16            | 2026-04-13     | v0.16                   |
 | DNS server: ⚠️  | v0.16            | 2026-04-13     | v0.15                   |
 | HTTP server: ✅  | v0.16            | 2026-04-13     | v0.16                   |
 | Bittorrent: ✅   | v0.16            | 2026-04-13     | v0.16                   |
