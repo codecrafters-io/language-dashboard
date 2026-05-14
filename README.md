@@ -167,14 +167,14 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Gleam](https://app.codecrafters.io/tracks/gleam)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.14            | 2025-12-25     | v1.14                   |
-| Interpreter: ✅ | v1.14            | 2025-12-25     | v1.14                   |
-| Sqlite: ✅      | v1.14            | 2025-12-25     | v1.14                   |
-| HTTP server: ✅ | v1.14            | 2025-12-25     | v1.14                   |
-| Grep: ✅        | v1.14            | 2025-12-25     | v1.14                   |
+| Redis: 🥑       | v1.14            | 2025-12-25     | v1.16                   |
+| Interpreter: 🥑 | v1.14            | 2025-12-25     | v1.16                   |
+| Git: 🥑         | v1.14            | 2025-12-25     | v1.16                   |
+| Sqlite: 🥑      | v1.14            | 2025-12-25     | v1.16                   |
+| HTTP server: 🥑 | v1.14            | 2025-12-25     | v1.16                   |
+| Grep: 🥑        | v1.14            | 2025-12-25     | v1.16                   |
 | Shell: ✅       | v1.14            | 2025-12-25     | v1.14                   |
-| Kafka: ✅       | v1.14            | 2025-12-25     | v1.14                   |
-| Git: ❌         | v1.14            | 2025-12-25     | -                       |
+| Kafka: 🥑       | v1.14            | 2025-12-25     | v1.16                   |
 | DNS server: ❌  | v1.14            | 2025-12-25     | -                       |
 | Bittorrent: ❌  | v1.14            | 2025-12-25     | -                       |
 | Claude Code: ❌ | v1.14            | 2025-12-25     | -                       |
