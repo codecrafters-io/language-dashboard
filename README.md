@@ -122,9 +122,9 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Dart](https://app.codecrafters.io/tracks/dart)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
+| Redis: ✅       | v3.11            | 2026-02-11     | v3.11                   |
 | HTTP server: ❗ | v3.11            | 2026-02-11     | v3.4                    |
 | Shell: ✅       | v3.11            | 2026-02-11     | v3.11                   |
-| Redis: ❌       | v3.11            | 2026-02-11     | -                       |
 | Interpreter: ❌ | v3.11            | 2026-02-11     | -                       |
 | Git: ❌         | v3.11            | 2026-02-11     | -                       |
 | Sqlite: ❌      | v3.11            | 2026-02-11     | -                       |
