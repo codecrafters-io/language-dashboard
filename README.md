@@ -240,19 +240,19 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Claude Code: ❌ | v2.2             | 2025-04-22     | -                       |
 
 ### [Javascript](https://app.codecrafters.io/tracks/nodejs)
-| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v26.0            | 2026-05-05     | v25.0                   |
-| Interpreter: ✅ | v26.0            | 2026-05-05     | v25.0                   |
-| Git: ✅         | v26.0            | 2026-05-05     | v25.0                   |
-| Sqlite: ✅      | v26.0            | 2026-05-05     | v25.0                   |
-| DNS server: ✅  | v26.0            | 2026-05-05     | v25.0                   |
-| HTTP server: ✅ | v26.0            | 2026-05-05     | v25.0                   |
-| Bittorrent: ✅  | v26.0            | 2026-05-05     | v25.0                   |
-| Grep: ✅        | v26.0            | 2026-05-05     | v25.0                   |
-| Shell: ✅       | v26.0            | 2026-05-05     | v25.0                   |
-| Kafka: ✅       | v26.0            | 2026-05-05     | v25.0                   |
-| Claude Code: ✅ | v26.0            | 2026-05-05     | v25.0                   |
+| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:----------------|:-----------------|:---------------|:------------------------|
+| Redis: ⚠️       | v26.0            | 2026-05-05     | v25.0                   |
+| Interpreter: ⚠️ | v26.0            | 2026-05-05     | v25.0                   |
+| Git: ⚠️         | v26.0            | 2026-05-05     | v25.0                   |
+| Sqlite: ⚠️      | v26.0            | 2026-05-05     | v25.0                   |
+| DNS server: ⚠️  | v26.0            | 2026-05-05     | v25.0                   |
+| HTTP server: ⚠️ | v26.0            | 2026-05-05     | v25.0                   |
+| Bittorrent: ⚠️  | v26.0            | 2026-05-05     | v25.0                   |
+| Grep: ⚠️        | v26.0            | 2026-05-05     | v25.0                   |
+| Shell: ⚠️       | v26.0            | 2026-05-05     | v25.0                   |
+| Kafka: ⚠️       | v26.0            | 2026-05-05     | v25.0                   |
+| Claude Code: ⚠️ | v26.0            | 2026-05-05     | v25.0                   |
 
 ### [OCaml](https://app.codecrafters.io/tracks/ocaml)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
