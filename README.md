@@ -332,7 +332,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Swift](https://app.codecrafters.io/tracks/swift)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ❗       | v6.2             | 2025-09-17     | v6.0                    |
+| Redis: 🥑       | v6.2             | 2025-09-17     | v6.3                    |
 | Interpreter: ❗ | v6.2             | 2025-09-17     | v6.0                    |
 | Sqlite: ❗      | v6.2             | 2025-09-17     | v5.7                    |
 | Git: ❌         | v6.2             | 2025-09-17     | -                       |
