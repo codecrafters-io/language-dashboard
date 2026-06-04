@@ -145,7 +145,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | HTTP server: ❗ | v10.0            | 2025-11-11     | v9.0                    |
 | Bittorrent: ❗  | v10.0            | 2025-11-11     | v9.0                    |
 | Grep: ❗        | v10.0            | 2025-11-11     | v9.0                    |
-| Shell: ❗       | v10.0            | 2025-11-11     | v9.0                    |
+| Shell: ✅       | v10.0            | 2025-11-11     | v10.0                   |
 | Kafka: ❗       | v10.0            | 2025-11-11     | v9.0                    |
 | Claude Code: ✅ | v10.0            | 2025-11-11     | v10.0                   |
 
