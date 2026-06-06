@@ -212,17 +212,17 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Kotlin](https://app.codecrafters.io/tracks/kotlin)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v2.3             | 2025-12-16     | v2.3                    |
-| Interpreter: ✅ | v2.3             | 2025-12-16     | v2.3                    |
-| Git: ✅         | v2.3             | 2025-12-16     | v2.3                    |
-| Sqlite: ✅      | v2.3             | 2025-12-16     | v2.3                    |
-| DNS server: ✅  | v2.3             | 2025-12-16     | v2.3                    |
-| HTTP server: ✅ | v2.3             | 2025-12-16     | v2.3                    |
-| Bittorrent: ✅  | v2.3             | 2025-12-16     | v2.3                    |
-| Grep: ✅        | v2.3             | 2025-12-16     | v2.3                    |
-| Shell: ✅       | v2.3             | 2025-12-16     | v2.3                    |
-| Kafka: ✅       | v2.3             | 2025-12-16     | v2.3                    |
-| Claude Code: ❌ | v2.3             | 2025-12-16     | -                       |
+| Redis: ✅       | v2.4             | 2026-06-03     | v2.3                    |
+| Interpreter: ✅ | v2.4             | 2026-06-03     | v2.3                    |
+| Git: ✅         | v2.4             | 2026-06-03     | v2.3                    |
+| Sqlite: ✅      | v2.4             | 2026-06-03     | v2.3                    |
+| DNS server: ✅  | v2.4             | 2026-06-03     | v2.3                    |
+| HTTP server: ✅ | v2.4             | 2026-06-03     | v2.3                    |
+| Bittorrent: ✅  | v2.4             | 2026-06-03     | v2.3                    |
+| Grep: ✅        | v2.4             | 2026-06-03     | v2.3                    |
+| Shell: ✅       | v2.4             | 2026-06-03     | v2.3                    |
+| Kafka: ✅       | v2.4             | 2026-06-03     | v2.3                    |
+| Claude Code: ❌ | v2.4             | 2026-06-03     | -                       |
 
 ### [Nim](https://app.codecrafters.io/tracks/nim)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
