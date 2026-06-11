@@ -152,17 +152,17 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Elixir](https://app.codecrafters.io/tracks/elixir)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.19            | 2025-10-16     | v1.19                   |
-| Interpreter: ✅ | v1.19            | 2025-10-16     | v1.19                   |
-| Git: ✅         | v1.19            | 2025-10-16     | v1.19                   |
-| Sqlite: ✅      | v1.19            | 2025-10-16     | v1.19                   |
-| DNS server: ✅  | v1.19            | 2025-10-16     | v1.19                   |
-| HTTP server: ✅ | v1.19            | 2025-10-16     | v1.19                   |
-| Bittorrent: ✅  | v1.19            | 2025-10-16     | v1.19                   |
-| Shell: ✅       | v1.19            | 2025-10-16     | v1.19                   |
-| Kafka: ✅       | v1.19            | 2025-10-16     | v1.19                   |
-| Grep: ❌        | v1.19            | 2025-10-16     | -                       |
-| Claude Code: ❌ | v1.19            | 2025-10-16     | -                       |
+| Redis: ✅       | v1.20            | 2026-06-03     | v1.19                   |
+| Interpreter: ✅ | v1.20            | 2026-06-03     | v1.19                   |
+| Git: ✅         | v1.20            | 2026-06-03     | v1.19                   |
+| Sqlite: ✅      | v1.20            | 2026-06-03     | v1.19                   |
+| DNS server: ✅  | v1.20            | 2026-06-03     | v1.19                   |
+| HTTP server: ✅ | v1.20            | 2026-06-03     | v1.19                   |
+| Bittorrent: ✅  | v1.20            | 2026-06-03     | v1.19                   |
+| Shell: ✅       | v1.20            | 2026-06-03     | v1.19                   |
+| Kafka: ✅       | v1.20            | 2026-06-03     | v1.19                   |
+| Grep: ❌        | v1.20            | 2026-06-03     | -                       |
+| Claude Code: ❌ | v1.20            | 2026-06-03     | -                       |
 
 ### [Gleam](https://app.codecrafters.io/tracks/gleam)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
