@@ -15,19 +15,19 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ## Supported Languages
 
 ### [Rust](https://app.codecrafters.io/tracks/rust)
-| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.96            | 2026-05-28     | v1.95                   |
-| Interpreter: ✅ | v1.96            | 2026-05-28     | v1.95                   |
-| Git: ✅         | v1.96            | 2026-05-28     | v1.95                   |
-| Sqlite: ✅      | v1.96            | 2026-05-28     | v1.95                   |
-| DNS server: ✅  | v1.96            | 2026-05-28     | v1.95                   |
-| HTTP server: ✅ | v1.96            | 2026-05-28     | v1.95                   |
-| Bittorrent: ✅  | v1.96            | 2026-05-28     | v1.95                   |
-| Grep: ✅        | v1.96            | 2026-05-28     | v1.95                   |
-| Shell: ✅       | v1.96            | 2026-05-28     | v1.95                   |
-| Kafka: ✅       | v1.96            | 2026-05-28     | v1.95                   |
-| Claude Code: ✅ | v1.96            | 2026-05-28     | v1.95                   |
+| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:----------------|:-----------------|:---------------|:------------------------|
+| Redis: ⚠️       | v1.96            | 2026-05-28     | v1.95                   |
+| Interpreter: ⚠️ | v1.96            | 2026-05-28     | v1.95                   |
+| Git: ⚠️         | v1.96            | 2026-05-28     | v1.95                   |
+| Sqlite: ⚠️      | v1.96            | 2026-05-28     | v1.95                   |
+| DNS server: ⚠️  | v1.96            | 2026-05-28     | v1.95                   |
+| HTTP server: ⚠️ | v1.96            | 2026-05-28     | v1.95                   |
+| Bittorrent: ⚠️  | v1.96            | 2026-05-28     | v1.95                   |
+| Grep: ⚠️        | v1.96            | 2026-05-28     | v1.95                   |
+| Shell: ⚠️       | v1.96            | 2026-05-28     | v1.95                   |
+| Kafka: ⚠️       | v1.96            | 2026-05-28     | v1.95                   |
+| Claude Code: ⚠️ | v1.96            | 2026-05-28     | v1.95                   |
 
 ### [Go](https://app.codecrafters.io/tracks/go)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -205,7 +205,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | HTTP server: ⚠️ | v26.0            | 2026-03-17     | v25.0                   |
 | Bittorrent: ⚠️  | v26.0            | 2026-03-17     | v25.0                   |
 | Grep: ⚠️        | v26.0            | 2026-03-17     | v25.0                   |
-| Shell: ⚠️       | v26.0            | 2026-03-17     | v25.0                   |
+| Shell: ✅        | v26.0            | 2026-03-17     | v26.0                   |
 | Kafka: ⚠️       | v26.0            | 2026-03-17     | v25.0                   |
 | Claude Code: ⚠️ | v26.0            | 2026-03-17     | v25.0                   |
 
