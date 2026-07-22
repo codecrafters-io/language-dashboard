@@ -32,17 +32,17 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Go](https://app.codecrafters.io/tracks/go)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.26            | 2026-02-11     | v1.26                   |
-| Interpreter: ✅ | v1.26            | 2026-02-11     | v1.26                   |
-| Git: ✅         | v1.26            | 2026-02-11     | v1.26                   |
-| Sqlite: ✅      | v1.26            | 2026-02-11     | v1.26                   |
-| DNS server: ✅  | v1.26            | 2026-02-11     | v1.26                   |
-| HTTP server: ✅ | v1.26            | 2026-02-11     | v1.26                   |
-| Bittorrent: ✅  | v1.26            | 2026-02-11     | v1.26                   |
-| Grep: ✅        | v1.26            | 2026-02-11     | v1.26                   |
-| Shell: ✅       | v1.26            | 2026-02-11     | v1.26                   |
-| Kafka: ✅       | v1.26            | 2026-02-11     | v1.26                   |
-| Claude Code: ✅ | v1.26            | 2026-02-11     | v1.26                   |
+| Redis: ✅       | v1.26            | 2026-02-10     | v1.26                   |
+| Interpreter: ✅ | v1.26            | 2026-02-10     | v1.26                   |
+| Git: ✅         | v1.26            | 2026-02-10     | v1.26                   |
+| Sqlite: ✅      | v1.26            | 2026-02-10     | v1.26                   |
+| DNS server: ✅  | v1.26            | 2026-02-10     | v1.26                   |
+| HTTP server: ✅ | v1.26            | 2026-02-10     | v1.26                   |
+| Bittorrent: ✅  | v1.26            | 2026-02-10     | v1.26                   |
+| Grep: ✅        | v1.26            | 2026-02-10     | v1.26                   |
+| Shell: ✅       | v1.26            | 2026-02-10     | v1.26                   |
+| Kafka: ✅       | v1.26            | 2026-02-10     | v1.26                   |
+| Claude Code: ✅ | v1.26            | 2026-02-10     | v1.26                   |
 
 ### [Python](https://app.codecrafters.io/tracks/python)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
