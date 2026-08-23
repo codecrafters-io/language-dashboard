@@ -11,6 +11,9 @@ from src.utils import (Challenge, CourseLanguageConfiguration, Language,
                        get_days_from_today, get_or_fetch_language_release,
                        get_status_from_elapsed_time, parse_dockerfile_contents,
                        parse_release_data_from_yaml)
+from src.version_sources import (
+    update_language_releases_from_remote_sources,
+)
 
 LANGUAGES_RELEASE_DATA_FILE = r"./data.yaml"
 REPO_OWNER = "codecrafters-io"
@@ -27,6 +30,9 @@ def main() -> None:
 
     language_releases = parse_release_data_from_yaml(
         LANGUAGES_RELEASE_DATA_FILE
+    )
+    update_language_releases_from_remote_sources(
+        language_releases, gh, eol
     )
     language_configurations: list[CourseLanguageConfiguration] = []
 
