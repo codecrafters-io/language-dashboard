@@ -38,6 +38,7 @@ class Language(Enum):
     rust = "Rust"
     go = "Go"
     python = "Python"
+    ada = "Ada"
     c = "C"
     clojure = "Clojure"
     cpp = "C++"
@@ -151,10 +152,20 @@ def get_or_fetch_language_release(
     language: str,
     eol: EOLApi,
     language_releases: dict[str, LanguageRelease],
-) -> LanguageRelease:
+) -> LanguageRelease | None:
     if language not in language_releases:
+        if language not in Language.__members__:
+            logger.warning(
+                f"Skipping unregistered language '{language}'. "
+                "Add it to Language and to data.yaml if it is not on "
+                "endoflife.date."
+            )
+            return None
+
         eol_data = eol.fetch_data(language)
-        latest_version, latest_version_release_date = eol.parse_response(eol_data)
+        latest_version, latest_version_release_date = eol.parse_response(
+            eol_data
+        )
 
         language_releases[language] = LanguageRelease(
             SemVer.parse_version(latest_version),

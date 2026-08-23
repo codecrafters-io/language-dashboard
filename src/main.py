@@ -46,6 +46,8 @@ def main() -> None:
             language_release = get_or_fetch_language_release(
                 language, eol, language_releases
             )
+            if language_release is None:
+                continue
             language_configurations.append(
                 CourseLanguageConfiguration(
                     dockerfiles[language],

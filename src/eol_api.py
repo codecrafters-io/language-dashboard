@@ -1,5 +1,6 @@
+from typing import Any
+
 import requests
-from loguru import logger
 
 
 class EOLApi:
@@ -7,25 +8,27 @@ class EOLApi:
         pass
 
     @staticmethod
-    def fetch_data(language: str) -> list[dict[str, str]]:
+    def fetch_data(language: str) -> dict[str, Any]:
         if language == "java":
             language = "openjdk-builds-from-oracle"
 
-        url = f"https://endoflife.date/api/{language}.json"
+        url = f"https://endoflife.date/api/v1/products/{language}"
         headers = {"Accept": "application/json"}
         response = requests.get(url, headers=headers)
+        if response.status_code == 404:
+            raise RuntimeError(
+                f"Language '{language}' not found on endoflife.date; "
+                "add it to data.yaml"
+            )
         response.raise_for_status()
 
-        data = response.json()
-        if "message" in data and data["message"] == "Product not found":
-            raise RuntimeError(f"Language '{language}' not found")
-        return data  # type: ignore
+        return response.json()  # type: ignore
 
     @staticmethod
-    def parse_response(response: list[dict[str, str]]) -> tuple[str, str]:
-        latest_cycle = response[0]
+    def parse_response(response: dict[str, Any]) -> tuple[str, str]:
+        latest_cycle = response["result"]["releases"][0]
         latest_version, latest_version_release_date = (
-            latest_cycle["cycle"],
+            latest_cycle["name"],
             latest_cycle["releaseDate"],
         )
 
