@@ -11,6 +11,8 @@ class EOLApi:
     def fetch_data(language: str) -> dict[str, Any]:
         if language == "java":
             language = "openjdk-builds-from-oracle"
+        elif language == "haskell":
+            language = "ghc"
 
         url = f"https://endoflife.date/api/v1/products/{language}"
         headers = {"Accept": "application/json"}
