@@ -39,8 +39,8 @@ nim:
   releaseDate: "2025-04-22"
 ocaml:
   # https://github.com/ocaml/ocaml/releases
-  cycle: "5.4.0"
-  releaseDate: "2025-10-09"
+  cycle: "5.5.0"
+  releaseDate: "2026-06-19"
 odin:
   # https://github.com/odin-lang/Odin/releases
   cycle: "2026.04"
