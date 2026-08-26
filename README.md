@@ -137,17 +137,17 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Dart](https://app.codecrafters.io/tracks/dart)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v3.13            | 2026-08-18     | v3.11                   |
-| HTTP server: ✅ | v3.13            | 2026-08-18     | v3.4                    |
-| Shell: ✅       | v3.13            | 2026-08-18     | v3.11                   |
-| Interpreter: ❌ | v3.13            | 2026-08-18     | -                       |
-| Git: ❌         | v3.13            | 2026-08-18     | -                       |
-| Sqlite: ❌      | v3.13            | 2026-08-18     | -                       |
-| DNS server: ❌  | v3.13            | 2026-08-18     | -                       |
-| Bittorrent: ❌  | v3.13            | 2026-08-18     | -                       |
-| Grep: ❌        | v3.13            | 2026-08-18     | -                       |
-| Kafka: ❌       | v3.13            | 2026-08-18     | -                       |
-| Claude Code: ❌ | v3.13            | 2026-08-18     | -                       |
+| Redis: ✅       | v3.13            | 2026-08-25     | v3.11                   |
+| HTTP server: ✅ | v3.13            | 2026-08-25     | v3.4                    |
+| Shell: ✅       | v3.13            | 2026-08-25     | v3.11                   |
+| Interpreter: ❌ | v3.13            | 2026-08-25     | -                       |
+| Git: ❌         | v3.13            | 2026-08-25     | -                       |
+| Sqlite: ❌      | v3.13            | 2026-08-25     | -                       |
+| DNS server: ❌  | v3.13            | 2026-08-25     | -                       |
+| Bittorrent: ❌  | v3.13            | 2026-08-25     | -                       |
+| Grep: ❌        | v3.13            | 2026-08-25     | -                       |
+| Kafka: ❌       | v3.13            | 2026-08-25     | -                       |
+| Claude Code: ❌ | v3.13            | 2026-08-25     | -                       |
 
 ### [C#](https://app.codecrafters.io/tracks/dotnet)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
