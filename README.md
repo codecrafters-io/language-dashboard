@@ -274,8 +274,8 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 |:----------------|:-----------------|:---------------|:------------------------|
 | Redis: ⚠️       | v5.5             | 2026-06-19     | v5.4                    |
 | Interpreter: ⚠️ | v5.5             | 2026-06-19     | v5.4                    |
-| Git: ⚠️         | v5.5             | 2026-06-19     | v5.4                    |
-| HTTP server: ⚠️ | v5.5             | 2026-06-19     | v5.4                    |
+| Git: ✅          | v5.5             | 2026-06-19     | v5.5                    |
+| HTTP server: ✅  | v5.5             | 2026-06-19     | v5.5                    |
 | Shell: ⚠️       | v5.5             | 2026-06-19     | v5.4                    |
 | Sqlite: ❌       | v5.5             | 2026-06-19     | -                       |
 | DNS server: ❌   | v5.5             | 2026-06-19     | -                       |
