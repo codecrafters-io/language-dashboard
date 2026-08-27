@@ -384,7 +384,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | DNS server: ❗  | v0.16            | 2026-04-13     | v0.15                   |
 | HTTP server: ✅ | v0.16            | 2026-04-13     | v0.16                   |
 | Bittorrent: ✅  | v0.16            | 2026-04-13     | v0.16                   |
-| Grep: ❗        | v0.16            | 2026-04-13     | v0.15                   |
+| Grep: ✅        | v0.16            | 2026-04-13     | v0.16                   |
 | Shell: ✅       | v0.16            | 2026-04-13     | v0.16                   |
 | Kafka: ✅       | v0.16            | 2026-04-13     | v0.16                   |
 | Claude Code: ✅ | v0.16            | 2026-04-13     | v0.16                   |
