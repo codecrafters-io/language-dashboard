@@ -30,19 +30,19 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Claude Code: ✅ | v1.98            | 2026-08-20     | v1.96                   |
 
 ### [Go](https://app.codecrafters.io/tracks/go)
-| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.27            | 2026-08-19     | v1.26                   |
-| Interpreter: ✅ | v1.27            | 2026-08-19     | v1.26                   |
-| Git: ✅         | v1.27            | 2026-08-19     | v1.26                   |
-| Sqlite: ✅      | v1.27            | 2026-08-19     | v1.26                   |
-| DNS server: ✅  | v1.27            | 2026-08-19     | v1.26                   |
-| HTTP server: ✅ | v1.27            | 2026-08-19     | v1.26                   |
-| Bittorrent: ✅  | v1.27            | 2026-08-19     | v1.26                   |
-| Grep: ✅        | v1.27            | 2026-08-19     | v1.26                   |
-| Shell: ✅       | v1.27            | 2026-08-19     | v1.26                   |
-| Kafka: ✅       | v1.27            | 2026-08-19     | v1.26                   |
-| Claude Code: ✅ | v1.27            | 2026-08-19     | v1.26                   |
+| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:----------------|:-----------------|:---------------|:------------------------|
+| Redis: ⚠️       | v1.27            | 2026-08-19     | v1.26                   |
+| Interpreter: ⚠️ | v1.27            | 2026-08-19     | v1.26                   |
+| Git: ⚠️         | v1.27            | 2026-08-19     | v1.26                   |
+| Sqlite: ⚠️      | v1.27            | 2026-08-19     | v1.26                   |
+| DNS server: ⚠️  | v1.27            | 2026-08-19     | v1.26                   |
+| HTTP server: ⚠️ | v1.27            | 2026-08-19     | v1.26                   |
+| Bittorrent: ⚠️  | v1.27            | 2026-08-19     | v1.26                   |
+| Grep: ⚠️        | v1.27            | 2026-08-19     | v1.26                   |
+| Shell: ⚠️       | v1.27            | 2026-08-19     | v1.26                   |
+| Kafka: ⚠️       | v1.27            | 2026-08-19     | v1.26                   |
+| Claude Code: ⚠️ | v1.27            | 2026-08-19     | v1.26                   |
 
 ### [Python](https://app.codecrafters.io/tracks/python)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -92,17 +92,17 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Clojure](https://app.codecrafters.io/tracks/clojure)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.12            | 2026-05-12     | v1.12                   |
-| Interpreter: ✅ | v1.12            | 2026-05-12     | v1.12                   |
-| Sqlite: ✅      | v1.12            | 2026-05-12     | v1.12                   |
-| HTTP server: ✅ | v1.12            | 2026-05-12     | v1.12                   |
-| Git: ❌         | v1.12            | 2026-05-12     | -                       |
-| DNS server: ❌  | v1.12            | 2026-05-12     | -                       |
-| Bittorrent: ❌  | v1.12            | 2026-05-12     | -                       |
-| Grep: ❌        | v1.12            | 2026-05-12     | -                       |
-| Shell: ❌       | v1.12            | 2026-05-12     | -                       |
-| Kafka: ❌       | v1.12            | 2026-05-12     | -                       |
-| Claude Code: ❌ | v1.12            | 2026-05-12     | -                       |
+| Redis: ✅       | v1.12            | 2026-09-02     | v1.12                   |
+| Interpreter: ✅ | v1.12            | 2026-09-02     | v1.12                   |
+| Sqlite: ✅      | v1.12            | 2026-09-02     | v1.12                   |
+| HTTP server: ✅ | v1.12            | 2026-09-02     | v1.12                   |
+| Git: ❌         | v1.12            | 2026-09-02     | -                       |
+| DNS server: ❌  | v1.12            | 2026-09-02     | -                       |
+| Bittorrent: ❌  | v1.12            | 2026-09-02     | -                       |
+| Grep: ❌        | v1.12            | 2026-09-02     | -                       |
+| Shell: ❌       | v1.12            | 2026-09-02     | -                       |
+| Kafka: ❌       | v1.12            | 2026-09-02     | -                       |
+| Claude Code: ❌ | v1.12            | 2026-09-02     | -                       |
 
 ### [C++](https://app.codecrafters.io/tracks/cpp)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
