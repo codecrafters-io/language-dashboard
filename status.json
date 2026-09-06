@@ -1,0 +1,1619 @@
+{
+  "generated_at": "2026-09-06T03:36:26+00:00",
+  "languages": {
+    "ada": {
+      "latest": "2.1",
+      "released_at": "2026-05-29"
+    },
+    "bun": {
+      "latest": "1.4",
+      "released_at": "2026-09-05"
+    },
+    "c": {
+      "latest": "23.0",
+      "released_at": "2024-10-31"
+    },
+    "clojure": {
+      "latest": "1.12",
+      "released_at": "2026-09-02"
+    },
+    "cpp": {
+      "latest": "23.0",
+      "released_at": "2023-12-01"
+    },
+    "crystal": {
+      "latest": "1.21",
+      "released_at": "2026-07-16"
+    },
+    "dart": {
+      "latest": "3.13",
+      "released_at": "2026-09-01"
+    },
+    "dotnet": {
+      "latest": "10.0",
+      "released_at": "2025-11-11"
+    },
+    "elixir": {
+      "latest": "1.20",
+      "released_at": "2026-06-03"
+    },
+    "gleam": {
+      "latest": "1.18",
+      "released_at": "2026-08-01"
+    },
+    "go": {
+      "latest": "1.27",
+      "released_at": "2026-08-19"
+    },
+    "haskell": {
+      "latest": "9.14",
+      "released_at": "2025-12-19"
+    },
+    "java": {
+      "latest": "26.0",
+      "released_at": "2026-03-17"
+    },
+    "kotlin": {
+      "latest": "2.4",
+      "released_at": "2026-06-03"
+    },
+    "nim": {
+      "latest": "2.2",
+      "released_at": "2026-04-23"
+    },
+    "nodejs": {
+      "latest": "26.0",
+      "released_at": "2026-05-05"
+    },
+    "ocaml": {
+      "latest": "5.5",
+      "released_at": "2026-09-04"
+    },
+    "odin": {
+      "latest": "2026.9",
+      "released_at": "2026-09-01"
+    },
+    "php": {
+      "latest": "8.5",
+      "released_at": "2025-11-20"
+    },
+    "python": {
+      "latest": "3.14",
+      "released_at": "2025-10-07"
+    },
+    "ruby": {
+      "latest": "4.0",
+      "released_at": "2025-12-25"
+    },
+    "rust": {
+      "latest": "1.98",
+      "released_at": "2026-08-20"
+    },
+    "scala": {
+      "latest": "3.9",
+      "released_at": "2026-09-03"
+    },
+    "swift": {
+      "latest": "6.3",
+      "released_at": "2026-06-30"
+    },
+    "zig": {
+      "latest": "0.16",
+      "released_at": "2026-04-13"
+    }
+  },
+  "entries": [
+    {
+      "course": "build-your-own-bittorrent",
+      "buildpack": "bun",
+      "current": "1.3",
+      "latest": "1.4",
+      "released_at": "2026-09-05",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-bittorrent",
+      "buildpack": "c",
+      "current": "23.0",
+      "latest": "23.0",
+      "released_at": "2024-10-31",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-bittorrent",
+      "buildpack": "cpp",
+      "current": "23.0",
+      "latest": "23.0",
+      "released_at": "2023-12-01",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-bittorrent",
+      "buildpack": "dotnet",
+      "current": "9.0",
+      "latest": "10.0",
+      "released_at": "2025-11-11",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-bittorrent",
+      "buildpack": "elixir",
+      "current": "1.19",
+      "latest": "1.20",
+      "released_at": "2026-06-03",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-bittorrent",
+      "buildpack": "go",
+      "current": "1.26",
+      "latest": "1.27",
+      "released_at": "2026-08-19",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-bittorrent",
+      "buildpack": "haskell",
+      "current": "9.8",
+      "latest": "9.14",
+      "released_at": "2025-12-19",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-bittorrent",
+      "buildpack": "java",
+      "current": "25.0",
+      "latest": "26.0",
+      "released_at": "2026-03-17",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-bittorrent",
+      "buildpack": "kotlin",
+      "current": "2.3",
+      "latest": "2.4",
+      "released_at": "2026-06-03",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-bittorrent",
+      "buildpack": "nodejs",
+      "current": "25.0",
+      "latest": "26.0",
+      "released_at": "2026-05-05",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-bittorrent",
+      "buildpack": "python",
+      "current": "3.14",
+      "latest": "3.14",
+      "released_at": "2025-10-07",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-bittorrent",
+      "buildpack": "ruby",
+      "current": "4.0",
+      "latest": "4.0",
+      "released_at": "2025-12-25",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-bittorrent",
+      "buildpack": "rust",
+      "current": "1.96",
+      "latest": "1.98",
+      "released_at": "2026-08-20",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-bittorrent",
+      "buildpack": "scala",
+      "current": "3.8",
+      "latest": "3.9",
+      "released_at": "2026-09-03",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-bittorrent",
+      "buildpack": "zig",
+      "current": "0.16",
+      "latest": "0.16",
+      "released_at": "2026-04-13",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-claude-code",
+      "buildpack": "bun",
+      "current": "1.3",
+      "latest": "1.4",
+      "released_at": "2026-09-05",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-claude-code",
+      "buildpack": "c",
+      "current": "23.0",
+      "latest": "23.0",
+      "released_at": "2024-10-31",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-claude-code",
+      "buildpack": "cpp",
+      "current": "23.0",
+      "latest": "23.0",
+      "released_at": "2023-12-01",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-claude-code",
+      "buildpack": "dotnet",
+      "current": "10.0",
+      "latest": "10.0",
+      "released_at": "2025-11-11",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-claude-code",
+      "buildpack": "go",
+      "current": "1.26",
+      "latest": "1.27",
+      "released_at": "2026-08-19",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-claude-code",
+      "buildpack": "java",
+      "current": "25.0",
+      "latest": "26.0",
+      "released_at": "2026-03-17",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-claude-code",
+      "buildpack": "nodejs",
+      "current": "25.0",
+      "latest": "26.0",
+      "released_at": "2026-05-05",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-claude-code",
+      "buildpack": "python",
+      "current": "3.14",
+      "latest": "3.14",
+      "released_at": "2025-10-07",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-claude-code",
+      "buildpack": "rust",
+      "current": "1.96",
+      "latest": "1.98",
+      "released_at": "2026-08-20",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-claude-code",
+      "buildpack": "zig",
+      "current": "0.16",
+      "latest": "0.16",
+      "released_at": "2026-04-13",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-dns-server",
+      "buildpack": "bun",
+      "current": "1.3",
+      "latest": "1.4",
+      "released_at": "2026-09-05",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-dns-server",
+      "buildpack": "c",
+      "current": "23.0",
+      "latest": "23.0",
+      "released_at": "2024-10-31",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-dns-server",
+      "buildpack": "cpp",
+      "current": "23.0",
+      "latest": "23.0",
+      "released_at": "2023-12-01",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-dns-server",
+      "buildpack": "dotnet",
+      "current": "9.0",
+      "latest": "10.0",
+      "released_at": "2025-11-11",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-dns-server",
+      "buildpack": "elixir",
+      "current": "1.19",
+      "latest": "1.20",
+      "released_at": "2026-06-03",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-dns-server",
+      "buildpack": "go",
+      "current": "1.26",
+      "latest": "1.27",
+      "released_at": "2026-08-19",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-dns-server",
+      "buildpack": "java",
+      "current": "25.0",
+      "latest": "26.0",
+      "released_at": "2026-03-17",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-dns-server",
+      "buildpack": "kotlin",
+      "current": "2.3",
+      "latest": "2.4",
+      "released_at": "2026-06-03",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-dns-server",
+      "buildpack": "nodejs",
+      "current": "25.0",
+      "latest": "26.0",
+      "released_at": "2026-05-05",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-dns-server",
+      "buildpack": "php",
+      "current": "8.5",
+      "latest": "8.5",
+      "released_at": "2025-11-20",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-dns-server",
+      "buildpack": "python",
+      "current": "3.14",
+      "latest": "3.14",
+      "released_at": "2025-10-07",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-dns-server",
+      "buildpack": "ruby",
+      "current": "4.0",
+      "latest": "4.0",
+      "released_at": "2025-12-25",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-dns-server",
+      "buildpack": "rust",
+      "current": "1.96",
+      "latest": "1.98",
+      "released_at": "2026-08-20",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-dns-server",
+      "buildpack": "zig",
+      "current": "0.15",
+      "latest": "0.16",
+      "released_at": "2026-04-13",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-git",
+      "buildpack": "bun",
+      "current": "1.3",
+      "latest": "1.4",
+      "released_at": "2026-09-05",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-git",
+      "buildpack": "c",
+      "current": "23.0",
+      "latest": "23.0",
+      "released_at": "2024-10-31",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-git",
+      "buildpack": "cpp",
+      "current": "23.0",
+      "latest": "23.0",
+      "released_at": "2023-12-01",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-git",
+      "buildpack": "dotnet",
+      "current": "9.0",
+      "latest": "10.0",
+      "released_at": "2025-11-11",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-git",
+      "buildpack": "elixir",
+      "current": "1.19",
+      "latest": "1.20",
+      "released_at": "2026-06-03",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-git",
+      "buildpack": "gleam",
+      "current": "1.16",
+      "latest": "1.18",
+      "released_at": "2026-08-01",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-git",
+      "buildpack": "go",
+      "current": "1.26",
+      "latest": "1.27",
+      "released_at": "2026-08-19",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-git",
+      "buildpack": "haskell",
+      "current": "9.8",
+      "latest": "9.14",
+      "released_at": "2025-12-19",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-git",
+      "buildpack": "java",
+      "current": "25.0",
+      "latest": "26.0",
+      "released_at": "2026-03-17",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-git",
+      "buildpack": "kotlin",
+      "current": "2.3",
+      "latest": "2.4",
+      "released_at": "2026-06-03",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-git",
+      "buildpack": "nodejs",
+      "current": "25.0",
+      "latest": "26.0",
+      "released_at": "2026-05-05",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-git",
+      "buildpack": "ocaml",
+      "current": "5.5",
+      "latest": "5.5",
+      "released_at": "2026-09-04",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-git",
+      "buildpack": "php",
+      "current": "8.5",
+      "latest": "8.5",
+      "released_at": "2025-11-20",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-git",
+      "buildpack": "python",
+      "current": "3.14",
+      "latest": "3.14",
+      "released_at": "2025-10-07",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-git",
+      "buildpack": "ruby",
+      "current": "4.0",
+      "latest": "4.0",
+      "released_at": "2025-12-25",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-git",
+      "buildpack": "rust",
+      "current": "1.96",
+      "latest": "1.98",
+      "released_at": "2026-08-20",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-git",
+      "buildpack": "zig",
+      "current": "0.15",
+      "latest": "0.16",
+      "released_at": "2026-04-13",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-grep",
+      "buildpack": "bun",
+      "current": "1.3",
+      "latest": "1.4",
+      "released_at": "2026-09-05",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-grep",
+      "buildpack": "c",
+      "current": "23.0",
+      "latest": "23.0",
+      "released_at": "2024-10-31",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-grep",
+      "buildpack": "cpp",
+      "current": "23.0",
+      "latest": "23.0",
+      "released_at": "2023-12-01",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-grep",
+      "buildpack": "dotnet",
+      "current": "9.0",
+      "latest": "10.0",
+      "released_at": "2025-11-11",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-grep",
+      "buildpack": "gleam",
+      "current": "1.16",
+      "latest": "1.18",
+      "released_at": "2026-08-01",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-grep",
+      "buildpack": "go",
+      "current": "1.26",
+      "latest": "1.27",
+      "released_at": "2026-08-19",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-grep",
+      "buildpack": "haskell",
+      "current": "9.8",
+      "latest": "9.14",
+      "released_at": "2025-12-19",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-grep",
+      "buildpack": "java",
+      "current": "25.0",
+      "latest": "26.0",
+      "released_at": "2026-03-17",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-grep",
+      "buildpack": "kotlin",
+      "current": "2.3",
+      "latest": "2.4",
+      "released_at": "2026-06-03",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-grep",
+      "buildpack": "nodejs",
+      "current": "25.0",
+      "latest": "26.0",
+      "released_at": "2026-05-05",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-grep",
+      "buildpack": "odin",
+      "current": "2026.4",
+      "latest": "2026.9",
+      "released_at": "2026-09-01",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-grep",
+      "buildpack": "php",
+      "current": "8.5",
+      "latest": "8.5",
+      "released_at": "2025-11-20",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-grep",
+      "buildpack": "python",
+      "current": "3.14",
+      "latest": "3.14",
+      "released_at": "2025-10-07",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-grep",
+      "buildpack": "ruby",
+      "current": "4.0",
+      "latest": "4.0",
+      "released_at": "2025-12-25",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-grep",
+      "buildpack": "rust",
+      "current": "1.96",
+      "latest": "1.98",
+      "released_at": "2026-08-20",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-grep",
+      "buildpack": "zig",
+      "current": "0.16",
+      "latest": "0.16",
+      "released_at": "2026-04-13",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-http-server",
+      "buildpack": "bun",
+      "current": "1.3",
+      "latest": "1.4",
+      "released_at": "2026-09-05",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-http-server",
+      "buildpack": "c",
+      "current": "23.0",
+      "latest": "23.0",
+      "released_at": "2024-10-31",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-http-server",
+      "buildpack": "clojure",
+      "current": "1.12",
+      "latest": "1.12",
+      "released_at": "2026-09-02",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-http-server",
+      "buildpack": "cpp",
+      "current": "23.0",
+      "latest": "23.0",
+      "released_at": "2023-12-01",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-http-server",
+      "buildpack": "dart",
+      "current": "3.4",
+      "latest": "3.13",
+      "released_at": "2026-09-01",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-http-server",
+      "buildpack": "dotnet",
+      "current": "9.0",
+      "latest": "10.0",
+      "released_at": "2025-11-11",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-http-server",
+      "buildpack": "elixir",
+      "current": "1.19",
+      "latest": "1.20",
+      "released_at": "2026-06-03",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-http-server",
+      "buildpack": "gleam",
+      "current": "1.16",
+      "latest": "1.18",
+      "released_at": "2026-08-01",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-http-server",
+      "buildpack": "go",
+      "current": "1.26",
+      "latest": "1.27",
+      "released_at": "2026-08-19",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-http-server",
+      "buildpack": "haskell",
+      "current": "9.10",
+      "latest": "9.14",
+      "released_at": "2025-12-19",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-http-server",
+      "buildpack": "java",
+      "current": "25.0",
+      "latest": "26.0",
+      "released_at": "2026-03-17",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-http-server",
+      "buildpack": "kotlin",
+      "current": "2.3",
+      "latest": "2.4",
+      "released_at": "2026-06-03",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-http-server",
+      "buildpack": "nodejs",
+      "current": "25.0",
+      "latest": "26.0",
+      "released_at": "2026-05-05",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-http-server",
+      "buildpack": "ocaml",
+      "current": "5.5",
+      "latest": "5.5",
+      "released_at": "2026-09-04",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-http-server",
+      "buildpack": "odin",
+      "current": "2026.4",
+      "latest": "2026.9",
+      "released_at": "2026-09-01",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-http-server",
+      "buildpack": "php",
+      "current": "8.5",
+      "latest": "8.5",
+      "released_at": "2025-11-20",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-http-server",
+      "buildpack": "python",
+      "current": "3.14",
+      "latest": "3.14",
+      "released_at": "2025-10-07",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-http-server",
+      "buildpack": "ruby",
+      "current": "4.0",
+      "latest": "4.0",
+      "released_at": "2025-12-25",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-http-server",
+      "buildpack": "rust",
+      "current": "1.96",
+      "latest": "1.98",
+      "released_at": "2026-08-20",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-http-server",
+      "buildpack": "scala",
+      "current": "3.8",
+      "latest": "3.9",
+      "released_at": "2026-09-03",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-http-server",
+      "buildpack": "zig",
+      "current": "0.16",
+      "latest": "0.16",
+      "released_at": "2026-04-13",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-interpreter",
+      "buildpack": "bun",
+      "current": "1.3",
+      "latest": "1.4",
+      "released_at": "2026-09-05",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-interpreter",
+      "buildpack": "c",
+      "current": "23.0",
+      "latest": "23.0",
+      "released_at": "2024-10-31",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-interpreter",
+      "buildpack": "clojure",
+      "current": "1.12",
+      "latest": "1.12",
+      "released_at": "2026-09-02",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-interpreter",
+      "buildpack": "cpp",
+      "current": "23.0",
+      "latest": "23.0",
+      "released_at": "2023-12-01",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-interpreter",
+      "buildpack": "dotnet",
+      "current": "9.0",
+      "latest": "10.0",
+      "released_at": "2025-11-11",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-interpreter",
+      "buildpack": "elixir",
+      "current": "1.19",
+      "latest": "1.20",
+      "released_at": "2026-06-03",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-interpreter",
+      "buildpack": "gleam",
+      "current": "1.16",
+      "latest": "1.18",
+      "released_at": "2026-08-01",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-interpreter",
+      "buildpack": "go",
+      "current": "1.26",
+      "latest": "1.27",
+      "released_at": "2026-08-19",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-interpreter",
+      "buildpack": "haskell",
+      "current": "9.10",
+      "latest": "9.14",
+      "released_at": "2025-12-19",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-interpreter",
+      "buildpack": "java",
+      "current": "25.0",
+      "latest": "26.0",
+      "released_at": "2026-03-17",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-interpreter",
+      "buildpack": "kotlin",
+      "current": "2.3",
+      "latest": "2.4",
+      "released_at": "2026-06-03",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-interpreter",
+      "buildpack": "nodejs",
+      "current": "25.0",
+      "latest": "26.0",
+      "released_at": "2026-05-05",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-interpreter",
+      "buildpack": "ocaml",
+      "current": "5.4",
+      "latest": "5.5",
+      "released_at": "2026-09-04",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-interpreter",
+      "buildpack": "odin",
+      "current": "2026.4",
+      "latest": "2026.9",
+      "released_at": "2026-09-01",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-interpreter",
+      "buildpack": "php",
+      "current": "8.5",
+      "latest": "8.5",
+      "released_at": "2025-11-20",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-interpreter",
+      "buildpack": "python",
+      "current": "3.14",
+      "latest": "3.14",
+      "released_at": "2025-10-07",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-interpreter",
+      "buildpack": "ruby",
+      "current": "4.0",
+      "latest": "4.0",
+      "released_at": "2025-12-25",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-interpreter",
+      "buildpack": "rust",
+      "current": "1.96",
+      "latest": "1.98",
+      "released_at": "2026-08-20",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-interpreter",
+      "buildpack": "scala",
+      "current": "3.8",
+      "latest": "3.9",
+      "released_at": "2026-09-03",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-interpreter",
+      "buildpack": "swift",
+      "current": "6.0",
+      "latest": "6.3",
+      "released_at": "2026-06-30",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-interpreter",
+      "buildpack": "zig",
+      "current": "0.16",
+      "latest": "0.16",
+      "released_at": "2026-04-13",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-kafka",
+      "buildpack": "bun",
+      "current": "1.3",
+      "latest": "1.4",
+      "released_at": "2026-09-05",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-kafka",
+      "buildpack": "c",
+      "current": "23.0",
+      "latest": "23.0",
+      "released_at": "2024-10-31",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-kafka",
+      "buildpack": "cpp",
+      "current": "23.0",
+      "latest": "23.0",
+      "released_at": "2023-12-01",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-kafka",
+      "buildpack": "dotnet",
+      "current": "9.0",
+      "latest": "10.0",
+      "released_at": "2025-11-11",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-kafka",
+      "buildpack": "elixir",
+      "current": "1.19",
+      "latest": "1.20",
+      "released_at": "2026-06-03",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-kafka",
+      "buildpack": "gleam",
+      "current": "1.16",
+      "latest": "1.18",
+      "released_at": "2026-08-01",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-kafka",
+      "buildpack": "go",
+      "current": "1.26",
+      "latest": "1.27",
+      "released_at": "2026-08-19",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-kafka",
+      "buildpack": "java",
+      "current": "25.0",
+      "latest": "26.0",
+      "released_at": "2026-03-17",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-kafka",
+      "buildpack": "kotlin",
+      "current": "2.3",
+      "latest": "2.4",
+      "released_at": "2026-06-03",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-kafka",
+      "buildpack": "nodejs",
+      "current": "25.0",
+      "latest": "26.0",
+      "released_at": "2026-05-05",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-kafka",
+      "buildpack": "python",
+      "current": "3.14",
+      "latest": "3.14",
+      "released_at": "2025-10-07",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-kafka",
+      "buildpack": "rust",
+      "current": "1.96",
+      "latest": "1.98",
+      "released_at": "2026-08-20",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-kafka",
+      "buildpack": "scala",
+      "current": "3.8",
+      "latest": "3.9",
+      "released_at": "2026-09-03",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-kafka",
+      "buildpack": "zig",
+      "current": "0.16",
+      "latest": "0.16",
+      "released_at": "2026-04-13",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-redis",
+      "buildpack": "bun",
+      "current": "1.3",
+      "latest": "1.4",
+      "released_at": "2026-09-05",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-redis",
+      "buildpack": "c",
+      "current": "23.0",
+      "latest": "23.0",
+      "released_at": "2024-10-31",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-redis",
+      "buildpack": "clojure",
+      "current": "1.12",
+      "latest": "1.12",
+      "released_at": "2026-09-02",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-redis",
+      "buildpack": "cpp",
+      "current": "23.0",
+      "latest": "23.0",
+      "released_at": "2023-12-01",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-redis",
+      "buildpack": "crystal",
+      "current": "1.1",
+      "latest": "1.21",
+      "released_at": "2026-07-16",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-redis",
+      "buildpack": "dart",
+      "current": "3.11",
+      "latest": "3.13",
+      "released_at": "2026-09-01",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-redis",
+      "buildpack": "dotnet",
+      "current": "10.0",
+      "latest": "10.0",
+      "released_at": "2025-11-11",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-redis",
+      "buildpack": "elixir",
+      "current": "1.19",
+      "latest": "1.20",
+      "released_at": "2026-06-03",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-redis",
+      "buildpack": "gleam",
+      "current": "1.16",
+      "latest": "1.18",
+      "released_at": "2026-08-01",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-redis",
+      "buildpack": "go",
+      "current": "1.26",
+      "latest": "1.27",
+      "released_at": "2026-08-19",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-redis",
+      "buildpack": "haskell",
+      "current": "9.8",
+      "latest": "9.14",
+      "released_at": "2025-12-19",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-redis",
+      "buildpack": "java",
+      "current": "25.0",
+      "latest": "26.0",
+      "released_at": "2026-03-17",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-redis",
+      "buildpack": "kotlin",
+      "current": "2.3",
+      "latest": "2.4",
+      "released_at": "2026-06-03",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-redis",
+      "buildpack": "nodejs",
+      "current": "25.0",
+      "latest": "26.0",
+      "released_at": "2026-05-05",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-redis",
+      "buildpack": "ocaml",
+      "current": "5.4",
+      "latest": "5.5",
+      "released_at": "2026-09-04",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-redis",
+      "buildpack": "odin",
+      "current": "2026.4",
+      "latest": "2026.9",
+      "released_at": "2026-09-01",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-redis",
+      "buildpack": "php",
+      "current": "8.5",
+      "latest": "8.5",
+      "released_at": "2025-11-20",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-redis",
+      "buildpack": "python",
+      "current": "3.14",
+      "latest": "3.14",
+      "released_at": "2025-10-07",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-redis",
+      "buildpack": "ruby",
+      "current": "4.0",
+      "latest": "4.0",
+      "released_at": "2025-12-25",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-redis",
+      "buildpack": "rust",
+      "current": "1.96",
+      "latest": "1.98",
+      "released_at": "2026-08-20",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-redis",
+      "buildpack": "scala",
+      "current": "3.8",
+      "latest": "3.9",
+      "released_at": "2026-09-03",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-redis",
+      "buildpack": "swift",
+      "current": "6.3",
+      "latest": "6.3",
+      "released_at": "2026-06-30",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-redis",
+      "buildpack": "zig",
+      "current": "0.16",
+      "latest": "0.16",
+      "released_at": "2026-04-13",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-shell",
+      "buildpack": "ada",
+      "current": "2.1",
+      "latest": "2.1",
+      "released_at": "2026-05-29",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-shell",
+      "buildpack": "bun",
+      "current": "1.3",
+      "latest": "1.4",
+      "released_at": "2026-09-05",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-shell",
+      "buildpack": "c",
+      "current": "23.0",
+      "latest": "23.0",
+      "released_at": "2024-10-31",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-shell",
+      "buildpack": "cpp",
+      "current": "23.0",
+      "latest": "23.0",
+      "released_at": "2023-12-01",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-shell",
+      "buildpack": "dart",
+      "current": "3.11",
+      "latest": "3.13",
+      "released_at": "2026-09-01",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-shell",
+      "buildpack": "dotnet",
+      "current": "10.0",
+      "latest": "10.0",
+      "released_at": "2025-11-11",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-shell",
+      "buildpack": "elixir",
+      "current": "1.19",
+      "latest": "1.20",
+      "released_at": "2026-06-03",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-shell",
+      "buildpack": "gleam",
+      "current": "1.16",
+      "latest": "1.18",
+      "released_at": "2026-08-01",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-shell",
+      "buildpack": "go",
+      "current": "1.26",
+      "latest": "1.27",
+      "released_at": "2026-08-19",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-shell",
+      "buildpack": "haskell",
+      "current": "9.8",
+      "latest": "9.14",
+      "released_at": "2025-12-19",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-shell",
+      "buildpack": "java",
+      "current": "26.0",
+      "latest": "26.0",
+      "released_at": "2026-03-17",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-shell",
+      "buildpack": "kotlin",
+      "current": "2.3",
+      "latest": "2.4",
+      "released_at": "2026-06-03",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-shell",
+      "buildpack": "nodejs",
+      "current": "25.0",
+      "latest": "26.0",
+      "released_at": "2026-05-05",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-shell",
+      "buildpack": "ocaml",
+      "current": "5.4",
+      "latest": "5.5",
+      "released_at": "2026-09-04",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-shell",
+      "buildpack": "odin",
+      "current": "2026.4",
+      "latest": "2026.9",
+      "released_at": "2026-09-01",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-shell",
+      "buildpack": "php",
+      "current": "8.5",
+      "latest": "8.5",
+      "released_at": "2025-11-20",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-shell",
+      "buildpack": "python",
+      "current": "3.14",
+      "latest": "3.14",
+      "released_at": "2025-10-07",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-shell",
+      "buildpack": "ruby",
+      "current": "4.0",
+      "latest": "4.0",
+      "released_at": "2025-12-25",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-shell",
+      "buildpack": "rust",
+      "current": "1.96",
+      "latest": "1.98",
+      "released_at": "2026-08-20",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-shell",
+      "buildpack": "scala",
+      "current": "3.8",
+      "latest": "3.9",
+      "released_at": "2026-09-03",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-shell",
+      "buildpack": "zig",
+      "current": "0.16",
+      "latest": "0.16",
+      "released_at": "2026-04-13",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-sqlite",
+      "buildpack": "bun",
+      "current": "1.3",
+      "latest": "1.4",
+      "released_at": "2026-09-05",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-sqlite",
+      "buildpack": "c",
+      "current": "23.0",
+      "latest": "23.0",
+      "released_at": "2024-10-31",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-sqlite",
+      "buildpack": "clojure",
+      "current": "1.12",
+      "latest": "1.12",
+      "released_at": "2026-09-02",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-sqlite",
+      "buildpack": "cpp",
+      "current": "23.0",
+      "latest": "23.0",
+      "released_at": "2023-12-01",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-sqlite",
+      "buildpack": "dotnet",
+      "current": "9.0",
+      "latest": "10.0",
+      "released_at": "2025-11-11",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-sqlite",
+      "buildpack": "elixir",
+      "current": "1.19",
+      "latest": "1.20",
+      "released_at": "2026-06-03",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-sqlite",
+      "buildpack": "gleam",
+      "current": "1.16",
+      "latest": "1.18",
+      "released_at": "2026-08-01",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-sqlite",
+      "buildpack": "go",
+      "current": "1.26",
+      "latest": "1.27",
+      "released_at": "2026-08-19",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-sqlite",
+      "buildpack": "java",
+      "current": "25.0",
+      "latest": "26.0",
+      "released_at": "2026-03-17",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-sqlite",
+      "buildpack": "kotlin",
+      "current": "2.3",
+      "latest": "2.4",
+      "released_at": "2026-06-03",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-sqlite",
+      "buildpack": "nodejs",
+      "current": "25.0",
+      "latest": "26.0",
+      "released_at": "2026-05-05",
+      "status": "OUTDATED"
+    },
+    {
+      "course": "build-your-own-sqlite",
+      "buildpack": "php",
+      "current": "8.5",
+      "latest": "8.5",
+      "released_at": "2025-11-20",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-sqlite",
+      "buildpack": "python",
+      "current": "3.14",
+      "latest": "3.14",
+      "released_at": "2025-10-07",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-sqlite",
+      "buildpack": "ruby",
+      "current": "4.0",
+      "latest": "4.0",
+      "released_at": "2025-12-25",
+      "status": "UP_TO_DATE"
+    },
+    {
+      "course": "build-your-own-sqlite",
+      "buildpack": "rust",
+      "current": "1.96",
+      "latest": "1.98",
+      "released_at": "2026-08-20",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-sqlite",
+      "buildpack": "swift",
+      "current": "5.7",
+      "latest": "6.3",
+      "released_at": "2026-06-30",
+      "status": "BEHIND"
+    },
+    {
+      "course": "build-your-own-sqlite",
+      "buildpack": "zig",
+      "current": "0.16",
+      "latest": "0.16",
+      "released_at": "2026-04-13",
+      "status": "UP_TO_DATE"
+    }
+  ]
+}
