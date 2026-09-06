@@ -6,6 +6,7 @@ from loguru import logger
 from src.eol_api import EOLApi
 from src.github_api import GithubAPI
 from src.sem_ver import SemVer
+from src.status_json import write_status_json
 from src.utils import (Challenge, CourseLanguageConfiguration, Language,
                        Status, copy_template_to_readme, format_course_name,
                        get_days_from_today, get_or_fetch_language_release,
@@ -64,6 +65,12 @@ def main() -> None:
             )
             logger.debug(f"Version support: {language_configurations[-1]}")
 
+    for config in language_configurations:
+        config.status = get_status_from_elapsed_time(
+            SemVer.compare_versions(config.language.version, config.version),
+            get_days_from_today(config.language.release_at),
+        )
+
     logger.info(
         "Finished fetching and processing language and version data. Starting to render markdown"
     )
@@ -104,16 +111,6 @@ def main() -> None:
         # version_support.language.version --> latest version
         # version_support.version --> CC supported version
         for version_support in course_language_configuration:
-            if version_support.version is not None:
-                comparison = SemVer.compare_versions(
-                    version_support.language.version, version_support.version
-                )
-
-                version_support.status = get_status_from_elapsed_time(
-                    comparison,
-                    get_days_from_today(version_support.language.release_at),
-                )
-
             row_id = f"{format_course_name(version_support.challenge.name)}: {version_support.status.value}"
             language_release = language_releases[language_identifier]
             df.loc[row_id, "Latest Release"] = (
@@ -138,6 +135,8 @@ def main() -> None:
         logger.debug(
             f"Finished rendering table for language: {language_identifier}"
         )
+
+    write_status_json(language_configurations, language_releases)
 
 
 if __name__ == "__main__":

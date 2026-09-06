@@ -33,10 +33,11 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         run: python -m src.main
 
-      - name: Update README.md
+      - name: Commit dashboard outputs
         run: |
           git config --global user.email "hello@codecrafters.io"
           git config --global user.name "codecrafters-bot"
           git remote set-url origin https://codecrafters-bot:${{ secrets.GITHUB_TOKEN }}@github.com/codecrafters-io/language-dashboard.git
           git pull origin main
-          git diff --quiet || (git add README.md && git commit -m "ci: auto-update README" && git push)
+          git add README.md status.json
+          git diff --cached --quiet || (git commit -m "ci: auto-update dashboard" && git push)
