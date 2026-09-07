@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T03:36:26+00:00",
+  "generated_at": "2026-09-07T16:15:56+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -546,10 +546,10 @@
     {
       "course": "build-your-own-git",
       "buildpack": "zig",
-      "current": "0.15",
+      "current": "0.16",
       "latest": "0.16",
       "released_at": "2026-04-13",
-      "status": "OUTDATED"
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-grep",
@@ -906,10 +906,10 @@
     {
       "course": "build-your-own-interpreter",
       "buildpack": "go",
-      "current": "1.26",
+      "current": "1.27",
       "latest": "1.27",
       "released_at": "2026-08-19",
-      "status": "BEHIND"
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-interpreter",
@@ -1202,10 +1202,10 @@
     {
       "course": "build-your-own-redis",
       "buildpack": "go",
-      "current": "1.26",
+      "current": "1.27",
       "latest": "1.27",
       "released_at": "2026-08-19",
-      "status": "BEHIND"
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-redis",

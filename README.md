@@ -32,8 +32,8 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Go](https://app.codecrafters.io/tracks/go)
 | Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:----------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️       | v1.27            | 2026-08-19     | v1.26                   |
-| Interpreter: ⚠️ | v1.27            | 2026-08-19     | v1.26                   |
+| Redis: ✅        | v1.27            | 2026-08-19     | v1.27                   |
+| Interpreter: ✅  | v1.27            | 2026-08-19     | v1.27                   |
 | Git: ⚠️         | v1.27            | 2026-08-19     | v1.26                   |
 | Sqlite: ⚠️      | v1.27            | 2026-08-19     | v1.26                   |
 | DNS server: ⚠️  | v1.27            | 2026-08-19     | v1.26                   |
@@ -379,7 +379,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 |:---------------|:-----------------|:---------------|:------------------------|
 | Redis: ✅       | v0.16            | 2026-04-13     | v0.16                   |
 | Interpreter: ✅ | v0.16            | 2026-04-13     | v0.16                   |
-| Git: ❗         | v0.16            | 2026-04-13     | v0.15                   |
+| Git: ✅         | v0.16            | 2026-04-13     | v0.16                   |
 | Sqlite: ✅      | v0.16            | 2026-04-13     | v0.16                   |
 | DNS server: ❗  | v0.16            | 2026-04-13     | v0.15                   |
 | HTTP server: ✅ | v0.16            | 2026-04-13     | v0.16                   |
