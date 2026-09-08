@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T16:15:56+00:00",
+  "generated_at": "2026-09-08T00:58:11+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -146,10 +146,10 @@
     {
       "course": "build-your-own-bittorrent",
       "buildpack": "go",
-      "current": "1.26",
+      "current": "1.27",
       "latest": "1.27",
       "released_at": "2026-08-19",
-      "status": "BEHIND"
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-bittorrent",
@@ -258,10 +258,10 @@
     {
       "course": "build-your-own-claude-code",
       "buildpack": "go",
-      "current": "1.26",
+      "current": "1.27",
       "latest": "1.27",
       "released_at": "2026-08-19",
-      "status": "BEHIND"
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-claude-code",
@@ -466,10 +466,10 @@
     {
       "course": "build-your-own-git",
       "buildpack": "go",
-      "current": "1.26",
+      "current": "1.27",
       "latest": "1.27",
       "released_at": "2026-08-19",
-      "status": "BEHIND"
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-git",
@@ -594,10 +594,10 @@
     {
       "course": "build-your-own-grep",
       "buildpack": "go",
-      "current": "1.26",
+      "current": "1.27",
       "latest": "1.27",
       "released_at": "2026-08-19",
-      "status": "BEHIND"
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-grep",
@@ -746,10 +746,10 @@
     {
       "course": "build-your-own-http-server",
       "buildpack": "go",
-      "current": "1.26",
+      "current": "1.27",
       "latest": "1.27",
       "released_at": "2026-08-19",
-      "status": "BEHIND"
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-http-server",
@@ -1066,10 +1066,10 @@
     {
       "course": "build-your-own-kafka",
       "buildpack": "go",
-      "current": "1.26",
+      "current": "1.27",
       "latest": "1.27",
       "released_at": "2026-08-19",
-      "status": "BEHIND"
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-kafka",
@@ -1378,10 +1378,10 @@
     {
       "course": "build-your-own-shell",
       "buildpack": "go",
-      "current": "1.26",
+      "current": "1.27",
       "latest": "1.27",
       "released_at": "2026-08-19",
-      "status": "BEHIND"
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-shell",
@@ -1538,10 +1538,10 @@
     {
       "course": "build-your-own-sqlite",
       "buildpack": "go",
-      "current": "1.26",
+      "current": "1.27",
       "latest": "1.27",
       "released_at": "2026-08-19",
-      "status": "BEHIND"
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-sqlite",
