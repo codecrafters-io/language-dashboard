@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T00:58:11+00:00",
+  "generated_at": "2026-09-09T00:57:29+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -59,7 +59,7 @@
     },
     "nim": {
       "latest": "2.2",
-      "released_at": "2026-04-23"
+      "released_at": "2026-09-07"
     },
     "nodejs": {
       "latest": "26.0",
@@ -410,10 +410,10 @@
     {
       "course": "build-your-own-dns-server",
       "buildpack": "zig",
-      "current": "0.15",
+      "current": "0.16",
       "latest": "0.16",
       "released_at": "2026-04-13",
-      "status": "OUTDATED"
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-git",
