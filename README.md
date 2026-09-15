@@ -27,7 +27,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Grep: ⚠️        | v1.98            | 2026-08-20     | v1.96                   |
 | Shell: ⚠️       | v1.98            | 2026-08-20     | v1.96                   |
 | Kafka: ⚠️       | v1.98            | 2026-08-20     | v1.96                   |
-| Claude Code: ⚠️ | v1.98            | 2026-08-20     | v1.96                   |
+| Claude Code: ✅  | v1.98            | 2026-08-20     | v1.98                   |
 
 ### [Go](https://app.codecrafters.io/tracks/go)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
