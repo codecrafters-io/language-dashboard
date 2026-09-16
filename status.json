@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T00:58:23+00:00",
+  "generated_at": "2026-09-16T00:57:32+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -27,7 +27,7 @@
     },
     "dart": {
       "latest": "3.13",
-      "released_at": "2026-09-01"
+      "released_at": "2026-09-15"
     },
     "dotnet": {
       "latest": "10.0",
@@ -94,8 +94,8 @@
       "released_at": "2026-09-03"
     },
     "swift": {
-      "latest": "6.3",
-      "released_at": "2026-06-30"
+      "latest": "6.4",
+      "released_at": "2026-09-15"
     },
     "zig": {
       "latest": "0.16",
@@ -637,7 +637,7 @@
       "current": "2026.4",
       "latest": "2026.9",
       "released_at": "2026-09-01",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-grep",
@@ -716,7 +716,7 @@
       "buildpack": "dart",
       "current": "3.4",
       "latest": "3.13",
-      "released_at": "2026-09-01",
+      "released_at": "2026-09-15",
       "status": "UP_TO_DATE"
     },
     {
@@ -797,7 +797,7 @@
       "current": "2026.4",
       "latest": "2026.9",
       "released_at": "2026-09-01",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-http-server",
@@ -957,7 +957,7 @@
       "current": "2026.4",
       "latest": "2026.9",
       "released_at": "2026-09-01",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-interpreter",
@@ -1003,9 +1003,9 @@
       "course": "build-your-own-interpreter",
       "buildpack": "swift",
       "current": "6.0",
-      "latest": "6.3",
-      "released_at": "2026-06-30",
-      "status": "BEHIND"
+      "latest": "6.4",
+      "released_at": "2026-09-15",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-interpreter",
@@ -1172,7 +1172,7 @@
       "buildpack": "dart",
       "current": "3.11",
       "latest": "3.13",
-      "released_at": "2026-09-01",
+      "released_at": "2026-09-15",
       "status": "UP_TO_DATE"
     },
     {
@@ -1253,7 +1253,7 @@
       "current": "2026.4",
       "latest": "2026.9",
       "released_at": "2026-09-01",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-redis",
@@ -1299,8 +1299,8 @@
       "course": "build-your-own-redis",
       "buildpack": "swift",
       "current": "6.3",
-      "latest": "6.3",
-      "released_at": "2026-06-30",
+      "latest": "6.4",
+      "released_at": "2026-09-15",
       "status": "UP_TO_DATE"
     },
     {
@@ -1348,7 +1348,7 @@
       "buildpack": "dart",
       "current": "3.11",
       "latest": "3.13",
-      "released_at": "2026-09-01",
+      "released_at": "2026-09-15",
       "status": "UP_TO_DATE"
     },
     {
@@ -1429,7 +1429,7 @@
       "current": "2026.4",
       "latest": "2026.9",
       "released_at": "2026-09-01",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-shell",
@@ -1603,9 +1603,9 @@
       "course": "build-your-own-sqlite",
       "buildpack": "swift",
       "current": "5.7",
-      "latest": "6.3",
-      "released_at": "2026-06-30",
-      "status": "BEHIND"
+      "latest": "6.4",
+      "released_at": "2026-09-15",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-sqlite",
