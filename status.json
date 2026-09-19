@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T00:57:09+00:00",
+  "generated_at": "2026-09-19T00:55:20+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -949,7 +949,7 @@
       "current": "5.4",
       "latest": "5.5",
       "released_at": "2026-09-04",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-interpreter",
@@ -1245,7 +1245,7 @@
       "current": "5.4",
       "latest": "5.5",
       "released_at": "2026-09-04",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-redis",
@@ -1421,7 +1421,7 @@
       "current": "5.4",
       "latest": "5.5",
       "released_at": "2026-09-04",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-shell",
