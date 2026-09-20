@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T00:55:20+00:00",
+  "generated_at": "2026-09-20T01:03:00+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -50,8 +50,8 @@
       "released_at": "2025-12-19"
     },
     "java": {
-      "latest": "26.0",
-      "released_at": "2026-03-17"
+      "latest": "27.0",
+      "released_at": "2026-09-15"
     },
     "kotlin": {
       "latest": "2.4",
@@ -109,7 +109,7 @@
       "current": "1.3",
       "latest": "1.4",
       "released_at": "2026-09-05",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-bittorrent",
@@ -163,9 +163,9 @@
       "course": "build-your-own-bittorrent",
       "buildpack": "java",
       "current": "25.0",
-      "latest": "26.0",
-      "released_at": "2026-03-17",
-      "status": "OUTDATED"
+      "latest": "27.0",
+      "released_at": "2026-09-15",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-bittorrent",
@@ -229,7 +229,7 @@
       "current": "1.3",
       "latest": "1.4",
       "released_at": "2026-09-05",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-claude-code",
@@ -267,9 +267,9 @@
       "course": "build-your-own-claude-code",
       "buildpack": "java",
       "current": "25.0",
-      "latest": "26.0",
-      "released_at": "2026-03-17",
-      "status": "OUTDATED"
+      "latest": "27.0",
+      "released_at": "2026-09-15",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-claude-code",
@@ -309,7 +309,7 @@
       "current": "1.3",
       "latest": "1.4",
       "released_at": "2026-09-05",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-dns-server",
@@ -355,9 +355,9 @@
       "course": "build-your-own-dns-server",
       "buildpack": "java",
       "current": "25.0",
-      "latest": "26.0",
-      "released_at": "2026-03-17",
-      "status": "OUTDATED"
+      "latest": "27.0",
+      "released_at": "2026-09-15",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-dns-server",
@@ -421,7 +421,7 @@
       "current": "1.3",
       "latest": "1.4",
       "released_at": "2026-09-05",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-git",
@@ -483,9 +483,9 @@
       "course": "build-your-own-git",
       "buildpack": "java",
       "current": "25.0",
-      "latest": "26.0",
-      "released_at": "2026-03-17",
-      "status": "OUTDATED"
+      "latest": "27.0",
+      "released_at": "2026-09-15",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-git",
@@ -557,7 +557,7 @@
       "current": "1.3",
       "latest": "1.4",
       "released_at": "2026-09-05",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-grep",
@@ -611,9 +611,9 @@
       "course": "build-your-own-grep",
       "buildpack": "java",
       "current": "25.0",
-      "latest": "26.0",
-      "released_at": "2026-03-17",
-      "status": "OUTDATED"
+      "latest": "27.0",
+      "released_at": "2026-09-15",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-grep",
@@ -685,7 +685,7 @@
       "current": "1.3",
       "latest": "1.4",
       "released_at": "2026-09-05",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-http-server",
@@ -763,9 +763,9 @@
       "course": "build-your-own-http-server",
       "buildpack": "java",
       "current": "25.0",
-      "latest": "26.0",
-      "released_at": "2026-03-17",
-      "status": "OUTDATED"
+      "latest": "27.0",
+      "released_at": "2026-09-15",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-http-server",
@@ -853,7 +853,7 @@
       "current": "1.3",
       "latest": "1.4",
       "released_at": "2026-09-05",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-interpreter",
@@ -923,9 +923,9 @@
       "course": "build-your-own-interpreter",
       "buildpack": "java",
       "current": "25.0",
-      "latest": "26.0",
-      "released_at": "2026-03-17",
-      "status": "OUTDATED"
+      "latest": "27.0",
+      "released_at": "2026-09-15",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-interpreter",
@@ -1021,7 +1021,7 @@
       "current": "1.3",
       "latest": "1.4",
       "released_at": "2026-09-05",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-kafka",
@@ -1075,9 +1075,9 @@
       "course": "build-your-own-kafka",
       "buildpack": "java",
       "current": "25.0",
-      "latest": "26.0",
-      "released_at": "2026-03-17",
-      "status": "OUTDATED"
+      "latest": "27.0",
+      "released_at": "2026-09-15",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-kafka",
@@ -1133,7 +1133,7 @@
       "current": "1.3",
       "latest": "1.4",
       "released_at": "2026-09-05",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-redis",
@@ -1219,9 +1219,9 @@
       "course": "build-your-own-redis",
       "buildpack": "java",
       "current": "25.0",
-      "latest": "26.0",
-      "released_at": "2026-03-17",
-      "status": "OUTDATED"
+      "latest": "27.0",
+      "released_at": "2026-09-15",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-redis",
@@ -1325,7 +1325,7 @@
       "current": "1.3",
       "latest": "1.4",
       "released_at": "2026-09-05",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-shell",
@@ -1395,8 +1395,8 @@
       "course": "build-your-own-shell",
       "buildpack": "java",
       "current": "26.0",
-      "latest": "26.0",
-      "released_at": "2026-03-17",
+      "latest": "27.0",
+      "released_at": "2026-09-15",
       "status": "UP_TO_DATE"
     },
     {
@@ -1485,7 +1485,7 @@
       "current": "1.3",
       "latest": "1.4",
       "released_at": "2026-09-05",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-sqlite",
@@ -1547,9 +1547,9 @@
       "course": "build-your-own-sqlite",
       "buildpack": "java",
       "current": "25.0",
-      "latest": "26.0",
-      "released_at": "2026-03-17",
-      "status": "OUTDATED"
+      "latest": "27.0",
+      "released_at": "2026-09-15",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-sqlite",
