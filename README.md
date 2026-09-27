@@ -122,17 +122,17 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Crystal](https://app.codecrafters.io/tracks/crystal)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️      | v1.21            | 2026-07-16     | v1.1                    |
-| Interpreter: ❌ | v1.21            | 2026-07-16     | -                       |
-| Git: ❌         | v1.21            | 2026-07-16     | -                       |
-| Sqlite: ❌      | v1.21            | 2026-07-16     | -                       |
-| DNS server: ❌  | v1.21            | 2026-07-16     | -                       |
-| HTTP server: ❌ | v1.21            | 2026-07-16     | -                       |
-| Bittorrent: ❌  | v1.21            | 2026-07-16     | -                       |
-| Grep: ❌        | v1.21            | 2026-07-16     | -                       |
-| Shell: ❌       | v1.21            | 2026-07-16     | -                       |
-| Kafka: ❌       | v1.21            | 2026-07-16     | -                       |
-| Claude Code: ❌ | v1.21            | 2026-07-16     | -                       |
+| Redis: ✅       | v1.21            | 2026-09-26     | v1.1                    |
+| Interpreter: ❌ | v1.21            | 2026-09-26     | -                       |
+| Git: ❌         | v1.21            | 2026-09-26     | -                       |
+| Sqlite: ❌      | v1.21            | 2026-09-26     | -                       |
+| DNS server: ❌  | v1.21            | 2026-09-26     | -                       |
+| HTTP server: ❌ | v1.21            | 2026-09-26     | -                       |
+| Bittorrent: ❌  | v1.21            | 2026-09-26     | -                       |
+| Grep: ❌        | v1.21            | 2026-09-26     | -                       |
+| Shell: ❌       | v1.21            | 2026-09-26     | -                       |
+| Kafka: ❌       | v1.21            | 2026-09-26     | -                       |
+| Claude Code: ❌ | v1.21            | 2026-09-26     | -                       |
 
 ### [Dart](https://app.codecrafters.io/tracks/dart)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |

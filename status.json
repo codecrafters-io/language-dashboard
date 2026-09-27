@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T01:03:00+00:00",
+  "generated_at": "2026-09-27T01:05:59+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -23,7 +23,7 @@
     },
     "crystal": {
       "latest": "1.21",
-      "released_at": "2026-07-16"
+      "released_at": "2026-09-26"
     },
     "dart": {
       "latest": "3.13",
@@ -1164,8 +1164,8 @@
       "buildpack": "crystal",
       "current": "1.1",
       "latest": "1.21",
-      "released_at": "2026-07-16",
-      "status": "BEHIND"
+      "released_at": "2026-09-26",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-redis",
