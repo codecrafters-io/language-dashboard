@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T01:05:59+00:00",
+  "generated_at": "2026-09-30T01:04:39+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -27,7 +27,7 @@
     },
     "dart": {
       "latest": "3.13",
-      "released_at": "2026-09-15"
+      "released_at": "2026-09-29"
     },
     "dotnet": {
       "latest": "10.0",
@@ -165,7 +165,7 @@
       "current": "25.0",
       "latest": "27.0",
       "released_at": "2026-09-15",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-bittorrent",
@@ -269,7 +269,7 @@
       "current": "25.0",
       "latest": "27.0",
       "released_at": "2026-09-15",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-claude-code",
@@ -357,7 +357,7 @@
       "current": "25.0",
       "latest": "27.0",
       "released_at": "2026-09-15",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-dns-server",
@@ -485,7 +485,7 @@
       "current": "25.0",
       "latest": "27.0",
       "released_at": "2026-09-15",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-git",
@@ -613,7 +613,7 @@
       "current": "25.0",
       "latest": "27.0",
       "released_at": "2026-09-15",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-grep",
@@ -716,7 +716,7 @@
       "buildpack": "dart",
       "current": "3.4",
       "latest": "3.13",
-      "released_at": "2026-09-15",
+      "released_at": "2026-09-29",
       "status": "UP_TO_DATE"
     },
     {
@@ -765,7 +765,7 @@
       "current": "25.0",
       "latest": "27.0",
       "released_at": "2026-09-15",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-http-server",
@@ -925,7 +925,7 @@
       "current": "25.0",
       "latest": "27.0",
       "released_at": "2026-09-15",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-interpreter",
@@ -1005,7 +1005,7 @@
       "current": "6.0",
       "latest": "6.4",
       "released_at": "2026-09-15",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-interpreter",
@@ -1077,7 +1077,7 @@
       "current": "25.0",
       "latest": "27.0",
       "released_at": "2026-09-15",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-kafka",
@@ -1172,7 +1172,7 @@
       "buildpack": "dart",
       "current": "3.11",
       "latest": "3.13",
-      "released_at": "2026-09-15",
+      "released_at": "2026-09-29",
       "status": "UP_TO_DATE"
     },
     {
@@ -1221,7 +1221,7 @@
       "current": "25.0",
       "latest": "27.0",
       "released_at": "2026-09-15",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-redis",
@@ -1301,7 +1301,7 @@
       "current": "6.3",
       "latest": "6.4",
       "released_at": "2026-09-15",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-redis",
@@ -1348,7 +1348,7 @@
       "buildpack": "dart",
       "current": "3.11",
       "latest": "3.13",
-      "released_at": "2026-09-15",
+      "released_at": "2026-09-29",
       "status": "UP_TO_DATE"
     },
     {
@@ -1397,7 +1397,7 @@
       "current": "26.0",
       "latest": "27.0",
       "released_at": "2026-09-15",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-shell",
@@ -1549,7 +1549,7 @@
       "current": "25.0",
       "latest": "27.0",
       "released_at": "2026-09-15",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-sqlite",
@@ -1605,7 +1605,7 @@
       "current": "5.7",
       "latest": "6.4",
       "released_at": "2026-09-15",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-sqlite",

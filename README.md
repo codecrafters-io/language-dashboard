@@ -137,17 +137,17 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Dart](https://app.codecrafters.io/tracks/dart)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v3.13            | 2026-09-15     | v3.11                   |
-| HTTP server: ✅ | v3.13            | 2026-09-15     | v3.4                    |
-| Shell: ✅       | v3.13            | 2026-09-15     | v3.11                   |
-| Interpreter: ❌ | v3.13            | 2026-09-15     | -                       |
-| Git: ❌         | v3.13            | 2026-09-15     | -                       |
-| Sqlite: ❌      | v3.13            | 2026-09-15     | -                       |
-| DNS server: ❌  | v3.13            | 2026-09-15     | -                       |
-| Bittorrent: ❌  | v3.13            | 2026-09-15     | -                       |
-| Grep: ❌        | v3.13            | 2026-09-15     | -                       |
-| Kafka: ❌       | v3.13            | 2026-09-15     | -                       |
-| Claude Code: ❌ | v3.13            | 2026-09-15     | -                       |
+| Redis: ✅       | v3.13            | 2026-09-29     | v3.11                   |
+| HTTP server: ✅ | v3.13            | 2026-09-29     | v3.4                    |
+| Shell: ✅       | v3.13            | 2026-09-29     | v3.11                   |
+| Interpreter: ❌ | v3.13            | 2026-09-29     | -                       |
+| Git: ❌         | v3.13            | 2026-09-29     | -                       |
+| Sqlite: ❌      | v3.13            | 2026-09-29     | -                       |
+| DNS server: ❌  | v3.13            | 2026-09-29     | -                       |
+| Bittorrent: ❌  | v3.13            | 2026-09-29     | -                       |
+| Grep: ❌        | v3.13            | 2026-09-29     | -                       |
+| Kafka: ❌       | v3.13            | 2026-09-29     | -                       |
+| Claude Code: ❌ | v3.13            | 2026-09-29     | -                       |
 
 ### [C#](https://app.codecrafters.io/tracks/dotnet)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -210,19 +210,19 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Claude Code: ❌ | v9.14            | 2025-12-19     | -                       |
 
 ### [Java](https://app.codecrafters.io/tracks/java)
-| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v27.0            | 2026-09-15     | v25.0                   |
-| Interpreter: ✅ | v27.0            | 2026-09-15     | v25.0                   |
-| Git: ✅         | v27.0            | 2026-09-15     | v25.0                   |
-| Sqlite: ✅      | v27.0            | 2026-09-15     | v25.0                   |
-| DNS server: ✅  | v27.0            | 2026-09-15     | v25.0                   |
-| HTTP server: ✅ | v27.0            | 2026-09-15     | v25.0                   |
-| Bittorrent: ✅  | v27.0            | 2026-09-15     | v25.0                   |
-| Grep: ✅        | v27.0            | 2026-09-15     | v25.0                   |
-| Shell: ✅       | v27.0            | 2026-09-15     | v26.0                   |
-| Kafka: ✅       | v27.0            | 2026-09-15     | v25.0                   |
-| Claude Code: ✅ | v27.0            | 2026-09-15     | v25.0                   |
+| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:----------------|:-----------------|:---------------|:------------------------|
+| Redis: ⚠️       | v27.0            | 2026-09-15     | v25.0                   |
+| Interpreter: ⚠️ | v27.0            | 2026-09-15     | v25.0                   |
+| Git: ⚠️         | v27.0            | 2026-09-15     | v25.0                   |
+| Sqlite: ⚠️      | v27.0            | 2026-09-15     | v25.0                   |
+| DNS server: ⚠️  | v27.0            | 2026-09-15     | v25.0                   |
+| HTTP server: ⚠️ | v27.0            | 2026-09-15     | v25.0                   |
+| Bittorrent: ⚠️  | v27.0            | 2026-09-15     | v25.0                   |
+| Grep: ⚠️        | v27.0            | 2026-09-15     | v25.0                   |
+| Shell: ⚠️       | v27.0            | 2026-09-15     | v26.0                   |
+| Kafka: ⚠️       | v27.0            | 2026-09-15     | v25.0                   |
+| Claude Code: ⚠️ | v27.0            | 2026-09-15     | v25.0                   |
 
 ### [Kotlin](https://app.codecrafters.io/tracks/kotlin)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -345,19 +345,19 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Claude Code: ❌  | v3.9             | 2026-09-03     | -                       |
 
 ### [Swift](https://app.codecrafters.io/tracks/swift)
-| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v6.4             | 2026-09-15     | v6.3                    |
-| Interpreter: ✅ | v6.4             | 2026-09-15     | v6.0                    |
-| Sqlite: ✅      | v6.4             | 2026-09-15     | v5.7                    |
-| Git: ❌         | v6.4             | 2026-09-15     | -                       |
-| DNS server: ❌  | v6.4             | 2026-09-15     | -                       |
-| HTTP server: ❌ | v6.4             | 2026-09-15     | -                       |
-| Bittorrent: ❌  | v6.4             | 2026-09-15     | -                       |
-| Grep: ❌        | v6.4             | 2026-09-15     | -                       |
-| Shell: ❌       | v6.4             | 2026-09-15     | -                       |
-| Kafka: ❌       | v6.4             | 2026-09-15     | -                       |
-| Claude Code: ❌ | v6.4             | 2026-09-15     | -                       |
+| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:----------------|:-----------------|:---------------|:------------------------|
+| Redis: ⚠️       | v6.4             | 2026-09-15     | v6.3                    |
+| Interpreter: ⚠️ | v6.4             | 2026-09-15     | v6.0                    |
+| Sqlite: ⚠️      | v6.4             | 2026-09-15     | v5.7                    |
+| Git: ❌          | v6.4             | 2026-09-15     | -                       |
+| DNS server: ❌   | v6.4             | 2026-09-15     | -                       |
+| HTTP server: ❌  | v6.4             | 2026-09-15     | -                       |
+| Bittorrent: ❌   | v6.4             | 2026-09-15     | -                       |
+| Grep: ❌         | v6.4             | 2026-09-15     | -                       |
+| Shell: ❌        | v6.4             | 2026-09-15     | -                       |
+| Kafka: ❌        | v6.4             | 2026-09-15     | -                       |
+| Claude Code: ❌  | v6.4             | 2026-09-15     | -                       |
 
 ### [Typescript](https://app.codecrafters.io/tracks/bun)
 | Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
