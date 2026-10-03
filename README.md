@@ -377,15 +377,15 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Zig](https://app.codecrafters.io/tracks/zig)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v0.16            | 2026-04-13     | v0.16                   |
-| Interpreter: ✅ | v0.16            | 2026-04-13     | v0.16                   |
-| Git: ✅         | v0.16            | 2026-04-13     | v0.16                   |
-| Sqlite: ✅      | v0.16            | 2026-04-13     | v0.16                   |
-| DNS server: ✅  | v0.16            | 2026-04-13     | v0.16                   |
-| HTTP server: ✅ | v0.16            | 2026-04-13     | v0.16                   |
-| Bittorrent: ✅  | v0.16            | 2026-04-13     | v0.16                   |
-| Grep: ✅        | v0.16            | 2026-04-13     | v0.16                   |
-| Shell: ✅       | v0.16            | 2026-04-13     | v0.16                   |
-| Kafka: ✅       | v0.16            | 2026-04-13     | v0.16                   |
-| Claude Code: ✅ | v0.16            | 2026-04-13     | v0.16                   |
+| Redis: ✅       | v0.17            | 2026-10-01     | v0.16                   |
+| Interpreter: ✅ | v0.17            | 2026-10-01     | v0.16                   |
+| Git: ✅         | v0.17            | 2026-10-01     | v0.16                   |
+| Sqlite: ✅      | v0.17            | 2026-10-01     | v0.16                   |
+| DNS server: ✅  | v0.17            | 2026-10-01     | v0.16                   |
+| HTTP server: ✅ | v0.17            | 2026-10-01     | v0.16                   |
+| Bittorrent: ✅  | v0.17            | 2026-10-01     | v0.16                   |
+| Grep: ✅        | v0.17            | 2026-10-01     | v0.16                   |
+| Shell: ✅       | v0.17            | 2026-10-01     | v0.16                   |
+| Kafka: ✅       | v0.17            | 2026-10-01     | v0.16                   |
+| Claude Code: ✅ | v0.17            | 2026-10-01     | v0.16                   |
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T01:04:39+00:00",
+  "generated_at": "2026-10-03T00:58:43+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -98,8 +98,8 @@
       "released_at": "2026-09-15"
     },
     "zig": {
-      "latest": "0.16",
-      "released_at": "2026-04-13"
+      "latest": "0.17",
+      "released_at": "2026-10-01"
     }
   },
   "entries": [
@@ -219,8 +219,8 @@
       "course": "build-your-own-bittorrent",
       "buildpack": "zig",
       "current": "0.16",
-      "latest": "0.16",
-      "released_at": "2026-04-13",
+      "latest": "0.17",
+      "released_at": "2026-10-01",
       "status": "UP_TO_DATE"
     },
     {
@@ -299,8 +299,8 @@
       "course": "build-your-own-claude-code",
       "buildpack": "zig",
       "current": "0.16",
-      "latest": "0.16",
-      "released_at": "2026-04-13",
+      "latest": "0.17",
+      "released_at": "2026-10-01",
       "status": "UP_TO_DATE"
     },
     {
@@ -411,8 +411,8 @@
       "course": "build-your-own-dns-server",
       "buildpack": "zig",
       "current": "0.16",
-      "latest": "0.16",
-      "released_at": "2026-04-13",
+      "latest": "0.17",
+      "released_at": "2026-10-01",
       "status": "UP_TO_DATE"
     },
     {
@@ -547,8 +547,8 @@
       "course": "build-your-own-git",
       "buildpack": "zig",
       "current": "0.16",
-      "latest": "0.16",
-      "released_at": "2026-04-13",
+      "latest": "0.17",
+      "released_at": "2026-10-01",
       "status": "UP_TO_DATE"
     },
     {
@@ -675,8 +675,8 @@
       "course": "build-your-own-grep",
       "buildpack": "zig",
       "current": "0.16",
-      "latest": "0.16",
-      "released_at": "2026-04-13",
+      "latest": "0.17",
+      "released_at": "2026-10-01",
       "status": "UP_TO_DATE"
     },
     {
@@ -843,8 +843,8 @@
       "course": "build-your-own-http-server",
       "buildpack": "zig",
       "current": "0.16",
-      "latest": "0.16",
-      "released_at": "2026-04-13",
+      "latest": "0.17",
+      "released_at": "2026-10-01",
       "status": "UP_TO_DATE"
     },
     {
@@ -1011,8 +1011,8 @@
       "course": "build-your-own-interpreter",
       "buildpack": "zig",
       "current": "0.16",
-      "latest": "0.16",
-      "released_at": "2026-04-13",
+      "latest": "0.17",
+      "released_at": "2026-10-01",
       "status": "UP_TO_DATE"
     },
     {
@@ -1123,8 +1123,8 @@
       "course": "build-your-own-kafka",
       "buildpack": "zig",
       "current": "0.16",
-      "latest": "0.16",
-      "released_at": "2026-04-13",
+      "latest": "0.17",
+      "released_at": "2026-10-01",
       "status": "UP_TO_DATE"
     },
     {
@@ -1307,8 +1307,8 @@
       "course": "build-your-own-redis",
       "buildpack": "zig",
       "current": "0.16",
-      "latest": "0.16",
-      "released_at": "2026-04-13",
+      "latest": "0.17",
+      "released_at": "2026-10-01",
       "status": "UP_TO_DATE"
     },
     {
@@ -1475,8 +1475,8 @@
       "course": "build-your-own-shell",
       "buildpack": "zig",
       "current": "0.16",
-      "latest": "0.16",
-      "released_at": "2026-04-13",
+      "latest": "0.17",
+      "released_at": "2026-10-01",
       "status": "UP_TO_DATE"
     },
     {
@@ -1611,8 +1611,8 @@
       "course": "build-your-own-sqlite",
       "buildpack": "zig",
       "current": "0.16",
-      "latest": "0.16",
-      "released_at": "2026-04-13",
+      "latest": "0.17",
+      "released_at": "2026-10-01",
       "status": "UP_TO_DATE"
     }
   ]
