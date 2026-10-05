@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T00:58:43+00:00",
+  "generated_at": "2026-10-05T01:07:32+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -86,8 +86,8 @@
       "released_at": "2025-12-25"
     },
     "rust": {
-      "latest": "1.98",
-      "released_at": "2026-08-20"
+      "latest": "1.99",
+      "released_at": "2026-10-01"
     },
     "scala": {
       "latest": "3.9",
@@ -203,9 +203,9 @@
       "course": "build-your-own-bittorrent",
       "buildpack": "rust",
       "current": "1.96",
-      "latest": "1.98",
-      "released_at": "2026-08-20",
-      "status": "BEHIND"
+      "latest": "1.99",
+      "released_at": "2026-10-01",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-bittorrent",
@@ -291,8 +291,8 @@
       "course": "build-your-own-claude-code",
       "buildpack": "rust",
       "current": "1.98",
-      "latest": "1.98",
-      "released_at": "2026-08-20",
+      "latest": "1.99",
+      "released_at": "2026-10-01",
       "status": "UP_TO_DATE"
     },
     {
@@ -403,9 +403,9 @@
       "course": "build-your-own-dns-server",
       "buildpack": "rust",
       "current": "1.96",
-      "latest": "1.98",
-      "released_at": "2026-08-20",
-      "status": "BEHIND"
+      "latest": "1.99",
+      "released_at": "2026-10-01",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-dns-server",
@@ -539,9 +539,9 @@
       "course": "build-your-own-git",
       "buildpack": "rust",
       "current": "1.96",
-      "latest": "1.98",
-      "released_at": "2026-08-20",
-      "status": "BEHIND"
+      "latest": "1.99",
+      "released_at": "2026-10-01",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-git",
@@ -667,9 +667,9 @@
       "course": "build-your-own-grep",
       "buildpack": "rust",
       "current": "1.96",
-      "latest": "1.98",
-      "released_at": "2026-08-20",
-      "status": "BEHIND"
+      "latest": "1.99",
+      "released_at": "2026-10-01",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-grep",
@@ -827,9 +827,9 @@
       "course": "build-your-own-http-server",
       "buildpack": "rust",
       "current": "1.96",
-      "latest": "1.98",
-      "released_at": "2026-08-20",
-      "status": "BEHIND"
+      "latest": "1.99",
+      "released_at": "2026-10-01",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-http-server",
@@ -987,9 +987,9 @@
       "course": "build-your-own-interpreter",
       "buildpack": "rust",
       "current": "1.96",
-      "latest": "1.98",
-      "released_at": "2026-08-20",
-      "status": "BEHIND"
+      "latest": "1.99",
+      "released_at": "2026-10-01",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-interpreter",
@@ -1107,9 +1107,9 @@
       "course": "build-your-own-kafka",
       "buildpack": "rust",
       "current": "1.96",
-      "latest": "1.98",
-      "released_at": "2026-08-20",
-      "status": "BEHIND"
+      "latest": "1.99",
+      "released_at": "2026-10-01",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-kafka",
@@ -1283,9 +1283,9 @@
       "course": "build-your-own-redis",
       "buildpack": "rust",
       "current": "1.96",
-      "latest": "1.98",
-      "released_at": "2026-08-20",
-      "status": "BEHIND"
+      "latest": "1.99",
+      "released_at": "2026-10-01",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-redis",
@@ -1459,9 +1459,9 @@
       "course": "build-your-own-shell",
       "buildpack": "rust",
       "current": "1.96",
-      "latest": "1.98",
-      "released_at": "2026-08-20",
-      "status": "BEHIND"
+      "latest": "1.99",
+      "released_at": "2026-10-01",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-shell",
@@ -1595,9 +1595,9 @@
       "course": "build-your-own-sqlite",
       "buildpack": "rust",
       "current": "1.96",
-      "latest": "1.98",
-      "released_at": "2026-08-20",
-      "status": "BEHIND"
+      "latest": "1.99",
+      "released_at": "2026-10-01",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-sqlite",
