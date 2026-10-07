@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T01:01:03+00:00",
+  "generated_at": "2026-10-07T01:04:19+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -70,8 +70,8 @@
       "released_at": "2026-09-04"
     },
     "odin": {
-      "latest": "2026.9",
-      "released_at": "2026-09-01"
+      "latest": "2026.10",
+      "released_at": "2026-10-06"
     },
     "php": {
       "latest": "8.5",
@@ -635,9 +635,9 @@
       "course": "build-your-own-grep",
       "buildpack": "odin",
       "current": "2026.4",
-      "latest": "2026.9",
-      "released_at": "2026-09-01",
-      "status": "BEHIND"
+      "latest": "2026.10",
+      "released_at": "2026-10-06",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-grep",
@@ -795,9 +795,9 @@
       "course": "build-your-own-http-server",
       "buildpack": "odin",
       "current": "2026.4",
-      "latest": "2026.9",
-      "released_at": "2026-09-01",
-      "status": "BEHIND"
+      "latest": "2026.10",
+      "released_at": "2026-10-06",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-http-server",
@@ -955,9 +955,9 @@
       "course": "build-your-own-interpreter",
       "buildpack": "odin",
       "current": "2026.4",
-      "latest": "2026.9",
-      "released_at": "2026-09-01",
-      "status": "BEHIND"
+      "latest": "2026.10",
+      "released_at": "2026-10-06",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-interpreter",
@@ -1251,9 +1251,9 @@
       "course": "build-your-own-redis",
       "buildpack": "odin",
       "current": "2026.4",
-      "latest": "2026.9",
-      "released_at": "2026-09-01",
-      "status": "BEHIND"
+      "latest": "2026.10",
+      "released_at": "2026-10-06",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-redis",
@@ -1427,9 +1427,9 @@
       "course": "build-your-own-shell",
       "buildpack": "odin",
       "current": "2026.4",
-      "latest": "2026.9",
-      "released_at": "2026-09-01",
-      "status": "BEHIND"
+      "latest": "2026.10",
+      "released_at": "2026-10-06",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-shell",

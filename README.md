@@ -285,19 +285,19 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Claude Code: ❌  | v5.5             | 2026-09-04     | -                       |
 
 ### [Odin](https://app.codecrafters.io/tracks/odin)
-| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:----------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️       | v2026.9          | 2026-09-01     | v2026.4                 |
-| Interpreter: ⚠️ | v2026.9          | 2026-09-01     | v2026.4                 |
-| HTTP server: ⚠️ | v2026.9          | 2026-09-01     | v2026.4                 |
-| Grep: ⚠️        | v2026.9          | 2026-09-01     | v2026.4                 |
-| Shell: ⚠️       | v2026.9          | 2026-09-01     | v2026.4                 |
-| Git: ❌          | v2026.9          | 2026-09-01     | -                       |
-| Sqlite: ❌       | v2026.9          | 2026-09-01     | -                       |
-| DNS server: ❌   | v2026.9          | 2026-09-01     | -                       |
-| Bittorrent: ❌   | v2026.9          | 2026-09-01     | -                       |
-| Kafka: ❌        | v2026.9          | 2026-09-01     | -                       |
-| Claude Code: ❌  | v2026.9          | 2026-09-01     | -                       |
+| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:---------------|:-----------------|:---------------|:------------------------|
+| Redis: ✅       | v2026.10         | 2026-10-06     | v2026.4                 |
+| Interpreter: ✅ | v2026.10         | 2026-10-06     | v2026.4                 |
+| HTTP server: ✅ | v2026.10         | 2026-10-06     | v2026.4                 |
+| Grep: ✅        | v2026.10         | 2026-10-06     | v2026.4                 |
+| Shell: ✅       | v2026.10         | 2026-10-06     | v2026.4                 |
+| Git: ❌         | v2026.10         | 2026-10-06     | -                       |
+| Sqlite: ❌      | v2026.10         | 2026-10-06     | -                       |
+| DNS server: ❌  | v2026.10         | 2026-10-06     | -                       |
+| Bittorrent: ❌  | v2026.10         | 2026-10-06     | -                       |
+| Kafka: ❌       | v2026.10         | 2026-10-06     | -                       |
+| Claude Code: ❌ | v2026.10         | 2026-10-06     | -                       |
 
 ### [PHP](https://app.codecrafters.io/tracks/php)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
