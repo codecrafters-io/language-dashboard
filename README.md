@@ -182,17 +182,17 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Gleam](https://app.codecrafters.io/tracks/gleam)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.19            | 2026-10-05     | v1.16                   |
-| Interpreter: ✅ | v1.19            | 2026-10-05     | v1.16                   |
-| Git: ✅         | v1.19            | 2026-10-05     | v1.16                   |
-| Sqlite: ✅      | v1.19            | 2026-10-05     | v1.16                   |
-| HTTP server: ✅ | v1.19            | 2026-10-05     | v1.16                   |
-| Grep: ✅        | v1.19            | 2026-10-05     | v1.16                   |
-| Shell: ✅       | v1.19            | 2026-10-05     | v1.16                   |
-| Kafka: ✅       | v1.19            | 2026-10-05     | v1.16                   |
-| DNS server: ❌  | v1.19            | 2026-10-05     | -                       |
-| Bittorrent: ❌  | v1.19            | 2026-10-05     | -                       |
-| Claude Code: ❌ | v1.19            | 2026-10-05     | -                       |
+| Redis: ✅       | v1.19            | 2026-10-07     | v1.16                   |
+| Interpreter: ✅ | v1.19            | 2026-10-07     | v1.16                   |
+| Git: ✅         | v1.19            | 2026-10-07     | v1.16                   |
+| Sqlite: ✅      | v1.19            | 2026-10-07     | v1.16                   |
+| HTTP server: ✅ | v1.19            | 2026-10-07     | v1.16                   |
+| Grep: ✅        | v1.19            | 2026-10-07     | v1.16                   |
+| Shell: ✅       | v1.19            | 2026-10-07     | v1.16                   |
+| Kafka: ✅       | v1.19            | 2026-10-07     | v1.16                   |
+| DNS server: ❌  | v1.19            | 2026-10-07     | -                       |
+| Bittorrent: ❌  | v1.19            | 2026-10-07     | -                       |
+| Claude Code: ❌ | v1.19            | 2026-10-07     | -                       |
 
 ### [Haskell](https://app.codecrafters.io/tracks/haskell)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |

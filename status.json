@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T01:04:19+00:00",
+  "generated_at": "2026-10-08T01:03:44+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -39,7 +39,7 @@
     },
     "gleam": {
       "latest": "1.19",
-      "released_at": "2026-10-05"
+      "released_at": "2026-10-07"
     },
     "go": {
       "latest": "1.27",
@@ -460,7 +460,7 @@
       "buildpack": "gleam",
       "current": "1.16",
       "latest": "1.19",
-      "released_at": "2026-10-05",
+      "released_at": "2026-10-07",
       "status": "UP_TO_DATE"
     },
     {
@@ -588,7 +588,7 @@
       "buildpack": "gleam",
       "current": "1.16",
       "latest": "1.19",
-      "released_at": "2026-10-05",
+      "released_at": "2026-10-07",
       "status": "UP_TO_DATE"
     },
     {
@@ -740,7 +740,7 @@
       "buildpack": "gleam",
       "current": "1.16",
       "latest": "1.19",
-      "released_at": "2026-10-05",
+      "released_at": "2026-10-07",
       "status": "UP_TO_DATE"
     },
     {
@@ -900,7 +900,7 @@
       "buildpack": "gleam",
       "current": "1.16",
       "latest": "1.19",
-      "released_at": "2026-10-05",
+      "released_at": "2026-10-07",
       "status": "UP_TO_DATE"
     },
     {
@@ -1060,7 +1060,7 @@
       "buildpack": "gleam",
       "current": "1.16",
       "latest": "1.19",
-      "released_at": "2026-10-05",
+      "released_at": "2026-10-07",
       "status": "UP_TO_DATE"
     },
     {
@@ -1196,7 +1196,7 @@
       "buildpack": "gleam",
       "current": "1.16",
       "latest": "1.19",
-      "released_at": "2026-10-05",
+      "released_at": "2026-10-07",
       "status": "UP_TO_DATE"
     },
     {
@@ -1372,7 +1372,7 @@
       "buildpack": "gleam",
       "current": "1.16",
       "latest": "1.19",
-      "released_at": "2026-10-05",
+      "released_at": "2026-10-07",
       "status": "UP_TO_DATE"
     },
     {
@@ -1532,7 +1532,7 @@
       "buildpack": "gleam",
       "current": "1.16",
       "latest": "1.19",
-      "released_at": "2026-10-05",
+      "released_at": "2026-10-07",
       "status": "UP_TO_DATE"
     },
     {
