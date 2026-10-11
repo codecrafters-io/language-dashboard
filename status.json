@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T01:03:44+00:00",
+  "generated_at": "2026-10-11T01:09:07+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -7,7 +7,7 @@
     },
     "bun": {
       "latest": "1.4",
-      "released_at": "2026-09-05"
+      "released_at": "2026-10-10"
     },
     "c": {
       "latest": "23.0",
@@ -78,8 +78,8 @@
       "released_at": "2025-11-20"
     },
     "python": {
-      "latest": "3.14",
-      "released_at": "2025-10-07"
+      "latest": "3.15",
+      "released_at": "2026-10-09"
     },
     "ruby": {
       "latest": "4.0",
@@ -108,8 +108,8 @@
       "buildpack": "bun",
       "current": "1.3",
       "latest": "1.4",
-      "released_at": "2026-09-05",
-      "status": "BEHIND"
+      "released_at": "2026-10-10",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-bittorrent",
@@ -187,8 +187,8 @@
       "course": "build-your-own-bittorrent",
       "buildpack": "python",
       "current": "3.14",
-      "latest": "3.14",
-      "released_at": "2025-10-07",
+      "latest": "3.15",
+      "released_at": "2026-10-09",
       "status": "UP_TO_DATE"
     },
     {
@@ -228,8 +228,8 @@
       "buildpack": "bun",
       "current": "1.3",
       "latest": "1.4",
-      "released_at": "2026-09-05",
-      "status": "BEHIND"
+      "released_at": "2026-10-10",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-claude-code",
@@ -283,8 +283,8 @@
       "course": "build-your-own-claude-code",
       "buildpack": "python",
       "current": "3.14",
-      "latest": "3.14",
-      "released_at": "2025-10-07",
+      "latest": "3.15",
+      "released_at": "2026-10-09",
       "status": "UP_TO_DATE"
     },
     {
@@ -308,8 +308,8 @@
       "buildpack": "bun",
       "current": "1.3",
       "latest": "1.4",
-      "released_at": "2026-09-05",
-      "status": "BEHIND"
+      "released_at": "2026-10-10",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-dns-server",
@@ -387,8 +387,8 @@
       "course": "build-your-own-dns-server",
       "buildpack": "python",
       "current": "3.14",
-      "latest": "3.14",
-      "released_at": "2025-10-07",
+      "latest": "3.15",
+      "released_at": "2026-10-09",
       "status": "UP_TO_DATE"
     },
     {
@@ -420,8 +420,8 @@
       "buildpack": "bun",
       "current": "1.3",
       "latest": "1.4",
-      "released_at": "2026-09-05",
-      "status": "BEHIND"
+      "released_at": "2026-10-10",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-git",
@@ -523,8 +523,8 @@
       "course": "build-your-own-git",
       "buildpack": "python",
       "current": "3.14",
-      "latest": "3.14",
-      "released_at": "2025-10-07",
+      "latest": "3.15",
+      "released_at": "2026-10-09",
       "status": "UP_TO_DATE"
     },
     {
@@ -556,8 +556,8 @@
       "buildpack": "bun",
       "current": "1.3",
       "latest": "1.4",
-      "released_at": "2026-09-05",
-      "status": "BEHIND"
+      "released_at": "2026-10-10",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-grep",
@@ -651,8 +651,8 @@
       "course": "build-your-own-grep",
       "buildpack": "python",
       "current": "3.14",
-      "latest": "3.14",
-      "released_at": "2025-10-07",
+      "latest": "3.15",
+      "released_at": "2026-10-09",
       "status": "UP_TO_DATE"
     },
     {
@@ -684,8 +684,8 @@
       "buildpack": "bun",
       "current": "1.3",
       "latest": "1.4",
-      "released_at": "2026-09-05",
-      "status": "BEHIND"
+      "released_at": "2026-10-10",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-http-server",
@@ -811,8 +811,8 @@
       "course": "build-your-own-http-server",
       "buildpack": "python",
       "current": "3.14",
-      "latest": "3.14",
-      "released_at": "2025-10-07",
+      "latest": "3.15",
+      "released_at": "2026-10-09",
       "status": "UP_TO_DATE"
     },
     {
@@ -852,8 +852,8 @@
       "buildpack": "bun",
       "current": "1.3",
       "latest": "1.4",
-      "released_at": "2026-09-05",
-      "status": "BEHIND"
+      "released_at": "2026-10-10",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-interpreter",
@@ -971,8 +971,8 @@
       "course": "build-your-own-interpreter",
       "buildpack": "python",
       "current": "3.14",
-      "latest": "3.14",
-      "released_at": "2025-10-07",
+      "latest": "3.15",
+      "released_at": "2026-10-09",
       "status": "UP_TO_DATE"
     },
     {
@@ -1020,8 +1020,8 @@
       "buildpack": "bun",
       "current": "1.3",
       "latest": "1.4",
-      "released_at": "2026-09-05",
-      "status": "BEHIND"
+      "released_at": "2026-10-10",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-kafka",
@@ -1099,8 +1099,8 @@
       "course": "build-your-own-kafka",
       "buildpack": "python",
       "current": "3.14",
-      "latest": "3.14",
-      "released_at": "2025-10-07",
+      "latest": "3.15",
+      "released_at": "2026-10-09",
       "status": "UP_TO_DATE"
     },
     {
@@ -1132,8 +1132,8 @@
       "buildpack": "bun",
       "current": "1.3",
       "latest": "1.4",
-      "released_at": "2026-09-05",
-      "status": "BEHIND"
+      "released_at": "2026-10-10",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-redis",
@@ -1165,7 +1165,7 @@
       "current": "1.1",
       "latest": "1.21",
       "released_at": "2026-09-26",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-redis",
@@ -1267,8 +1267,8 @@
       "course": "build-your-own-redis",
       "buildpack": "python",
       "current": "3.14",
-      "latest": "3.14",
-      "released_at": "2025-10-07",
+      "latest": "3.15",
+      "released_at": "2026-10-09",
       "status": "UP_TO_DATE"
     },
     {
@@ -1324,8 +1324,8 @@
       "buildpack": "bun",
       "current": "1.3",
       "latest": "1.4",
-      "released_at": "2026-09-05",
-      "status": "BEHIND"
+      "released_at": "2026-10-10",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-shell",
@@ -1443,8 +1443,8 @@
       "course": "build-your-own-shell",
       "buildpack": "python",
       "current": "3.14",
-      "latest": "3.14",
-      "released_at": "2025-10-07",
+      "latest": "3.15",
+      "released_at": "2026-10-09",
       "status": "UP_TO_DATE"
     },
     {
@@ -1484,8 +1484,8 @@
       "buildpack": "bun",
       "current": "1.3",
       "latest": "1.4",
-      "released_at": "2026-09-05",
-      "status": "BEHIND"
+      "released_at": "2026-10-10",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-sqlite",
@@ -1579,8 +1579,8 @@
       "course": "build-your-own-sqlite",
       "buildpack": "python",
       "current": "3.14",
-      "latest": "3.14",
-      "released_at": "2025-10-07",
+      "latest": "3.15",
+      "released_at": "2026-10-09",
       "status": "UP_TO_DATE"
     },
     {
