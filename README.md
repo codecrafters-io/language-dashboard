@@ -122,17 +122,17 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Crystal](https://app.codecrafters.io/tracks/crystal)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️      | v1.21            | 2026-09-26     | v1.1                    |
-| Interpreter: ❌ | v1.21            | 2026-09-26     | -                       |
-| Git: ❌         | v1.21            | 2026-09-26     | -                       |
-| Sqlite: ❌      | v1.21            | 2026-09-26     | -                       |
-| DNS server: ❌  | v1.21            | 2026-09-26     | -                       |
-| HTTP server: ❌ | v1.21            | 2026-09-26     | -                       |
-| Bittorrent: ❌  | v1.21            | 2026-09-26     | -                       |
-| Grep: ❌        | v1.21            | 2026-09-26     | -                       |
-| Shell: ❌       | v1.21            | 2026-09-26     | -                       |
-| Kafka: ❌       | v1.21            | 2026-09-26     | -                       |
-| Claude Code: ❌ | v1.21            | 2026-09-26     | -                       |
+| Redis: ✅       | v1.22            | 2026-10-12     | v1.1                    |
+| Interpreter: ❌ | v1.22            | 2026-10-12     | -                       |
+| Git: ❌         | v1.22            | 2026-10-12     | -                       |
+| Sqlite: ❌      | v1.22            | 2026-10-12     | -                       |
+| DNS server: ❌  | v1.22            | 2026-10-12     | -                       |
+| HTTP server: ❌ | v1.22            | 2026-10-12     | -                       |
+| Bittorrent: ❌  | v1.22            | 2026-10-12     | -                       |
+| Grep: ❌        | v1.22            | 2026-10-12     | -                       |
+| Shell: ❌       | v1.22            | 2026-10-12     | -                       |
+| Kafka: ❌       | v1.22            | 2026-10-12     | -                       |
+| Claude Code: ❌ | v1.22            | 2026-10-12     | -                       |
 
 ### [Dart](https://app.codecrafters.io/tracks/dart)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -182,17 +182,17 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Gleam](https://app.codecrafters.io/tracks/gleam)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.19            | 2026-10-07     | v1.16                   |
-| Interpreter: ✅ | v1.19            | 2026-10-07     | v1.16                   |
-| Git: ✅         | v1.19            | 2026-10-07     | v1.16                   |
-| Sqlite: ✅      | v1.19            | 2026-10-07     | v1.16                   |
-| HTTP server: ✅ | v1.19            | 2026-10-07     | v1.16                   |
-| Grep: ✅        | v1.19            | 2026-10-07     | v1.16                   |
-| Shell: ✅       | v1.19            | 2026-10-07     | v1.16                   |
-| Kafka: ✅       | v1.19            | 2026-10-07     | v1.16                   |
-| DNS server: ❌  | v1.19            | 2026-10-07     | -                       |
-| Bittorrent: ❌  | v1.19            | 2026-10-07     | -                       |
-| Claude Code: ❌ | v1.19            | 2026-10-07     | -                       |
+| Redis: ✅       | v1.19            | 2026-10-12     | v1.16                   |
+| Interpreter: ✅ | v1.19            | 2026-10-12     | v1.16                   |
+| Git: ✅         | v1.19            | 2026-10-12     | v1.16                   |
+| Sqlite: ✅      | v1.19            | 2026-10-12     | v1.16                   |
+| HTTP server: ✅ | v1.19            | 2026-10-12     | v1.16                   |
+| Grep: ✅        | v1.19            | 2026-10-12     | v1.16                   |
+| Shell: ✅       | v1.19            | 2026-10-12     | v1.16                   |
+| Kafka: ✅       | v1.19            | 2026-10-12     | v1.16                   |
+| DNS server: ❌  | v1.19            | 2026-10-12     | -                       |
+| Bittorrent: ❌  | v1.19            | 2026-10-12     | -                       |
+| Claude Code: ❌ | v1.19            | 2026-10-12     | -                       |
 
 ### [Haskell](https://app.codecrafters.io/tracks/haskell)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
