@@ -135,19 +135,19 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Claude Code: ❌ | v1.22            | 2026-10-12     | -                       |
 
 ### [Dart](https://app.codecrafters.io/tracks/dart)
-| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v3.13            | 2026-09-29     | v3.11                   |
-| HTTP server: ✅ | v3.13            | 2026-09-29     | v3.4                    |
-| Shell: ✅       | v3.13            | 2026-09-29     | v3.11                   |
-| Interpreter: ❌ | v3.13            | 2026-09-29     | -                       |
-| Git: ❌         | v3.13            | 2026-09-29     | -                       |
-| Sqlite: ❌      | v3.13            | 2026-09-29     | -                       |
-| DNS server: ❌  | v3.13            | 2026-09-29     | -                       |
-| Bittorrent: ❌  | v3.13            | 2026-09-29     | -                       |
-| Grep: ❌        | v3.13            | 2026-09-29     | -                       |
-| Kafka: ❌       | v3.13            | 2026-09-29     | -                       |
-| Claude Code: ❌ | v3.13            | 2026-09-29     | -                       |
+| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:----------------|:-----------------|:---------------|:------------------------|
+| Redis: ⚠️       | v3.13            | 2026-09-29     | v3.11                   |
+| HTTP server: ⚠️ | v3.13            | 2026-09-29     | v3.4                    |
+| Shell: ⚠️       | v3.13            | 2026-09-29     | v3.11                   |
+| Interpreter: ❌  | v3.13            | 2026-09-29     | -                       |
+| Git: ❌          | v3.13            | 2026-09-29     | -                       |
+| Sqlite: ❌       | v3.13            | 2026-09-29     | -                       |
+| DNS server: ❌   | v3.13            | 2026-09-29     | -                       |
+| Bittorrent: ❌   | v3.13            | 2026-09-29     | -                       |
+| Grep: ❌         | v3.13            | 2026-09-29     | -                       |
+| Kafka: ❌        | v3.13            | 2026-09-29     | -                       |
+| Claude Code: ❌  | v3.13            | 2026-09-29     | -                       |
 
 ### [C#](https://app.codecrafters.io/tracks/dotnet)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
