@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T00:53:24+00:00",
+  "generated_at": "2026-10-16T00:52:26+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -95,7 +95,7 @@
     },
     "swift": {
       "latest": "6.4",
-      "released_at": "2026-09-15"
+      "released_at": "2026-10-15"
     },
     "zig": {
       "latest": "0.17",
@@ -205,7 +205,7 @@
       "current": "1.96",
       "latest": "1.99",
       "released_at": "2026-10-01",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-bittorrent",
@@ -221,7 +221,7 @@
       "current": "0.16",
       "latest": "0.17",
       "released_at": "2026-10-01",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-claude-code",
@@ -293,7 +293,7 @@
       "current": "1.98",
       "latest": "1.99",
       "released_at": "2026-10-01",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-claude-code",
@@ -301,7 +301,7 @@
       "current": "0.16",
       "latest": "0.17",
       "released_at": "2026-10-01",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-dns-server",
@@ -405,7 +405,7 @@
       "current": "1.96",
       "latest": "1.99",
       "released_at": "2026-10-01",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-dns-server",
@@ -413,7 +413,7 @@
       "current": "0.16",
       "latest": "0.17",
       "released_at": "2026-10-01",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-git",
@@ -541,7 +541,7 @@
       "current": "1.96",
       "latest": "1.99",
       "released_at": "2026-10-01",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-git",
@@ -549,7 +549,7 @@
       "current": "0.16",
       "latest": "0.17",
       "released_at": "2026-10-01",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-grep",
@@ -669,7 +669,7 @@
       "current": "1.96",
       "latest": "1.99",
       "released_at": "2026-10-01",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-grep",
@@ -677,7 +677,7 @@
       "current": "0.16",
       "latest": "0.17",
       "released_at": "2026-10-01",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-http-server",
@@ -829,7 +829,7 @@
       "current": "1.96",
       "latest": "1.99",
       "released_at": "2026-10-01",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-http-server",
@@ -845,7 +845,7 @@
       "current": "0.16",
       "latest": "0.17",
       "released_at": "2026-10-01",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-interpreter",
@@ -946,10 +946,10 @@
     {
       "course": "build-your-own-interpreter",
       "buildpack": "ocaml",
-      "current": "5.4",
+      "current": "5.5",
       "latest": "5.5",
       "released_at": "2026-09-04",
-      "status": "BEHIND"
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-interpreter",
@@ -989,7 +989,7 @@
       "current": "1.96",
       "latest": "1.99",
       "released_at": "2026-10-01",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-interpreter",
@@ -1004,8 +1004,8 @@
       "buildpack": "swift",
       "current": "6.0",
       "latest": "6.4",
-      "released_at": "2026-09-15",
-      "status": "BEHIND"
+      "released_at": "2026-10-15",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-interpreter",
@@ -1013,7 +1013,7 @@
       "current": "0.16",
       "latest": "0.17",
       "released_at": "2026-10-01",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-kafka",
@@ -1109,7 +1109,7 @@
       "current": "1.96",
       "latest": "1.99",
       "released_at": "2026-10-01",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-kafka",
@@ -1125,7 +1125,7 @@
       "current": "0.16",
       "latest": "0.17",
       "released_at": "2026-10-01",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-redis",
@@ -1242,10 +1242,10 @@
     {
       "course": "build-your-own-redis",
       "buildpack": "ocaml",
-      "current": "5.4",
+      "current": "5.5",
       "latest": "5.5",
       "released_at": "2026-09-04",
-      "status": "BEHIND"
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-redis",
@@ -1285,7 +1285,7 @@
       "current": "1.96",
       "latest": "1.99",
       "released_at": "2026-10-01",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-redis",
@@ -1300,8 +1300,8 @@
       "buildpack": "swift",
       "current": "6.3",
       "latest": "6.4",
-      "released_at": "2026-09-15",
-      "status": "BEHIND"
+      "released_at": "2026-10-15",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-redis",
@@ -1309,7 +1309,7 @@
       "current": "0.16",
       "latest": "0.17",
       "released_at": "2026-10-01",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-shell",
@@ -1418,10 +1418,10 @@
     {
       "course": "build-your-own-shell",
       "buildpack": "ocaml",
-      "current": "5.4",
+      "current": "5.5",
       "latest": "5.5",
       "released_at": "2026-09-04",
-      "status": "BEHIND"
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-shell",
@@ -1461,7 +1461,7 @@
       "current": "1.96",
       "latest": "1.99",
       "released_at": "2026-10-01",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-shell",
@@ -1477,7 +1477,7 @@
       "current": "0.16",
       "latest": "0.17",
       "released_at": "2026-10-01",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-sqlite",
@@ -1597,15 +1597,15 @@
       "current": "1.96",
       "latest": "1.99",
       "released_at": "2026-10-01",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-sqlite",
       "buildpack": "swift",
       "current": "5.7",
       "latest": "6.4",
-      "released_at": "2026-09-15",
-      "status": "BEHIND"
+      "released_at": "2026-10-15",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-sqlite",
@@ -1613,7 +1613,7 @@
       "current": "0.16",
       "latest": "0.17",
       "released_at": "2026-10-01",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     }
   ]
 }
