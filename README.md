@@ -375,17 +375,17 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Claude Code: ✅ | v1.4             | 2026-10-10     | v1.3                    |
 
 ### [Zig](https://app.codecrafters.io/tracks/zig)
-| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:----------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️       | v0.17            | 2026-10-01     | v0.16                   |
-| Interpreter: ⚠️ | v0.17            | 2026-10-01     | v0.16                   |
-| Git: ⚠️         | v0.17            | 2026-10-01     | v0.16                   |
-| Sqlite: ⚠️      | v0.17            | 2026-10-01     | v0.16                   |
-| DNS server: ⚠️  | v0.17            | 2026-10-01     | v0.16                   |
-| HTTP server: ⚠️ | v0.17            | 2026-10-01     | v0.16                   |
-| Bittorrent: ⚠️  | v0.17            | 2026-10-01     | v0.16                   |
-| Grep: ⚠️        | v0.17            | 2026-10-01     | v0.16                   |
-| Shell: ⚠️       | v0.17            | 2026-10-01     | v0.16                   |
-| Kafka: ⚠️       | v0.17            | 2026-10-01     | v0.16                   |
-| Claude Code: ⚠️ | v0.17            | 2026-10-01     | v0.16                   |
+| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:---------------|:-----------------|:---------------|:------------------------|
+| Redis: ⚠️      | v0.17            | 2026-10-01     | v0.16                   |
+| Interpreter: ✅ | v0.17            | 2026-10-01     | v0.17                   |
+| Git: ✅         | v0.17            | 2026-10-01     | v0.17                   |
+| Sqlite: ✅      | v0.17            | 2026-10-01     | v0.17                   |
+| DNS server: ✅  | v0.17            | 2026-10-01     | v0.17                   |
+| HTTP server: ✅ | v0.17            | 2026-10-01     | v0.17                   |
+| Bittorrent: ✅  | v0.17            | 2026-10-01     | v0.17                   |
+| Grep: ✅        | v0.17            | 2026-10-01     | v0.17                   |
+| Shell: ✅       | v0.17            | 2026-10-01     | v0.17                   |
+| Kafka: ✅       | v0.17            | 2026-10-01     | v0.17                   |
+| Claude Code: ✅ | v0.17            | 2026-10-01     | v0.17                   |
 

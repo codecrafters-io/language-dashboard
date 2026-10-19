@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T00:52:26+00:00",
+  "generated_at": "2026-10-19T00:58:47+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -218,10 +218,10 @@
     {
       "course": "build-your-own-bittorrent",
       "buildpack": "zig",
-      "current": "0.16",
+      "current": "0.17",
       "latest": "0.17",
       "released_at": "2026-10-01",
-      "status": "BEHIND"
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-claude-code",
@@ -298,10 +298,10 @@
     {
       "course": "build-your-own-claude-code",
       "buildpack": "zig",
-      "current": "0.16",
+      "current": "0.17",
       "latest": "0.17",
       "released_at": "2026-10-01",
-      "status": "BEHIND"
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-dns-server",
@@ -410,10 +410,10 @@
     {
       "course": "build-your-own-dns-server",
       "buildpack": "zig",
-      "current": "0.16",
+      "current": "0.17",
       "latest": "0.17",
       "released_at": "2026-10-01",
-      "status": "BEHIND"
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-git",
@@ -546,10 +546,10 @@
     {
       "course": "build-your-own-git",
       "buildpack": "zig",
-      "current": "0.16",
+      "current": "0.17",
       "latest": "0.17",
       "released_at": "2026-10-01",
-      "status": "BEHIND"
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-grep",
@@ -674,10 +674,10 @@
     {
       "course": "build-your-own-grep",
       "buildpack": "zig",
-      "current": "0.16",
+      "current": "0.17",
       "latest": "0.17",
       "released_at": "2026-10-01",
-      "status": "BEHIND"
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-http-server",
@@ -842,10 +842,10 @@
     {
       "course": "build-your-own-http-server",
       "buildpack": "zig",
-      "current": "0.16",
+      "current": "0.17",
       "latest": "0.17",
       "released_at": "2026-10-01",
-      "status": "BEHIND"
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-interpreter",
@@ -1010,10 +1010,10 @@
     {
       "course": "build-your-own-interpreter",
       "buildpack": "zig",
-      "current": "0.16",
+      "current": "0.17",
       "latest": "0.17",
       "released_at": "2026-10-01",
-      "status": "BEHIND"
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-kafka",
@@ -1122,10 +1122,10 @@
     {
       "course": "build-your-own-kafka",
       "buildpack": "zig",
-      "current": "0.16",
+      "current": "0.17",
       "latest": "0.17",
       "released_at": "2026-10-01",
-      "status": "BEHIND"
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-redis",
@@ -1474,10 +1474,10 @@
     {
       "course": "build-your-own-shell",
       "buildpack": "zig",
-      "current": "0.16",
+      "current": "0.17",
       "latest": "0.17",
       "released_at": "2026-10-01",
-      "status": "BEHIND"
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-sqlite",
@@ -1610,10 +1610,10 @@
     {
       "course": "build-your-own-sqlite",
       "buildpack": "zig",
-      "current": "0.16",
+      "current": "0.17",
       "latest": "0.17",
       "released_at": "2026-10-01",
-      "status": "BEHIND"
+      "status": "UP_TO_DATE"
     }
   ]
 }
