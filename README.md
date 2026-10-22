@@ -332,17 +332,17 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Scala](https://app.codecrafters.io/tracks/scala)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v3.9             | 2026-09-03     | v3.9                    |
-| Interpreter: ✅ | v3.9             | 2026-09-03     | v3.9                    |
-| HTTP server: ✅ | v3.9             | 2026-09-03     | v3.9                    |
-| Bittorrent: ✅  | v3.9             | 2026-09-03     | v3.9                    |
-| Shell: ✅       | v3.9             | 2026-09-03     | v3.9                    |
-| Kafka: ✅       | v3.9             | 2026-09-03     | v3.9                    |
-| Git: ❌         | v3.9             | 2026-09-03     | -                       |
-| Sqlite: ❌      | v3.9             | 2026-09-03     | -                       |
-| DNS server: ❌  | v3.9             | 2026-09-03     | -                       |
-| Grep: ❌        | v3.9             | 2026-09-03     | -                       |
-| Claude Code: ❌ | v3.9             | 2026-09-03     | -                       |
+| Redis: ✅       | v3.10            | 2026-10-12     | v3.9                    |
+| Interpreter: ✅ | v3.10            | 2026-10-12     | v3.9                    |
+| HTTP server: ✅ | v3.10            | 2026-10-12     | v3.9                    |
+| Bittorrent: ✅  | v3.10            | 2026-10-12     | v3.9                    |
+| Shell: ✅       | v3.10            | 2026-10-12     | v3.9                    |
+| Kafka: ✅       | v3.10            | 2026-10-12     | v3.9                    |
+| Git: ❌         | v3.10            | 2026-10-12     | -                       |
+| Sqlite: ❌      | v3.10            | 2026-10-12     | -                       |
+| DNS server: ❌  | v3.10            | 2026-10-12     | -                       |
+| Grep: ❌        | v3.10            | 2026-10-12     | -                       |
+| Claude Code: ❌ | v3.10            | 2026-10-12     | -                       |
 
 ### [Swift](https://app.codecrafters.io/tracks/swift)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |

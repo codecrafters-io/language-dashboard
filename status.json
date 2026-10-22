@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T00:54:22+00:00",
+  "generated_at": "2026-10-22T00:53:26+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -90,8 +90,8 @@
       "released_at": "2026-10-01"
     },
     "scala": {
-      "latest": "3.9",
-      "released_at": "2026-09-03"
+      "latest": "3.10",
+      "released_at": "2026-10-12"
     },
     "swift": {
       "latest": "6.4",
@@ -211,8 +211,8 @@
       "course": "build-your-own-bittorrent",
       "buildpack": "scala",
       "current": "3.9",
-      "latest": "3.9",
-      "released_at": "2026-09-03",
+      "latest": "3.10",
+      "released_at": "2026-10-12",
       "status": "UP_TO_DATE"
     },
     {
@@ -835,8 +835,8 @@
       "course": "build-your-own-http-server",
       "buildpack": "scala",
       "current": "3.9",
-      "latest": "3.9",
-      "released_at": "2026-09-03",
+      "latest": "3.10",
+      "released_at": "2026-10-12",
       "status": "UP_TO_DATE"
     },
     {
@@ -995,8 +995,8 @@
       "course": "build-your-own-interpreter",
       "buildpack": "scala",
       "current": "3.9",
-      "latest": "3.9",
-      "released_at": "2026-09-03",
+      "latest": "3.10",
+      "released_at": "2026-10-12",
       "status": "UP_TO_DATE"
     },
     {
@@ -1115,8 +1115,8 @@
       "course": "build-your-own-kafka",
       "buildpack": "scala",
       "current": "3.9",
-      "latest": "3.9",
-      "released_at": "2026-09-03",
+      "latest": "3.10",
+      "released_at": "2026-10-12",
       "status": "UP_TO_DATE"
     },
     {
@@ -1291,8 +1291,8 @@
       "course": "build-your-own-redis",
       "buildpack": "scala",
       "current": "3.9",
-      "latest": "3.9",
-      "released_at": "2026-09-03",
+      "latest": "3.10",
+      "released_at": "2026-10-12",
       "status": "UP_TO_DATE"
     },
     {
@@ -1467,8 +1467,8 @@
       "course": "build-your-own-shell",
       "buildpack": "scala",
       "current": "3.9",
-      "latest": "3.9",
-      "released_at": "2026-09-03",
+      "latest": "3.10",
+      "released_at": "2026-10-12",
       "status": "UP_TO_DATE"
     },
     {
