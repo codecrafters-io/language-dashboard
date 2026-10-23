@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T00:53:26+00:00",
+  "generated_at": "2026-10-23T00:56:03+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -7,7 +7,7 @@
     },
     "bun": {
       "latest": "1.4",
-      "released_at": "2026-10-10"
+      "released_at": "2026-10-22"
     },
     "c": {
       "latest": "23.0",
@@ -23,11 +23,11 @@
     },
     "crystal": {
       "latest": "1.22",
-      "released_at": "2026-10-12"
+      "released_at": "2026-10-22"
     },
     "dart": {
       "latest": "3.13",
-      "released_at": "2026-10-20"
+      "released_at": "2026-10-22"
     },
     "dotnet": {
       "latest": "10.0",
@@ -108,7 +108,7 @@
       "buildpack": "bun",
       "current": "1.3",
       "latest": "1.4",
-      "released_at": "2026-10-10",
+      "released_at": "2026-10-22",
       "status": "UP_TO_DATE"
     },
     {
@@ -228,7 +228,7 @@
       "buildpack": "bun",
       "current": "1.3",
       "latest": "1.4",
-      "released_at": "2026-10-10",
+      "released_at": "2026-10-22",
       "status": "UP_TO_DATE"
     },
     {
@@ -308,7 +308,7 @@
       "buildpack": "bun",
       "current": "1.3",
       "latest": "1.4",
-      "released_at": "2026-10-10",
+      "released_at": "2026-10-22",
       "status": "UP_TO_DATE"
     },
     {
@@ -420,7 +420,7 @@
       "buildpack": "bun",
       "current": "1.3",
       "latest": "1.4",
-      "released_at": "2026-10-10",
+      "released_at": "2026-10-22",
       "status": "UP_TO_DATE"
     },
     {
@@ -556,7 +556,7 @@
       "buildpack": "bun",
       "current": "1.3",
       "latest": "1.4",
-      "released_at": "2026-10-10",
+      "released_at": "2026-10-22",
       "status": "UP_TO_DATE"
     },
     {
@@ -684,7 +684,7 @@
       "buildpack": "bun",
       "current": "1.3",
       "latest": "1.4",
-      "released_at": "2026-10-10",
+      "released_at": "2026-10-22",
       "status": "UP_TO_DATE"
     },
     {
@@ -716,7 +716,7 @@
       "buildpack": "dart",
       "current": "3.4",
       "latest": "3.13",
-      "released_at": "2026-10-20",
+      "released_at": "2026-10-22",
       "status": "UP_TO_DATE"
     },
     {
@@ -852,7 +852,7 @@
       "buildpack": "bun",
       "current": "1.3",
       "latest": "1.4",
-      "released_at": "2026-10-10",
+      "released_at": "2026-10-22",
       "status": "UP_TO_DATE"
     },
     {
@@ -1020,7 +1020,7 @@
       "buildpack": "bun",
       "current": "1.3",
       "latest": "1.4",
-      "released_at": "2026-10-10",
+      "released_at": "2026-10-22",
       "status": "UP_TO_DATE"
     },
     {
@@ -1132,7 +1132,7 @@
       "buildpack": "bun",
       "current": "1.3",
       "latest": "1.4",
-      "released_at": "2026-10-10",
+      "released_at": "2026-10-22",
       "status": "UP_TO_DATE"
     },
     {
@@ -1164,7 +1164,7 @@
       "buildpack": "crystal",
       "current": "1.1",
       "latest": "1.22",
-      "released_at": "2026-10-12",
+      "released_at": "2026-10-22",
       "status": "UP_TO_DATE"
     },
     {
@@ -1172,7 +1172,7 @@
       "buildpack": "dart",
       "current": "3.11",
       "latest": "3.13",
-      "released_at": "2026-10-20",
+      "released_at": "2026-10-22",
       "status": "UP_TO_DATE"
     },
     {
@@ -1324,7 +1324,7 @@
       "buildpack": "bun",
       "current": "1.3",
       "latest": "1.4",
-      "released_at": "2026-10-10",
+      "released_at": "2026-10-22",
       "status": "UP_TO_DATE"
     },
     {
@@ -1348,7 +1348,7 @@
       "buildpack": "dart",
       "current": "3.11",
       "latest": "3.13",
-      "released_at": "2026-10-20",
+      "released_at": "2026-10-22",
       "status": "UP_TO_DATE"
     },
     {
@@ -1484,7 +1484,7 @@
       "buildpack": "bun",
       "current": "1.3",
       "latest": "1.4",
-      "released_at": "2026-10-10",
+      "released_at": "2026-10-22",
       "status": "UP_TO_DATE"
     },
     {
