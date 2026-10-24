@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T00:56:03+00:00",
+  "generated_at": "2026-10-24T00:52:37+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -67,7 +67,7 @@
     },
     "ocaml": {
       "latest": "5.5",
-      "released_at": "2026-09-04"
+      "released_at": "2026-10-23"
     },
     "odin": {
       "latest": "2026.10",
@@ -189,7 +189,7 @@
       "current": "3.14",
       "latest": "3.15",
       "released_at": "2026-10-09",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-bittorrent",
@@ -285,7 +285,7 @@
       "current": "3.14",
       "latest": "3.15",
       "released_at": "2026-10-09",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-claude-code",
@@ -389,7 +389,7 @@
       "current": "3.14",
       "latest": "3.15",
       "released_at": "2026-10-09",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-dns-server",
@@ -508,7 +508,7 @@
       "buildpack": "ocaml",
       "current": "5.5",
       "latest": "5.5",
-      "released_at": "2026-09-04",
+      "released_at": "2026-10-23",
       "status": "UP_TO_DATE"
     },
     {
@@ -525,7 +525,7 @@
       "current": "3.14",
       "latest": "3.15",
       "released_at": "2026-10-09",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-git",
@@ -653,7 +653,7 @@
       "current": "3.14",
       "latest": "3.15",
       "released_at": "2026-10-09",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-grep",
@@ -788,7 +788,7 @@
       "buildpack": "ocaml",
       "current": "5.5",
       "latest": "5.5",
-      "released_at": "2026-09-04",
+      "released_at": "2026-10-23",
       "status": "UP_TO_DATE"
     },
     {
@@ -813,7 +813,7 @@
       "current": "3.14",
       "latest": "3.15",
       "released_at": "2026-10-09",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-http-server",
@@ -948,7 +948,7 @@
       "buildpack": "ocaml",
       "current": "5.5",
       "latest": "5.5",
-      "released_at": "2026-09-04",
+      "released_at": "2026-10-23",
       "status": "UP_TO_DATE"
     },
     {
@@ -973,7 +973,7 @@
       "current": "3.14",
       "latest": "3.15",
       "released_at": "2026-10-09",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-interpreter",
@@ -1101,7 +1101,7 @@
       "current": "3.14",
       "latest": "3.15",
       "released_at": "2026-10-09",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-kafka",
@@ -1244,7 +1244,7 @@
       "buildpack": "ocaml",
       "current": "5.5",
       "latest": "5.5",
-      "released_at": "2026-09-04",
+      "released_at": "2026-10-23",
       "status": "UP_TO_DATE"
     },
     {
@@ -1269,7 +1269,7 @@
       "current": "3.14",
       "latest": "3.15",
       "released_at": "2026-10-09",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-redis",
@@ -1420,7 +1420,7 @@
       "buildpack": "ocaml",
       "current": "5.5",
       "latest": "5.5",
-      "released_at": "2026-09-04",
+      "released_at": "2026-10-23",
       "status": "UP_TO_DATE"
     },
     {
@@ -1445,7 +1445,7 @@
       "current": "3.14",
       "latest": "3.15",
       "released_at": "2026-10-09",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-shell",
@@ -1581,7 +1581,7 @@
       "current": "3.14",
       "latest": "3.15",
       "released_at": "2026-10-09",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-sqlite",
