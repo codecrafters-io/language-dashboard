@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T00:52:37+00:00",
+  "generated_at": "2026-10-27T00:56:19+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -213,7 +213,7 @@
       "current": "3.9",
       "latest": "3.10",
       "released_at": "2026-10-12",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-bittorrent",
@@ -461,7 +461,7 @@
       "current": "1.16",
       "latest": "1.19",
       "released_at": "2026-10-12",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-git",
@@ -589,7 +589,7 @@
       "current": "1.16",
       "latest": "1.19",
       "released_at": "2026-10-12",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-grep",
@@ -741,7 +741,7 @@
       "current": "1.16",
       "latest": "1.19",
       "released_at": "2026-10-12",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-http-server",
@@ -837,7 +837,7 @@
       "current": "3.9",
       "latest": "3.10",
       "released_at": "2026-10-12",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-http-server",
@@ -901,7 +901,7 @@
       "current": "1.16",
       "latest": "1.19",
       "released_at": "2026-10-12",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-interpreter",
@@ -997,7 +997,7 @@
       "current": "3.9",
       "latest": "3.10",
       "released_at": "2026-10-12",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-interpreter",
@@ -1061,7 +1061,7 @@
       "current": "1.16",
       "latest": "1.19",
       "released_at": "2026-10-12",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-kafka",
@@ -1117,7 +1117,7 @@
       "current": "3.9",
       "latest": "3.10",
       "released_at": "2026-10-12",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-kafka",
@@ -1197,7 +1197,7 @@
       "current": "1.16",
       "latest": "1.19",
       "released_at": "2026-10-12",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-redis",
@@ -1293,7 +1293,7 @@
       "current": "3.9",
       "latest": "3.10",
       "released_at": "2026-10-12",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-redis",
@@ -1373,7 +1373,7 @@
       "current": "1.16",
       "latest": "1.19",
       "released_at": "2026-10-12",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-shell",
@@ -1469,7 +1469,7 @@
       "current": "3.9",
       "latest": "3.10",
       "released_at": "2026-10-12",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-shell",
@@ -1533,7 +1533,7 @@
       "current": "1.16",
       "latest": "1.19",
       "released_at": "2026-10-12",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-sqlite",
