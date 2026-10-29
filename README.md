@@ -242,17 +242,17 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Nim](https://app.codecrafters.io/tracks/nim)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ❌       | v2.2             | 2026-09-07     | -                       |
-| Interpreter: ❌ | v2.2             | 2026-09-07     | -                       |
-| Git: ❌         | v2.2             | 2026-09-07     | -                       |
-| Sqlite: ❌      | v2.2             | 2026-09-07     | -                       |
-| DNS server: ❌  | v2.2             | 2026-09-07     | -                       |
-| HTTP server: ❌ | v2.2             | 2026-09-07     | -                       |
-| Bittorrent: ❌  | v2.2             | 2026-09-07     | -                       |
-| Grep: ❌        | v2.2             | 2026-09-07     | -                       |
-| Shell: ❌       | v2.2             | 2026-09-07     | -                       |
-| Kafka: ❌       | v2.2             | 2026-09-07     | -                       |
-| Claude Code: ❌ | v2.2             | 2026-09-07     | -                       |
+| Redis: ❌       | v2.4             | 2026-10-27     | -                       |
+| Interpreter: ❌ | v2.4             | 2026-10-27     | -                       |
+| Git: ❌         | v2.4             | 2026-10-27     | -                       |
+| Sqlite: ❌      | v2.4             | 2026-10-27     | -                       |
+| DNS server: ❌  | v2.4             | 2026-10-27     | -                       |
+| HTTP server: ❌ | v2.4             | 2026-10-27     | -                       |
+| Bittorrent: ❌  | v2.4             | 2026-10-27     | -                       |
+| Grep: ❌        | v2.4             | 2026-10-27     | -                       |
+| Shell: ❌       | v2.4             | 2026-10-27     | -                       |
+| Kafka: ❌       | v2.4             | 2026-10-27     | -                       |
+| Claude Code: ❌ | v2.4             | 2026-10-27     | -                       |
 
 ### [Javascript](https://app.codecrafters.io/tracks/nodejs)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |

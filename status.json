@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T00:56:19+00:00",
+  "generated_at": "2026-10-29T00:42:34+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -58,8 +58,8 @@
       "released_at": "2026-06-03"
     },
     "nim": {
-      "latest": "2.2",
-      "released_at": "2026-09-07"
+      "latest": "2.4",
+      "released_at": "2026-10-27"
     },
     "nodejs": {
       "latest": "26.0",
