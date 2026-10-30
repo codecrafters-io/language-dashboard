@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T00:42:34+00:00",
+  "generated_at": "2026-10-30T00:43:16+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -1005,7 +1005,7 @@
       "current": "6.0",
       "latest": "6.4",
       "released_at": "2026-10-15",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-interpreter",
@@ -1301,7 +1301,7 @@
       "current": "6.3",
       "latest": "6.4",
       "released_at": "2026-10-15",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-redis",
@@ -1605,7 +1605,7 @@
       "current": "5.7",
       "latest": "6.4",
       "released_at": "2026-10-15",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-sqlite",
