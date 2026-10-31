@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T00:43:16+00:00",
+  "generated_at": "2026-10-31T00:35:19+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -23,7 +23,7 @@
     },
     "crystal": {
       "latest": "1.22",
-      "released_at": "2026-10-22"
+      "released_at": "2026-10-30"
     },
     "dart": {
       "latest": "3.13",
@@ -95,7 +95,7 @@
     },
     "swift": {
       "latest": "6.4",
-      "released_at": "2026-10-15"
+      "released_at": "2026-10-30"
     },
     "zig": {
       "latest": "0.17",
@@ -1004,8 +1004,8 @@
       "buildpack": "swift",
       "current": "6.0",
       "latest": "6.4",
-      "released_at": "2026-10-15",
-      "status": "BEHIND"
+      "released_at": "2026-10-30",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-interpreter",
@@ -1164,7 +1164,7 @@
       "buildpack": "crystal",
       "current": "1.1",
       "latest": "1.22",
-      "released_at": "2026-10-22",
+      "released_at": "2026-10-30",
       "status": "UP_TO_DATE"
     },
     {
@@ -1300,8 +1300,8 @@
       "buildpack": "swift",
       "current": "6.3",
       "latest": "6.4",
-      "released_at": "2026-10-15",
-      "status": "BEHIND"
+      "released_at": "2026-10-30",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-redis",
@@ -1604,8 +1604,8 @@
       "buildpack": "swift",
       "current": "5.7",
       "latest": "6.4",
-      "released_at": "2026-10-15",
-      "status": "BEHIND"
+      "released_at": "2026-10-30",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-sqlite",
