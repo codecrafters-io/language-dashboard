@@ -285,19 +285,19 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Claude Code: ❌ | v5.5             | 2026-10-23     | -                       |
 
 ### [Odin](https://app.codecrafters.io/tracks/odin)
-| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:----------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️       | v2026.10         | 2026-10-06     | v2026.4                 |
-| Interpreter: ⚠️ | v2026.10         | 2026-10-06     | v2026.4                 |
-| HTTP server: ⚠️ | v2026.10         | 2026-10-06     | v2026.4                 |
-| Grep: ⚠️        | v2026.10         | 2026-10-06     | v2026.4                 |
-| Shell: ⚠️       | v2026.10         | 2026-10-06     | v2026.4                 |
-| Git: ❌          | v2026.10         | 2026-10-06     | -                       |
-| Sqlite: ❌       | v2026.10         | 2026-10-06     | -                       |
-| DNS server: ❌   | v2026.10         | 2026-10-06     | -                       |
-| Bittorrent: ❌   | v2026.10         | 2026-10-06     | -                       |
-| Kafka: ❌        | v2026.10         | 2026-10-06     | -                       |
-| Claude Code: ❌  | v2026.10         | 2026-10-06     | -                       |
+| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:---------------|:-----------------|:---------------|:------------------------|
+| Redis: ✅       | v2026.4          | 2026-04-03     | v2026.4                 |
+| Interpreter: ✅ | v2026.4          | 2026-04-03     | v2026.4                 |
+| HTTP server: ✅ | v2026.4          | 2026-04-03     | v2026.4                 |
+| Grep: ✅        | v2026.4          | 2026-04-03     | v2026.4                 |
+| Shell: ✅       | v2026.4          | 2026-04-03     | v2026.4                 |
+| Git: ❌         | v2026.4          | 2026-04-03     | -                       |
+| Sqlite: ❌      | v2026.4          | 2026-04-03     | -                       |
+| DNS server: ❌  | v2026.4          | 2026-04-03     | -                       |
+| Bittorrent: ❌  | v2026.4          | 2026-04-03     | -                       |
+| Kafka: ❌       | v2026.4          | 2026-04-03     | -                       |
+| Claude Code: ❌ | v2026.4          | 2026-04-03     | -                       |
 
 ### [PHP](https://app.codecrafters.io/tracks/php)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -377,15 +377,15 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Zig](https://app.codecrafters.io/tracks/zig)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️      | v0.17            | 2026-10-01     | v0.16                   |
-| Interpreter: ✅ | v0.17            | 2026-10-01     | v0.17                   |
-| Git: ✅         | v0.17            | 2026-10-01     | v0.17                   |
-| Sqlite: ✅      | v0.17            | 2026-10-01     | v0.17                   |
-| DNS server: ✅  | v0.17            | 2026-10-01     | v0.17                   |
-| HTTP server: ✅ | v0.17            | 2026-10-01     | v0.17                   |
-| Bittorrent: ✅  | v0.17            | 2026-10-01     | v0.17                   |
-| Grep: ✅        | v0.17            | 2026-10-01     | v0.17                   |
-| Shell: ✅       | v0.17            | 2026-10-01     | v0.17                   |
-| Kafka: ✅       | v0.17            | 2026-10-01     | v0.17                   |
-| Claude Code: ✅ | v0.17            | 2026-10-01     | v0.17                   |
+| Redis: ✅       | v0.17            | 2026-11-02     | v0.16                   |
+| Interpreter: ✅ | v0.17            | 2026-11-02     | v0.17                   |
+| Git: ✅         | v0.17            | 2026-11-02     | v0.17                   |
+| Sqlite: ✅      | v0.17            | 2026-11-02     | v0.17                   |
+| DNS server: ✅  | v0.17            | 2026-11-02     | v0.17                   |
+| HTTP server: ✅ | v0.17            | 2026-11-02     | v0.17                   |
+| Bittorrent: ✅  | v0.17            | 2026-11-02     | v0.17                   |
+| Grep: ✅        | v0.17            | 2026-11-02     | v0.17                   |
+| Shell: ✅       | v0.17            | 2026-11-02     | v0.17                   |
+| Kafka: ✅       | v0.17            | 2026-11-02     | v0.17                   |
+| Claude Code: ✅ | v0.17            | 2026-11-02     | v0.17                   |
 
