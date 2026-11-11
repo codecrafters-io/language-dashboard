@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T00:36:12+00:00",
+  "generated_at": "2026-11-11T00:35:50+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -30,8 +30,8 @@
       "released_at": "2026-10-22"
     },
     "dotnet": {
-      "latest": "10.0",
-      "released_at": "2025-11-11"
+      "latest": "11.0",
+      "released_at": "2026-11-10"
     },
     "elixir": {
       "latest": "1.20",
@@ -131,9 +131,9 @@
       "course": "build-your-own-bittorrent",
       "buildpack": "dotnet",
       "current": "9.0",
-      "latest": "10.0",
-      "released_at": "2025-11-11",
-      "status": "OUTDATED"
+      "latest": "11.0",
+      "released_at": "2026-11-10",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-bittorrent",
@@ -251,8 +251,8 @@
       "course": "build-your-own-claude-code",
       "buildpack": "dotnet",
       "current": "10.0",
-      "latest": "10.0",
-      "released_at": "2025-11-11",
+      "latest": "11.0",
+      "released_at": "2026-11-10",
       "status": "UP_TO_DATE"
     },
     {
@@ -331,9 +331,9 @@
       "course": "build-your-own-dns-server",
       "buildpack": "dotnet",
       "current": "9.0",
-      "latest": "10.0",
-      "released_at": "2025-11-11",
-      "status": "OUTDATED"
+      "latest": "11.0",
+      "released_at": "2026-11-10",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-dns-server",
@@ -443,9 +443,9 @@
       "course": "build-your-own-git",
       "buildpack": "dotnet",
       "current": "9.0",
-      "latest": "10.0",
-      "released_at": "2025-11-11",
-      "status": "OUTDATED"
+      "latest": "11.0",
+      "released_at": "2026-11-10",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-git",
@@ -579,9 +579,9 @@
       "course": "build-your-own-grep",
       "buildpack": "dotnet",
       "current": "9.0",
-      "latest": "10.0",
-      "released_at": "2025-11-11",
-      "status": "OUTDATED"
+      "latest": "11.0",
+      "released_at": "2026-11-10",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-grep",
@@ -723,9 +723,9 @@
       "course": "build-your-own-http-server",
       "buildpack": "dotnet",
       "current": "9.0",
-      "latest": "10.0",
-      "released_at": "2025-11-11",
-      "status": "OUTDATED"
+      "latest": "11.0",
+      "released_at": "2026-11-10",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-http-server",
@@ -883,9 +883,9 @@
       "course": "build-your-own-interpreter",
       "buildpack": "dotnet",
       "current": "9.0",
-      "latest": "10.0",
-      "released_at": "2025-11-11",
-      "status": "OUTDATED"
+      "latest": "11.0",
+      "released_at": "2026-11-10",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-interpreter",
@@ -1043,9 +1043,9 @@
       "course": "build-your-own-kafka",
       "buildpack": "dotnet",
       "current": "9.0",
-      "latest": "10.0",
-      "released_at": "2025-11-11",
-      "status": "OUTDATED"
+      "latest": "11.0",
+      "released_at": "2026-11-10",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-kafka",
@@ -1179,8 +1179,8 @@
       "course": "build-your-own-redis",
       "buildpack": "dotnet",
       "current": "10.0",
-      "latest": "10.0",
-      "released_at": "2025-11-11",
+      "latest": "11.0",
+      "released_at": "2026-11-10",
       "status": "UP_TO_DATE"
     },
     {
@@ -1355,8 +1355,8 @@
       "course": "build-your-own-shell",
       "buildpack": "dotnet",
       "current": "10.0",
-      "latest": "10.0",
-      "released_at": "2025-11-11",
+      "latest": "11.0",
+      "released_at": "2026-11-10",
       "status": "UP_TO_DATE"
     },
     {
@@ -1515,9 +1515,9 @@
       "course": "build-your-own-sqlite",
       "buildpack": "dotnet",
       "current": "9.0",
-      "latest": "10.0",
-      "released_at": "2025-11-11",
-      "status": "OUTDATED"
+      "latest": "11.0",
+      "released_at": "2026-11-10",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-sqlite",

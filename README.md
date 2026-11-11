@@ -152,17 +152,17 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [C#](https://app.codecrafters.io/tracks/dotnet)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v10.0            | 2025-11-11     | v10.0                   |
-| Interpreter: ❗ | v10.0            | 2025-11-11     | v9.0                    |
-| Git: ❗         | v10.0            | 2025-11-11     | v9.0                    |
-| Sqlite: ❗      | v10.0            | 2025-11-11     | v9.0                    |
-| DNS server: ❗  | v10.0            | 2025-11-11     | v9.0                    |
-| HTTP server: ❗ | v10.0            | 2025-11-11     | v9.0                    |
-| Bittorrent: ❗  | v10.0            | 2025-11-11     | v9.0                    |
-| Grep: ❗        | v10.0            | 2025-11-11     | v9.0                    |
-| Shell: ✅       | v10.0            | 2025-11-11     | v10.0                   |
-| Kafka: ❗       | v10.0            | 2025-11-11     | v9.0                    |
-| Claude Code: ✅ | v10.0            | 2025-11-11     | v10.0                   |
+| Redis: ✅       | v11.0            | 2026-11-10     | v10.0                   |
+| Interpreter: ✅ | v11.0            | 2026-11-10     | v9.0                    |
+| Git: ✅         | v11.0            | 2026-11-10     | v9.0                    |
+| Sqlite: ✅      | v11.0            | 2026-11-10     | v9.0                    |
+| DNS server: ✅  | v11.0            | 2026-11-10     | v9.0                    |
+| HTTP server: ✅ | v11.0            | 2026-11-10     | v9.0                    |
+| Bittorrent: ✅  | v11.0            | 2026-11-10     | v9.0                    |
+| Grep: ✅        | v11.0            | 2026-11-10     | v9.0                    |
+| Shell: ✅       | v11.0            | 2026-11-10     | v10.0                   |
+| Kafka: ✅       | v11.0            | 2026-11-10     | v9.0                    |
+| Claude Code: ✅ | v11.0            | 2026-11-10     | v10.0                   |
 
 ### [Elixir](https://app.codecrafters.io/tracks/elixir)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
