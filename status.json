@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T00:35:50+00:00",
+  "generated_at": "2026-11-12T00:37:00+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -26,8 +26,8 @@
       "released_at": "2026-10-30"
     },
     "dart": {
-      "latest": "3.13",
-      "released_at": "2026-10-22"
+      "latest": "3.14",
+      "released_at": "2026-11-04"
     },
     "dotnet": {
       "latest": "11.0",
@@ -715,9 +715,9 @@
       "course": "build-your-own-http-server",
       "buildpack": "dart",
       "current": "3.4",
-      "latest": "3.13",
-      "released_at": "2026-10-22",
-      "status": "BEHIND"
+      "latest": "3.14",
+      "released_at": "2026-11-04",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-http-server",
@@ -1171,9 +1171,9 @@
       "course": "build-your-own-redis",
       "buildpack": "dart",
       "current": "3.11",
-      "latest": "3.13",
-      "released_at": "2026-10-22",
-      "status": "BEHIND"
+      "latest": "3.14",
+      "released_at": "2026-11-04",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-redis",
@@ -1347,9 +1347,9 @@
       "course": "build-your-own-shell",
       "buildpack": "dart",
       "current": "3.11",
-      "latest": "3.13",
-      "released_at": "2026-10-22",
-      "status": "BEHIND"
+      "latest": "3.14",
+      "released_at": "2026-11-04",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-shell",
