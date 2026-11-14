@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T00:37:00+00:00",
+  "generated_at": "2026-11-14T00:34:47+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -23,7 +23,7 @@
     },
     "crystal": {
       "latest": "1.22",
-      "released_at": "2026-10-30"
+      "released_at": "2026-11-13"
     },
     "dart": {
       "latest": "3.14",
@@ -59,7 +59,7 @@
     },
     "nim": {
       "latest": "2.4",
-      "released_at": "2026-10-27"
+      "released_at": "2026-11-12"
     },
     "nodejs": {
       "latest": "26.0",
@@ -1005,7 +1005,7 @@
       "current": "6.0",
       "latest": "6.4",
       "released_at": "2026-10-30",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-interpreter",
@@ -1164,7 +1164,7 @@
       "buildpack": "crystal",
       "current": "1.1",
       "latest": "1.22",
-      "released_at": "2026-10-30",
+      "released_at": "2026-11-13",
       "status": "UP_TO_DATE"
     },
     {
@@ -1301,7 +1301,7 @@
       "current": "6.3",
       "latest": "6.4",
       "released_at": "2026-10-30",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-redis",
@@ -1605,7 +1605,7 @@
       "current": "5.7",
       "latest": "6.4",
       "released_at": "2026-10-30",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-sqlite",
