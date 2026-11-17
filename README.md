@@ -15,19 +15,19 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ## Supported Languages
 
 ### [Rust](https://app.codecrafters.io/tracks/rust)
-| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:----------------|:-----------------|:---------------|:------------------------|
-| Redis: ⚠️       | v1.99            | 2026-10-01     | v1.96                   |
-| Interpreter: ⚠️ | v1.99            | 2026-10-01     | v1.96                   |
-| Git: ⚠️         | v1.99            | 2026-10-01     | v1.96                   |
-| Sqlite: ⚠️      | v1.99            | 2026-10-01     | v1.96                   |
-| DNS server: ⚠️  | v1.99            | 2026-10-01     | v1.96                   |
-| HTTP server: ⚠️ | v1.99            | 2026-10-01     | v1.96                   |
-| Bittorrent: ⚠️  | v1.99            | 2026-10-01     | v1.96                   |
-| Grep: ⚠️        | v1.99            | 2026-10-01     | v1.96                   |
-| Shell: ⚠️       | v1.99            | 2026-10-01     | v1.96                   |
-| Kafka: ⚠️       | v1.99            | 2026-10-01     | v1.96                   |
-| Claude Code: ⚠️ | v1.99            | 2026-10-01     | v1.98                   |
+| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:---------------|:-----------------|:---------------|:------------------------|
+| Redis: ✅       | v1.100           | 2026-11-12     | v1.96                   |
+| Interpreter: ✅ | v1.100           | 2026-11-12     | v1.96                   |
+| Git: ✅         | v1.100           | 2026-11-12     | v1.96                   |
+| Sqlite: ✅      | v1.100           | 2026-11-12     | v1.96                   |
+| DNS server: ✅  | v1.100           | 2026-11-12     | v1.96                   |
+| HTTP server: ✅ | v1.100           | 2026-11-12     | v1.96                   |
+| Bittorrent: ✅  | v1.100           | 2026-11-12     | v1.96                   |
+| Grep: ✅        | v1.100           | 2026-11-12     | v1.96                   |
+| Shell: ✅       | v1.100           | 2026-11-12     | v1.96                   |
+| Kafka: ✅       | v1.100           | 2026-11-12     | v1.96                   |
+| Claude Code: ✅ | v1.100           | 2026-11-12     | v1.98                   |
 
 ### [Go](https://app.codecrafters.io/tracks/go)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
@@ -377,7 +377,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Zig](https://app.codecrafters.io/tracks/zig)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v0.17            | 2026-11-02     | v0.16                   |
+| Redis: ⚠️      | v0.17            | 2026-11-02     | v0.16                   |
 | Interpreter: ✅ | v0.17            | 2026-11-02     | v0.17                   |
 | Git: ✅         | v0.17            | 2026-11-02     | v0.17                   |
 | Sqlite: ✅      | v0.17            | 2026-11-02     | v0.17                   |
