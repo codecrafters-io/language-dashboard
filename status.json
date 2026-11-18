@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T00:37:10+00:00",
+  "generated_at": "2026-11-18T00:37:48+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -27,7 +27,7 @@
     },
     "dart": {
       "latest": "3.14",
-      "released_at": "2026-11-04"
+      "released_at": "2026-11-17"
     },
     "dotnet": {
       "latest": "11.0",
@@ -349,7 +349,7 @@
       "current": "1.26",
       "latest": "1.27",
       "released_at": "2026-08-19",
-      "status": "BEHIND"
+      "status": "OUTDATED"
     },
     {
       "course": "build-your-own-dns-server",
@@ -716,7 +716,7 @@
       "buildpack": "dart",
       "current": "3.4",
       "latest": "3.14",
-      "released_at": "2026-11-04",
+      "released_at": "2026-11-17",
       "status": "UP_TO_DATE"
     },
     {
@@ -1172,7 +1172,7 @@
       "buildpack": "dart",
       "current": "3.11",
       "latest": "3.14",
-      "released_at": "2026-11-04",
+      "released_at": "2026-11-17",
       "status": "UP_TO_DATE"
     },
     {
@@ -1348,7 +1348,7 @@
       "buildpack": "dart",
       "current": "3.11",
       "latest": "3.14",
-      "released_at": "2026-11-04",
+      "released_at": "2026-11-17",
       "status": "UP_TO_DATE"
     },
     {

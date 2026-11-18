@@ -36,7 +36,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Interpreter: ✅ | v1.27            | 2026-08-19     | v1.27                   |
 | Git: ✅         | v1.27            | 2026-08-19     | v1.27                   |
 | Sqlite: ✅      | v1.27            | 2026-08-19     | v1.27                   |
-| DNS server: ⚠️ | v1.27            | 2026-08-19     | v1.26                   |
+| DNS server: ❗  | v1.27            | 2026-08-19     | v1.26                   |
 | HTTP server: ✅ | v1.27            | 2026-08-19     | v1.27                   |
 | Bittorrent: ✅  | v1.27            | 2026-08-19     | v1.27                   |
 | Grep: ✅        | v1.27            | 2026-08-19     | v1.27                   |
@@ -137,17 +137,17 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Dart](https://app.codecrafters.io/tracks/dart)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v3.14            | 2026-11-04     | v3.11                   |
-| HTTP server: ✅ | v3.14            | 2026-11-04     | v3.4                    |
-| Shell: ✅       | v3.14            | 2026-11-04     | v3.11                   |
-| Interpreter: ❌ | v3.14            | 2026-11-04     | -                       |
-| Git: ❌         | v3.14            | 2026-11-04     | -                       |
-| Sqlite: ❌      | v3.14            | 2026-11-04     | -                       |
-| DNS server: ❌  | v3.14            | 2026-11-04     | -                       |
-| Bittorrent: ❌  | v3.14            | 2026-11-04     | -                       |
-| Grep: ❌        | v3.14            | 2026-11-04     | -                       |
-| Kafka: ❌       | v3.14            | 2026-11-04     | -                       |
-| Claude Code: ❌ | v3.14            | 2026-11-04     | -                       |
+| Redis: ✅       | v3.14            | 2026-11-17     | v3.11                   |
+| HTTP server: ✅ | v3.14            | 2026-11-17     | v3.4                    |
+| Shell: ✅       | v3.14            | 2026-11-17     | v3.11                   |
+| Interpreter: ❌ | v3.14            | 2026-11-17     | -                       |
+| Git: ❌         | v3.14            | 2026-11-17     | -                       |
+| Sqlite: ❌      | v3.14            | 2026-11-17     | -                       |
+| DNS server: ❌  | v3.14            | 2026-11-17     | -                       |
+| Bittorrent: ❌  | v3.14            | 2026-11-17     | -                       |
+| Grep: ❌        | v3.14            | 2026-11-17     | -                       |
+| Kafka: ❌       | v3.14            | 2026-11-17     | -                       |
+| Claude Code: ❌ | v3.14            | 2026-11-17     | -                       |
 
 ### [C#](https://app.codecrafters.io/tracks/dotnet)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
