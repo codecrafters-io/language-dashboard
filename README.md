@@ -92,17 +92,17 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 ### [Clojure](https://app.codecrafters.io/tracks/clojure)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v1.12            | 2026-09-02     | v1.12                   |
-| Interpreter: ✅ | v1.12            | 2026-09-02     | v1.12                   |
-| Sqlite: ✅      | v1.12            | 2026-09-02     | v1.12                   |
-| HTTP server: ✅ | v1.12            | 2026-09-02     | v1.12                   |
-| Git: ❌         | v1.12            | 2026-09-02     | -                       |
-| DNS server: ❌  | v1.12            | 2026-09-02     | -                       |
-| Bittorrent: ❌  | v1.12            | 2026-09-02     | -                       |
-| Grep: ❌        | v1.12            | 2026-09-02     | -                       |
-| Shell: ❌       | v1.12            | 2026-09-02     | -                       |
-| Kafka: ❌       | v1.12            | 2026-09-02     | -                       |
-| Claude Code: ❌ | v1.12            | 2026-09-02     | -                       |
+| Redis: ✅       | v1.12            | 2026-11-18     | v1.12                   |
+| Interpreter: ✅ | v1.12            | 2026-11-18     | v1.12                   |
+| Sqlite: ✅      | v1.12            | 2026-11-18     | v1.12                   |
+| HTTP server: ✅ | v1.12            | 2026-11-18     | v1.12                   |
+| Git: ❌         | v1.12            | 2026-11-18     | -                       |
+| DNS server: ❌  | v1.12            | 2026-11-18     | -                       |
+| Bittorrent: ❌  | v1.12            | 2026-11-18     | -                       |
+| Grep: ❌        | v1.12            | 2026-11-18     | -                       |
+| Shell: ❌       | v1.12            | 2026-11-18     | -                       |
+| Kafka: ❌       | v1.12            | 2026-11-18     | -                       |
+| Claude Code: ❌ | v1.12            | 2026-11-18     | -                       |
 
 ### [C++](https://app.codecrafters.io/tracks/cpp)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |

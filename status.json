@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T00:37:48+00:00",
+  "generated_at": "2026-11-19T00:37:47+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -15,7 +15,7 @@
     },
     "clojure": {
       "latest": "1.12",
-      "released_at": "2026-09-02"
+      "released_at": "2026-11-18"
     },
     "cpp": {
       "latest": "23.0",
@@ -700,7 +700,7 @@
       "buildpack": "clojure",
       "current": "1.12",
       "latest": "1.12",
-      "released_at": "2026-09-02",
+      "released_at": "2026-11-18",
       "status": "UP_TO_DATE"
     },
     {
@@ -868,7 +868,7 @@
       "buildpack": "clojure",
       "current": "1.12",
       "latest": "1.12",
-      "released_at": "2026-09-02",
+      "released_at": "2026-11-18",
       "status": "UP_TO_DATE"
     },
     {
@@ -1148,7 +1148,7 @@
       "buildpack": "clojure",
       "current": "1.12",
       "latest": "1.12",
-      "released_at": "2026-09-02",
+      "released_at": "2026-11-18",
       "status": "UP_TO_DATE"
     },
     {
@@ -1500,7 +1500,7 @@
       "buildpack": "clojure",
       "current": "1.12",
       "latest": "1.12",
-      "released_at": "2026-09-02",
+      "released_at": "2026-11-18",
       "status": "UP_TO_DATE"
     },
     {
