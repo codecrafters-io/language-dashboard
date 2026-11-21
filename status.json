@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T00:34:47+00:00",
+  "generated_at": "2026-11-21T00:35:31+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -74,8 +74,8 @@
       "released_at": "2026-04-03"
     },
     "php": {
-      "latest": "8.5",
-      "released_at": "2025-11-20"
+      "latest": "8.6",
+      "released_at": "2026-11-19"
     },
     "python": {
       "latest": "3.15",
@@ -95,7 +95,7 @@
     },
     "swift": {
       "latest": "6.4",
-      "released_at": "2026-10-30"
+      "released_at": "2026-11-20"
     },
     "zig": {
       "latest": "0.17",
@@ -379,8 +379,8 @@
       "course": "build-your-own-dns-server",
       "buildpack": "php",
       "current": "8.5",
-      "latest": "8.5",
-      "released_at": "2025-11-20",
+      "latest": "8.6",
+      "released_at": "2026-11-19",
       "status": "UP_TO_DATE"
     },
     {
@@ -515,8 +515,8 @@
       "course": "build-your-own-git",
       "buildpack": "php",
       "current": "8.5",
-      "latest": "8.5",
-      "released_at": "2025-11-20",
+      "latest": "8.6",
+      "released_at": "2026-11-19",
       "status": "UP_TO_DATE"
     },
     {
@@ -643,8 +643,8 @@
       "course": "build-your-own-grep",
       "buildpack": "php",
       "current": "8.5",
-      "latest": "8.5",
-      "released_at": "2025-11-20",
+      "latest": "8.6",
+      "released_at": "2026-11-19",
       "status": "UP_TO_DATE"
     },
     {
@@ -803,8 +803,8 @@
       "course": "build-your-own-http-server",
       "buildpack": "php",
       "current": "8.5",
-      "latest": "8.5",
-      "released_at": "2025-11-20",
+      "latest": "8.6",
+      "released_at": "2026-11-19",
       "status": "UP_TO_DATE"
     },
     {
@@ -963,8 +963,8 @@
       "course": "build-your-own-interpreter",
       "buildpack": "php",
       "current": "8.5",
-      "latest": "8.5",
-      "released_at": "2025-11-20",
+      "latest": "8.6",
+      "released_at": "2026-11-19",
       "status": "UP_TO_DATE"
     },
     {
@@ -1004,8 +1004,8 @@
       "buildpack": "swift",
       "current": "6.0",
       "latest": "6.4",
-      "released_at": "2026-10-30",
-      "status": "BEHIND"
+      "released_at": "2026-11-20",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-interpreter",
@@ -1259,8 +1259,8 @@
       "course": "build-your-own-redis",
       "buildpack": "php",
       "current": "8.5",
-      "latest": "8.5",
-      "released_at": "2025-11-20",
+      "latest": "8.6",
+      "released_at": "2026-11-19",
       "status": "UP_TO_DATE"
     },
     {
@@ -1300,8 +1300,8 @@
       "buildpack": "swift",
       "current": "6.3",
       "latest": "6.4",
-      "released_at": "2026-10-30",
-      "status": "BEHIND"
+      "released_at": "2026-11-20",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-redis",
@@ -1435,8 +1435,8 @@
       "course": "build-your-own-shell",
       "buildpack": "php",
       "current": "8.5",
-      "latest": "8.5",
-      "released_at": "2025-11-20",
+      "latest": "8.6",
+      "released_at": "2026-11-19",
       "status": "UP_TO_DATE"
     },
     {
@@ -1571,8 +1571,8 @@
       "course": "build-your-own-sqlite",
       "buildpack": "php",
       "current": "8.5",
-      "latest": "8.5",
-      "released_at": "2025-11-20",
+      "latest": "8.6",
+      "released_at": "2026-11-19",
       "status": "UP_TO_DATE"
     },
     {
@@ -1604,8 +1604,8 @@
       "buildpack": "swift",
       "current": "5.7",
       "latest": "6.4",
-      "released_at": "2026-10-30",
-      "status": "BEHIND"
+      "released_at": "2026-11-20",
+      "status": "UP_TO_DATE"
     },
     {
       "course": "build-your-own-sqlite",
