@@ -149,7 +149,7 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Kafka: ❌       | v3.14            | 2026-11-17     | -                       |
 | Claude Code: ❌ | v3.14            | 2026-11-17     | -                       |
 
-### [C#](https://app.codecrafters.io/tracks/dotnet)
+### [C#](https://app.codecrafters.io/tracks/csharp)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
 |:---------------|:-----------------|:---------------|:------------------------|
 | Redis: ✅       | v11.0            | 2026-11-10     | v10.0                   |
