@@ -150,19 +150,19 @@ Checkout codecrafters.io for more information on the challenges and how to get s
 | Claude Code: ❌ | v3.14            | 2026-11-17     | -                       |
 
 ### [C#](https://app.codecrafters.io/tracks/dotnet)
-| Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
-|:---------------|:-----------------|:---------------|:------------------------|
-| Redis: ✅       | v11.0            | 2026-11-10     | v10.0                   |
-| Interpreter: ✅ | v11.0            | 2026-11-10     | v9.0                    |
-| Git: ✅         | v11.0            | 2026-11-10     | v9.0                    |
-| Sqlite: ✅      | v11.0            | 2026-11-10     | v9.0                    |
-| DNS server: ✅  | v11.0            | 2026-11-10     | v9.0                    |
-| HTTP server: ✅ | v11.0            | 2026-11-10     | v9.0                    |
-| Bittorrent: ✅  | v11.0            | 2026-11-10     | v9.0                    |
-| Grep: ✅        | v11.0            | 2026-11-10     | v9.0                    |
-| Shell: ✅       | v11.0            | 2026-11-10     | v10.0                   |
-| Kafka: ✅       | v11.0            | 2026-11-10     | v9.0                    |
-| Claude Code: ✅ | v11.0            | 2026-11-10     | v10.0                   |
+| Challenge       | Latest Release   | Release Date   | CodeCrafter's Version   |
+|:----------------|:-----------------|:---------------|:------------------------|
+| Redis: ⚠️       | v11.0            | 2026-11-10     | v10.0                   |
+| Interpreter: ⚠️ | v11.0            | 2026-11-10     | v9.0                    |
+| Git: ⚠️         | v11.0            | 2026-11-10     | v9.0                    |
+| Sqlite: ⚠️      | v11.0            | 2026-11-10     | v9.0                    |
+| DNS server: ⚠️  | v11.0            | 2026-11-10     | v9.0                    |
+| HTTP server: ⚠️ | v11.0            | 2026-11-10     | v9.0                    |
+| Bittorrent: ⚠️  | v11.0            | 2026-11-10     | v9.0                    |
+| Grep: ⚠️        | v11.0            | 2026-11-10     | v9.0                    |
+| Shell: ⚠️       | v11.0            | 2026-11-10     | v10.0                   |
+| Kafka: ⚠️       | v11.0            | 2026-11-10     | v9.0                    |
+| Claude Code: ⚠️ | v11.0            | 2026-11-10     | v10.0                   |
 
 ### [Elixir](https://app.codecrafters.io/tracks/elixir)
 | Challenge      | Latest Release   | Release Date   | CodeCrafter's Version   |
