@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T00:37:25+00:00",
+  "generated_at": "2026-11-27T00:36:44+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -205,7 +205,7 @@
       "current": "1.96",
       "latest": "1.100",
       "released_at": "2026-11-12",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-bittorrent",
@@ -293,7 +293,7 @@
       "current": "1.98",
       "latest": "1.100",
       "released_at": "2026-11-12",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-claude-code",
@@ -405,7 +405,7 @@
       "current": "1.96",
       "latest": "1.100",
       "released_at": "2026-11-12",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-dns-server",
@@ -541,7 +541,7 @@
       "current": "1.96",
       "latest": "1.100",
       "released_at": "2026-11-12",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-git",
@@ -669,7 +669,7 @@
       "current": "1.96",
       "latest": "1.100",
       "released_at": "2026-11-12",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-grep",
@@ -829,7 +829,7 @@
       "current": "1.96",
       "latest": "1.100",
       "released_at": "2026-11-12",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-http-server",
@@ -989,7 +989,7 @@
       "current": "1.96",
       "latest": "1.100",
       "released_at": "2026-11-12",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-interpreter",
@@ -1109,7 +1109,7 @@
       "current": "1.96",
       "latest": "1.100",
       "released_at": "2026-11-12",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-kafka",
@@ -1285,7 +1285,7 @@
       "current": "1.96",
       "latest": "1.100",
       "released_at": "2026-11-12",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-redis",
@@ -1461,7 +1461,7 @@
       "current": "1.96",
       "latest": "1.100",
       "released_at": "2026-11-12",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-shell",
@@ -1597,7 +1597,7 @@
       "current": "1.96",
       "latest": "1.100",
       "released_at": "2026-11-12",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-sqlite",
