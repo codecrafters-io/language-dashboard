@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T00:36:44+00:00",
+  "generated_at": "2026-11-28T00:35:26+00:00",
   "languages": {
     "ada": {
       "latest": "2.1",
@@ -1165,7 +1165,7 @@
       "current": "1.1",
       "latest": "1.22",
       "released_at": "2026-11-13",
-      "status": "UP_TO_DATE"
+      "status": "BEHIND"
     },
     {
       "course": "build-your-own-redis",
